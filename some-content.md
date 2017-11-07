@@ -21,3 +21,11 @@ Een lijstje
 * _cursief_
 
 * onderlijnd
+
+1. een
+
+2. twee
+
+3. drie
+
+4. vier
