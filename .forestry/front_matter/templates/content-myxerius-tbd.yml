@@ -1,5 +1,6 @@
 ---
 pages:
+- isthishtml.md
 - some-content.md
 - some_page.md
 hide_body: false
