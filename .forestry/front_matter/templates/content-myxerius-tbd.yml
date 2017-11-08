@@ -1,5 +1,6 @@
 ---
 pages:
+- some_page.md
 - some-content.md
 hide_body: false
 fields: []
