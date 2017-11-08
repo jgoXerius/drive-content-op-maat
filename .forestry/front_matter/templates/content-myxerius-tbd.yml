@@ -4,4 +4,7 @@ pages:
 - some-content.md
 - some_page.md
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: tekstveld
+  label: tekstveld
