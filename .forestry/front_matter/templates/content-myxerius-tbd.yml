@@ -1,8 +1,8 @@
 ---
 pages:
-- isthishtml.md
-- some-content.md
 - some_page.md
+- some-content.md
+- isthishtml.md
 hide_body: false
 fields:
 - type: text
