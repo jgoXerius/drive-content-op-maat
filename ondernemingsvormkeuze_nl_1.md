@@ -2,6 +2,6 @@
 title: Keuze ondernemingsvorm (NL) - Eenmanszaak
 date: 2017-11-07 23:43:33 +0000
 ---
-# Title
+# Eenmanszaak
 
-Nog geen **content** voorzien. Eenmanszaak
+Je selecteerde een eenmanszaak!
