@@ -6,6 +6,6 @@ date: 2017-11-07 23:43:33 +0000
 
 Hier komt nog meer content over de keuze van een eenmanszaak/vennootschap
 
-Meer links
+Meer [links](http://www.google.be)
 
-* [http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/](Zelfstandige worden in eenmanszaak of vennootschap? De voor- en nadelen op een rij)
+* [http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/](http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/ "Voor en nadelen op een rij")
