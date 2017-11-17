@@ -3,6 +3,7 @@ title: Verklarende uitleg kostenplaat (NL)
 date: 2017-11-07 23:43:33 +0000
 ---
 ## Enkele begrippen
+
 kort toegelicht en toegepast op een concreet project (kapperszaak)_
 
 * Omzet:
@@ -35,3 +36,5 @@ Directe en variabele kosten worden vaak als synoniemen gebruikt let op bv copies
 #### Meer weten over enkele belangrijke financiële aspecten van je project:
 
 [http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters](http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters "http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters")
+
+TESTTEST
