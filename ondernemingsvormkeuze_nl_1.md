@@ -7,5 +7,3 @@ date: 2017-11-07 23:43:33 +0000
 Meer info over een eenmanszaak vind je hier
 
 * [Xerius.be ](http://www.xerius.be)
-
-Steven K edited this ;-) Voorbereiding Demo
