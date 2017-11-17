@@ -12,5 +12,3 @@ Nog geen **content** voorzien.  Klik [hier](https://nl.wikipedia.org/wiki/Hoofdp
 | --- | --- |
 | Content from cell 1 | Content from cell 2 |
 | Content in the first column | Content in the second column. |
-
-TESTST
