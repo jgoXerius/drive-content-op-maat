@@ -36,5 +36,3 @@ Directe en variabele kosten worden vaak als synoniemen gebruikt let op bv copies
 #### Meer weten over enkele belangrijke financiële aspecten van je project:
 
 [http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters](http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters "http://www.xerius.be/blog/3-financiele-struikelblokken-voor-starters")
-
-TESTTEST
