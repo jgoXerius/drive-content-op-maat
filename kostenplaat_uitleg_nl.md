@@ -6,6 +6,8 @@ date: 2017-11-07 23:43:33 +0000
 
 kort toegelicht en toegepast op een concreet project (kapperszaak)_
 
+TESTESTTESTESTESTESTTESTTEST
+
 * Omzet:
 
   Totaal van alle inkomsten uit je project ( bedrag zonder de btw)  
