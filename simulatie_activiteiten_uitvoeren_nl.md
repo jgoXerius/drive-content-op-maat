@@ -1,7 +1,7 @@
 ---
-title: Simulatie activiteiten uitvoeren (nl)
-date: 2017-11-24 10:52 +0000
+title: Simulatie activiteiten uitvoeren (NL)
+date: 2017-11-24 00:00:00 +0000
 ---
-# Content-zone:  Simulatie activiteiten uitvoeren (nl)
+# Content-zone:  Simulatie activiteiten uitvoeren (NL)
 
 Nog geen **content** voorzien
