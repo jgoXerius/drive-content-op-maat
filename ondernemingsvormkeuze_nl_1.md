@@ -2,7 +2,7 @@
 title: Keuze ondernemingsvorm (NL) - Eenmanszaak
 date: 2017-11-07 23:43:33 +0000
 ---
-## Een eenmanszaak. Wat houdt dat in?
+## Een eenmanszaak: wat houdt dat in?
 
 Je hebt de [pro’s en contra’s](http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/) naast elkaar gelegd, en je hebt (voorlopig) gekozen voor een eenmanszaak. Goed bezig! Dat wil niet zeggen dat je geen vragen meer hebt. Hier vind je wellicht enkele antwoorden – of inspiratie voor een goed gesprek met je boekhouder.
 
