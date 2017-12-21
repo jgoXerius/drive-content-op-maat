@@ -4,7 +4,7 @@ date: 2017-12-21 00:00:00 +0000
 ---
 <div class="box">
     <div class="box-header">
-        <h2>Informatie en tips</h2>
+        <h2>Informatie en tips (NL)</h2>
     </div>
     <div class="box-body">
         <ul class="list">
