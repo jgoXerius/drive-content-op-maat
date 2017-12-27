@@ -1,5 +1,5 @@
 ---
-title: FINANCIEEL PLAATJE - Brutto/Netto Schema (NL) - Vennootschap
+title: FINANCIEEL PLAATJE - Brutto - Netto Schema Vennotschap (NL)
 date: 2017-12-27 00:00:00 +0000
 ---
 <div class="box">
