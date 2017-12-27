@@ -1,0 +1,7 @@
+<div class="box">
+    <div class="box-body" style="padding-top:20px;">
+        <a href="" data-toggle="modal" data-target="#modal-image">
+            <img src="assets/img/wat-hou-ik-eraan-over.jpg" width="100%">
+        </a>
+    </div>
+</div>
