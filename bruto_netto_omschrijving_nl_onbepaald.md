@@ -1,3 +1,7 @@
+---
+title: FINANCIEEL PLAATJE - Brutto - Netto Omscrijving Onbepaald (NL)
+date: 2017-12-27 00:00:00 +0000
+---
 <div class="box">
     <div class="box-header">
         <h3>Hoe bereken je wat je overhoudt aan je zelfstandige activiteit?
