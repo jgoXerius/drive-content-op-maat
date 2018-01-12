@@ -1,7 +1,12 @@
 ---
-title: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (NL)
+title: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (FR)
 date: 2018-01-12 00:00:00 +0000
 ---
-# Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (NL)
-
-Nog geen **content** voorzien
+# Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (FR)
+<div class="box contentzone" style="margin-top:25px;">
+    <div class="box-header">
+        <h2>Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (FR)</h2>
+    </div>
+    <div class="box-body">
+    </div>
+</div>
