@@ -8,4 +8,4 @@ De totale brutomarge bekom je via volgende vermenigvuldiging:
 
 Totale brutomarge = Marge per product of dienst x Totaal aantal verkochte producten of diensten
 
-Lees je graag wat meer over [het belang van een correcte marge](http://www.xerius.be/blog/plak-de-juiste-prijs-op-je-product-en-dienst )?
+Klik even door als je graag wat meer leest over [het belang van een correcte marge](http://www.xerius.be/blog/plak-de-juiste-prijs-op-je-product-en-dienst ).
