@@ -10,7 +10,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootsc
 
 Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
-<div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Omzet (bruto)</h4> <p>- Beroepskosten (bv. sociale bijdragen, vapz,...) <br>- Investeringen (afschrijving van computer, machine,...) <br></p> <hr> <h4>= Resultaat voor belastingen</h4> <p>- Personenbelasting</p> <hr> <h4>= Winst</h4> </div> </div> </div>
+<div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Omzet (bruto)</h4> <p>- Beroepskosten (bv. sociale bijdragen, vapz,...) <br>- Investeringen (afschrijving van computer, machine,...) <br></p> <hr> <h4>= Resultaat voor belastingen</h4> <p>- Personenbelasting</p> <hr> <h4>= Winst</h4> </div> </div>
 
 ## Heading 2
 
