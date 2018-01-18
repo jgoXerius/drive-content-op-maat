@@ -1,9 +1,9 @@
 ---
-title: FINANCIEEL PLAATJE - ROLLEN (NL)
+title: FINANCIEEL PLAATJE - INFORMATIE EN TIPS (NL)
 date: 2017-12-21 00:00:00 +0000
 ---
-## ROLLEN
+## INFORMATIE EN TIPS
 
-Algemeen waar moet je zijn voor wat: rol xerius, rol boekhouder, rol juridische partner?, rol notaris, ...
-
-belang van de boekhouder: deze oefeningen zijn voorbereiding op gesprek met boekhouder -> vragen stel ze gerust aan de boekhouder (of lees de content of contacteer een xerius medewerker)"
+* [http://www.xerius.be/blog/aftrekbare-kosten/](http://www.xerius.be/blog/aftrekbare-kosten/ "http://www.xerius.be/blog/aftrekbare-kosten/")
+* [http://www.xerius.be/blog/kosten-boekhouder/](http://www.xerius.be/blog/kosten-boekhouder/ "http://www.xerius.be/blog/kosten-boekhouder/")
+* [https://www.sdworx.be/nl-be/sd-worx-r-d/blog-new/verlonen/eerste-aanwerving](https://www.sdworx.be/nl-be/sd-worx-r-d/blog-new/verlonen/eerste-aanwerving "https://www.sdworx.be/nl-be/sd-worx-r-d/blog-new/verlonen/eerste-aanwerving")
