@@ -2,7 +2,9 @@
 title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Onbepaald
 date: 2017-12-27 00:00:00 +0000
 ---
-<div class="box"> <div class="box-header"> <h3>Hoe bereken je wat je overhoudt aan je zelfstandige activiteit? <span class="sidenote">Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting . Afhankelijk van de inkomensschijf varieert het percentage tussen de 25 en de 50%. 
+<div class="box"> <div class="box-header"> <h3>Hoe bereken je wat je overhoudt aan je zelfstandige activiteit? <span class="sidenote">
+
+Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting . Afhankelijk van de inkomensschijf varieert het percentage tussen de 25 en de 50%. 
 
 Anders gezegd: Je personenbelasting wordt berekend op je netto beroepsinkomen. Je netto beroepsinkomen bekom je door je kosten af te trekken van je omzet. Alle uitgaven die verbonden zijn aan de uitoefening van je zelfstandige activiteit en aan je sociale vangnet (sociale bijdragen, pensioensparen,...) kun je aftrekken als kosten. 
 
