@@ -1,18 +1,11 @@
 ---
-title: FINANCIEEL PLAATJE - Levensstandaard Uitgaven (NL)
+title: FINANCIEEL PLAATJE - Levensstandaard Inkomsten (NL)
 date: 2017-12-27 00:00:00 +0000
 ---
-Uitgaven
+**Inkomsten**
 
-* Huur of terugbetaling hypothecaire lening
-* Water/gas/elektriciteit
-* Telefoon
-* Voeding
-* Kleding
-* Medische kosten
-* Hobby's
-* Vervoerskosten
-* Verzekeringspremies (brand, familiale, auto...)
+* Loon partner
+* Kinderbijslag
 * Alimentatievergoeding
-* Diverse taksen (milieu, onroerende voorheffing,...)
-* Andere
+* Inkomsten verhuur
+* Diverse inkomsten
