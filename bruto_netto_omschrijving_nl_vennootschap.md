@@ -2,8 +2,6 @@
 title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
 ---
-FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Vennootschap
-
 <div class="box"> <div class="box-header"> <h3>Hoe bereken je wat je overhoudt aan je zelfstandige activiteit? <span class="sidenote"> In een vennootschap zijn je persoonlijk vermogen en dat van de vennootschap gescheiden. Vanuit de vennootschap keer je jezelf een loon uit. In je personenbelasting wordt je  enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak waar je op het volledige inkomen van je onderneming belast wordt.
 
 Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennotschapwinst is onderworpen aan de vennootschapsbelasting.
