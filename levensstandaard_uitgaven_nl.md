@@ -2,7 +2,7 @@
 title: FINANCIEEL PLAATJE - Levensstandaard Uitgaven (NL)
 date: 2017-12-27 00:00:00 +0000
 ---
-Uitgaven (per maand)
+Uitgaven
 
 * Huur of terugbetaling hypothecaire lening
 * Water/gas/elektriciteit
@@ -14,5 +14,5 @@ Uitgaven (per maand)
 * Vervoerskosten
 * Verzekeringspremies (brand, familiale, auto...)
 * Alimentatievergoeding
-* Diverse taksen (milieu, onroerende voorheffing,...) 
+* Diverse taksen (milieu, onroerende voorheffing,...)
 * Andere
