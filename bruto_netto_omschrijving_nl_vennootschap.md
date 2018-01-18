@@ -7,3 +7,9 @@ date: 2017-12-27 00:00:00 +0000
 Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennotschapwinst is onderworpen aan de vennootschapsbelasting.
 
 Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.</span> </h3> </div> <div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Omzet (bruto)</h4> <p>- Beroepskosten (bv. sociale bijdragen, vapz,...) <br>- Investeringen (afschrijving van computer, machine,...) <br></p> <hr> <h4>= Resultaat voor belastingen</h4> <p>- Personenbelasting</p> <hr> <h4>= Winst</h4> </div> </div> </div>
+
+## Heading 2
+
+1. Test 1
+2. Test 2
+3. **Test 3**
