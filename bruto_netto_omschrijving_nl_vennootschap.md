@@ -16,9 +16,9 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
     <h3>Omzet (bruto)</h3>
     
-    <p>- Beroepskost (inclusief ondernemersloon)
+    <p>- Beroepskosten (inclusief ondernemersloon)
     
-    	<br>- Investering
+    	<br>- Investeringen
     
     </p>
     
