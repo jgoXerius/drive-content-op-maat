@@ -36,7 +36,7 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
 </div>
 
-<h4>Ik</h4>
+<h4>Jij</h4>
 
 <div class="grey-box">
 
@@ -46,6 +46,6 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
     
     <hr>
     
-    <h3>= Wat ik eraan overhoud</h3>
+    <h3>= Wat jij eraan overhoudt</h3>
 
 </div>
