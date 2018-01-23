@@ -1,22 +1,9 @@
 ---
-title: FINANCIEEL PLAATJE - INFO EN TIPS (NL)
+title: FINANCIEEL PLAATJE - ROLLEN (NL)
 date: 2017-12-21 00:00:00 +0000
 ---
-<div class="box">
-    <div class="box-header">
-        <h2>Informatie en tips (NL)</h2>
-    </div>
-    <div class="box-body">
-        <ul class="list">
-            <li>
-                <a href="http://www.xerius.be/blog/aftrekbare-kosten/" (popup)>http://www.xerius.be/blog/aftrekbare-kosten/</a>
-            </li>
-            <li>
-                <a href="http://www.xerius.be/blog/kosten-boekhouder/" (popup)>http://www.xerius.be/blog/kosten-boekhouder/</a>
-            </li>
-            <li>
-                <a href="https://www.sdworx.be/nl-be/sd-worx-r-d/blog-new/verlonen/eerste-aanwerving" (popup)>https://www.sdworx.be/nl-be/sd-worx-r-d/blog-new/verlonen/eerste-aanwerving</a>
-            </li>
-        </ul>
-    </div>
-</div>
+## JOUW HELPENDE HANDEN
+
+* Een boekhouder is een van de belangrijkste partners in jouw ondernemersverhaal. De oefeningen in dit luik helpen je bij de voorbereiding op je gesprek met je **boekhouder** of **accountant**. Je boekhouder kan nog een heel aantal zaken verduidelijken als je vragen hebt. Je kan deze oefening ook gebruiken als vertrekpunt om samen met je financieel raadgever een financieel plan op te maken.
+* **Xerius** helpt je met de administratieve verplichtingen die komen kijken bij de start van jouw zaak. We begeleiden jou door het hele opstartproces en maken je wegwijs in het bos van verplichtingen.  Het is onze missie om je te ondersteunen zodat jij jouw onderneming tot een succes kan maken.
+* Een **notaris** komt enkel in beeld bij het oprichten van bepaalde vennootschapsvormen, dus niet bij een eenmanszaak. Hij helpt je bij de oprichtingsformaliteiten van de vennootschap. Een **jurist** of **advocaat** kan helpen bij het nalezen van verkoopsvoorwaarden, verkoopovereenkomsten en andere contracten met partners.
