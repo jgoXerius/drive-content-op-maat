@@ -14,25 +14,25 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
 <div class="grey-box">
 
-	<h3>Omzet (bruto)</h3>
-
-	<p>- Beroepskost
-
-		<br>- Investering
-
-	</p>
-
-	<hr>
-
-	<h3>= Winst (bruto vennootschap)</h3>
-
-	<p>- Vennootschapsbelasting</p>
-
-	<hr>
-
-	<h3>= Winst (netto vennootschap)</h3>
-
-	<p>Wat vennootschap eraan over houdt</p>
+    <h3>Omzet (bruto)</h3>
+    
+    <p>- Beroepskost (inclusief ondernemersloon)
+    
+    	<br>- Investering
+    
+    </p>
+    
+    <hr>
+    
+    <h3>= Winst (bruto vennootschap)</h3>
+    
+    <p>- Vennootschapsbelasting</p>
+    
+    <hr>
+    
+    <h3>= Winst (netto vennootschap)</h3>
+    
+    <p>Wat vennootschap eraan over houdt</p>
 
 </div>
 
@@ -40,12 +40,12 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
 <div class="grey-box">
 
-	<h3>Ondernemersloon</h3>
-
-	<p>- Persoonsbelasting</p>
-
-	<hr>
-
-	<h3>= Wat ik eraan over hou</h3>
+    <h3>Ondernemersloon</h3>
+    
+    <p>- Persoonsbelasting</p>
+    
+    <hr>
+    
+    <h3>= Wat ik eraan over hou</h3>
 
 </div>
