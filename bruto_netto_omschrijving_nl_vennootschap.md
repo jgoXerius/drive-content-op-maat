@@ -8,7 +8,7 @@ In een vennootschap zijn je persoonlijk vermogen en dat van de vennootschap gesc
 
 Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennootschapwinst is onderworpen aan de vennootschapsbelasting.
 
-Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
+Hieronder tonen we je alvast waar je best rekening mee houdt bij je berekening.
 
 <h4>Vennootschap</h4>
 
