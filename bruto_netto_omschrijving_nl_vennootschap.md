@@ -32,7 +32,7 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
     
     <h3>= Winst (netto vennootschap)</h3>
     
-    <p>Wat vennootschap eraan over houdt</p>
+    <p>Wat vennootschap eraan overhoudt</p>
 
 </div>
 
@@ -46,6 +46,6 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
     
     <hr>
     
-    <h3>= Wat ik eraan over hou</h3>
+    <h3>= Wat ik eraan overhoud</h3>
 
 </div>
