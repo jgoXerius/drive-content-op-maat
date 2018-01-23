@@ -6,11 +6,11 @@ date: 2017-12-27 00:00:00 +0000
 
 In een vennootschap zijn je persoonlijk vermogen en dat van de vennootschap gescheiden. Vanuit de vennootschap keer je jezelf een loon uit. In je personenbelasting wordt je  enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak waar je op het volledige inkomen van je onderneming belast wordt.
 
-Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennotschapwinst is onderworpen aan de vennootschapsbelasting.
+Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennootschapwinst is onderworpen aan de vennootschapsbelasting.
 
 Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
-<h4>Venootschap</h4>
+<h4>Vennootschap</h4>
 
 <div class="grey-box">
 
@@ -24,15 +24,15 @@ Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
 
 	<hr>
 
-	<h3>= Winst (bruto venootschap)</h3>
+	<h3>= Winst (bruto vennootschap)</h3>
 
-	<p>- Venootschapsbelasting</p>
+	<p>- Vennootschapsbelasting</p>
 
 	<hr>
 
-	<h3>= Winst (netto venootschap)</h3>
+	<h3>= Winst (netto vennootschap)</h3>
 
-	<p>Wat venootschap eraan over houdt</p>
+	<p>Wat vennootschap eraan over houdt</p>
 
 </div>
 
