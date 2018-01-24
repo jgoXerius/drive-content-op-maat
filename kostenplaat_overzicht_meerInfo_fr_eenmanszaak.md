@@ -2,6 +2,6 @@
 title: Kostenplaat overzicht meer info (FR) - Eenmanszaak
 date: 2017-11-21 23:43:33 +0000
 ---
-# Content-zone: Kostenplaat overzicht meer info (fr)
+## Contentzone overzicht eenmanszaak (fr)
 
-Nog geen **content** voorzien - EenmansZaak
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet mattis leo non tempor. Curabitur odio quam, gravida nec quam et, tincidunt dictum nisl. Ut consequat sapien libero, ut pharetra enim tincidunt a. Etiam vel purus dignissim diam blandit fringilla.

@@ -8,44 +8,44 @@ In een vennootschap zijn je persoonlijk vermogen en dat van de vennootschap gesc
 
 Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. deze vennootschapwinst is onderworpen aan de vennootschapsbelasting.
 
-Hieronder tonen we je alvast waar je rekening moet mee houden bij je berekening.
+Hieronder tonen we je alvast waar je best rekening mee houdt bij je berekening.
 
 <h4>Vennootschap</h4>
 
 <div class="grey-box">
 
-	<h3>Omzet (bruto)</h3>
-
-	<p>- Beroepskost
-
-		<br>- Investering
-
-	</p>
-
-	<hr>
-
-	<h3>= Winst (bruto vennootschap)</h3>
-
-	<p>- Vennootschapsbelasting</p>
-
-	<hr>
-
-	<h3>= Winst (netto vennootschap)</h3>
-
-	<p>Wat vennootschap eraan over houdt</p>
+    <h3>Omzet (bruto)</h3>
+    
+    <p>- Beroepskosten (inclusief ondernemersloon)
+    
+    	<br>- Investeringen
+    
+    </p>
+    
+    <hr>
+    
+    <h3>= Winst (bruto vennootschap)</h3>
+    
+    <p>- Vennootschapsbelasting</p>
+    
+    <hr>
+    
+    <h3>= Winst (netto vennootschap)</h3>
+    
+    <p>Wat vennootschap eraan overhoudt</p>
 
 </div>
 
-<h4>Ik</h4>
+<h4>Jij</h4>
 
 <div class="grey-box">
 
-	<h3>Ondernemersloon</h3>
-
-	<p>- Persoonsbelasting</p>
-
-	<hr>
-
-	<h3>= Wat ik eraan over hou</h3>
+    <h3>Ondernemersloon</h3>
+    
+    <p>- Persoonsbelasting</p>
+    
+    <hr>
+    
+    <h3>= Wat jij eraan overhoudt</h3>
 
 </div>
