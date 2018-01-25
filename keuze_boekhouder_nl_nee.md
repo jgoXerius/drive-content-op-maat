@@ -8,7 +8,7 @@ Je hebt (nog) geen boekhouder. Dat wilt zeggen dat je je administratie zelf rege
 
 **Meer informatie** over waar je als ondernemer zoal aan moet denken als je zelf je boekhouding doet? Neem eens een kijkje in onze artikels hieronder.
 
-* Welke boekhoudkundige verplichtingen heb je?
+* [Welke boekhoudkundige verplichtingen heb je?](https://www.xerius.be/blog/wat-zijn-je-boekhoudkundige-verplichtingen)
 * [Een factuur opstellen, hoe doe je dat?]()
 * [Waar moet je aan denken bij je btw-aangiften?](http://www.xerius.be/blog/je-btw-aangifte-indienen-deze-checklist-bespaart-je-kopzorgen-en-misschien-wel-een-boete/)
 * [De belastingaangifte voor de zelfstandige, hoe werkt dat?]()
