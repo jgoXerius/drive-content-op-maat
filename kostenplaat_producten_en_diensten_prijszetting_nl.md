@@ -2,7 +2,7 @@
 title: Kostenplaat producten en diensten prijszetting (NL)
 date: 2018-01-05 16:11:00 +0000
 ---
-# Prijszetting versus omzet
+## Prijszetting versus omzet
 
 Het belang van een correcte **prijs** kan je moeilijk overschatten. Is je prijs te laag dan hou je te weinig over per product of dienst. Je marge is in dat geval te klein. En je zal veel producten moeten verkopen om het hoofd boven water te houden. Bij een te hoge prijs heb je weliswaar een grotere marge, je klanten zullen echter snel naar goedkopere alternatieven zoeken.
 
