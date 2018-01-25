@@ -10,10 +10,11 @@ Wij geven alvast wat **achtergrond** bij het maken van **jouw keuze**.
 
 Een boekhouder, wat doet die precies? En is dat verplicht?
 
-Je hebt een eenmanszaak. Is een boekhouder dan een overbodige luxe?
+Je hebt een eenmanszaak. [Is een boekhouder dan een overbodige luxe?](http://www.xerius.be/blog/boekhouding-eenmanszaak)
 
-Waarop moet je letten als je een boekhouder kiest?
+[Waarop moet je letten als je een boekhouder kiest?](http://www.xerius.be/blog/een-boekhouder-kiezen-waarop-moet-ik-letten/)
 
-Hoeveel gaat een boekhouder jou kosten?
+[Hoeveel gaat een boekhouder jou kosten?](http://www.xerius.be/blog/boekhouder-of-accountant)
 
-Is er een verschil tussen een boekhouder en een accountant?
+| --- |
+|    http://www.xerius.be/blog/boekhouder-of-accountant        |
