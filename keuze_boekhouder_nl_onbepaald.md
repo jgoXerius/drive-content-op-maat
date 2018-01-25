@@ -8,12 +8,8 @@ Een boekhouder onder de arm nemen of niet? Het is een vraag die elke startende o
 
 Wij geven je alvast wat **achtergrond** bij het maken van **jouw keuze**.
 
-Een boekhouder, wat doet die precies? En is dat verplicht?
-
-[Waarop moet je letten als je een boekhouder kiest?]()
-
-[Hoeveel gaat een boekhouder jou kosten?](http://www.xerius.be/blog/kosten-boekhouder/)
-
-Je hebt een eenmanszaak. [Is een boekhouder dan een overbodige luxe?](http://www.xerius.be/blog/boekhouding-eenmanszaak)
-
-[Is er een verschil tussen een boekhouder en een accountant?](http://www.xerius.be/blog/boekhouder-of-accountant)
+* Een boekhouder, wat doet die precies? En is dat verplicht?
+* [Waarop moet je letten als je een boekhouder kiest?]()
+* [Hoeveel gaat een boekhouder jou kosten?](http://www.xerius.be/blog/kosten-boekhouder/)
+* Je hebt een eenmanszaak. [Is een boekhouder dan een overbodige luxe?](http://www.xerius.be/blog/boekhouding-eenmanszaak)
+* [Is er een verschil tussen een boekhouder en een accountant?](http://www.xerius.be/blog/boekhouder-of-accountant)
