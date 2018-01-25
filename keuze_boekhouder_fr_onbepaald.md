@@ -2,7 +2,7 @@
 title: Keuze boekhouder (FR) - Onbepaald
 date: 2017-11-21 23:43:33 +0000
 ---
-## **Faire appel à un comptable ou pas ? Telle est la question**
+## Faire appel à un comptable ou pas ? Telle est la question
 
  
 
