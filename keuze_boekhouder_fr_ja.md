@@ -13,4 +13,4 @@ Réfléchir avec votre comptable ne peut néanmoins pas faire de mal. Nous vous 
 * [Pourquoi se faire aider pour remplir ses obligations comptables n’est-il pas un luxe superflu ?](http://blog.xerius.be/debutant/quelles-sont-vos-obligations-comptables)
 * [Combien un comptable vous coûtera-t-il ?](http://blog.xerius.be/debutant/combien-coute-un-comptable)
 * Vous rendez vos factures à votre comptable, mais[ comment établir vous-même une facture correcte ?]()
-* [Comment savoir si vous disposez d’un bon comptable ?](http://blog.xerius.be/debutant/choisir-un-comptable) Et que faire si vous n’en êtes pas satisfait ?
+* [Comment savoir si vous disposez d’un bon comptable ? Et que faire si vous n’en êtes pas satisfait ?](http://blog.xerius.be/debutant/choisir-un-comptable)
