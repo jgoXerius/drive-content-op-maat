@@ -6,7 +6,7 @@ date: 2017-11-21 23:43:33 +0000
 
 Een boekhouder onder de arm nemen of niet? Het is een vraag die elke startende ondernemer zich stelt. De ene ondernemer houdt de touwtjes liever zelf strek in handen, ook op fiscaal en administratief gebied. De andere concentreert zicht liever op wat hij echt graag doet, ondernemen.
 
-Wij geven je alvast wat achtergrond bij het maken van jouw keuze.
+Wij geven je alvast wat **achtergrond** bij het maken van **jouw keuze**.
 
 Een boekhouder, wat doet die precies? En is dat verplicht?
 
