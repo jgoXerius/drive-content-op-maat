@@ -4,9 +4,9 @@ date: 2017-11-21 23:43:33 +0000
 ---
 ## Wat kan een boekhouder voor jou betekenen?
 
-Je hebt al een boekhouder die je helpt bij jouw administratie. Top! Jouw project krijgt vorm.  **Meedenken** met je boekhouder kan echter nooit kwaad.
+Je hebt al een boekhouder die je helpt bij jouw administratie. Top! Jouw project krijgt vorm.  
 
-Wij geven je alvast wat **leesvoer** zodat je zelf helemaal mee bent.
+**Meedenken** met je boekhouder kan echter nooit kwaad. Wij geven je alvast wat **leesvoer** zodat je zelf helemaal mee bent.
 
 * [Waarom hulp geen overbodige luxe is om je boekhoudkundige verplichtingen na te komen.](https://www.xerius.be/blog/wat-zijn-je-boekhoudkundige-verplichtingen)
 * [Hoeveel gaat een boekhouder jou kosten?](http://www.xerius.be/blog/kosten-boekhouder/)
