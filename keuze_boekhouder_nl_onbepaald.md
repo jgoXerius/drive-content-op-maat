@@ -8,8 +8,8 @@ Het is een vraag die elke startende ondernemer zich stelt. Een boekhouder onder 
 
 Wij geven je alvast wat **achtergrond** bij het maken van **jouw keuze**.
 
-* [Een boekhouder, wat doet die precies? En is dat verplicht?](https://www.xerius.be/blog/wat-zijn-je-boekhoudkundige-verplichtingen)
+* [Welke boekhoudkundige verplichtingen heb je?](https://www.xerius.be/blog/wat-zijn-je-boekhoudkundige-verplichtingen)
+* [Een boekhouder, wat doet die precies? En is dat verplicht?](https://www.xerius.be/blog/boekhouder-of-accountant)
 * [Waarop moet je letten als je een boekhouder kiest?]()
 * [Hoeveel gaat een boekhouder jou kosten?](http://www.xerius.be/blog/kosten-boekhouder/)
 * Je hebt een eenmanszaak. [Is een boekhouder dan een overbodige luxe?](http://www.xerius.be/blog/boekhouding-eenmanszaak)
-* [Is er een verschil tussen een boekhouder en een accountant?](http://www.xerius.be/blog/boekhouder-of-accountant)
