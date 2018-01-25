@@ -4,7 +4,7 @@ date: 2017-11-21 23:43:33 +0000
 ---
 ## Geen boekhouder, de juiste keuze?
 
-Je hebt (nog) geen boekhouder. Dat wilt zeggen dat je je administratie zelf regelt. Je zorgt er zelf voor dat je papierwerk in orde is.
+Je hebt (nog) geen boekhouder. Dat wilt zeggen dat er zelf voor zorgt dat je papierwerk in orde is.
 
 **Meer informatie** over waar je als ondernemer zoal aan moet denken als je zelf je boekhouding doet? Neem eens een kijkje in onze artikels hieronder.
 
