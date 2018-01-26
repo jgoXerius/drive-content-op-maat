@@ -6,7 +6,7 @@ date: 2017-11-21 23:43:33 +0000
 
 Vous n’avez pas (encore) de comptable. Vous vous occuperez dès lors de toutes vos obligations administratives.
 
-Vous souhaitez obtenir **davantage d’informations** à propos des éléments à prendre en compte si vous tenez votre comptabilité vous-même ? N’hésitez dès lors pas à consulter nos articles ci-dessous.
+Vous souhaitez obtenir **davantage d’informations** à propos des éléments à prendre en compte si vous tenez votre comptabilité vous-même ? N’hésitez pas à consulter nos articles ci-dessous.
 
 * [Quelles sont vos obligations comptables ?](https://blog.xerius.be/debutant/quelles-sont-vos-obligations-comptables)
 * [Comment établir une facture ?](https://blog.xerius.be/debutant/etablir-une-facture)
