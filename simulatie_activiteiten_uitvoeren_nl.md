@@ -2,11 +2,9 @@
 title: Simulatie activiteiten uitvoeren (NL)
 date: 2017-11-24 00:00:00 +0000
 ---
-## Wat mag en wat kan?
+## Activiteiten - titel
 
-De eerste vraag overal en altijd: wat doe je?
-
-Jouw project valt of staat met je activiteit. Alles draait om wat je doet en hoe je het doet.
+Jouw project staat of valt of staat met je activiteit. Alles draait om wat je doet en hoe je het doet.
 
 Maar er zijn een aantal verplichtingen waaraan je moet voldoen voordat je van start kunt gaan.
 
