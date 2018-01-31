@@ -4,7 +4,7 @@ date: 2017-11-24 00:00:00 +0000
 ---
 ## Activiteiten - titel
 
-Jouw project staat of valt of staat met je activiteit. Alles draait om wat je doet en hoe je het doet.
+Jouw project staat of valt met je activiteit. Alles draait om wat je doet en hoe je het doet.
 
 Maar er zijn een aantal verplichtingen waaraan je moet voldoen voordat je van start kunt gaan.
 
