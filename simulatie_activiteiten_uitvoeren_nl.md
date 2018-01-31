@@ -17,7 +17,7 @@ Misschien dat onze **tips** je wel op weg helpen:
 * [**Basiskennis bedrijfsbeheer **](https://www.xerius.be/zelfstandigen/start-eigen-zaak/basiskennis-bedrijfsbeheer/)en [**beroepskennis**](https://www.xerius.be/zelfstandigen/start-eigen-zaak/beroepskennis/): moet ik dat nog bewijzen?
 * [Heb je voor jouw activiteiten een **btw-nummer** nodig?](https://www.xerius.be/btw-voor-starters-wat-moet-je-weten)
 
-Misschien dat deze voorbeelden jou ook **inspireren**.
+Misschien dat deze **voorbeelden** jou ook **inspireren**.
 
 * [Welke vergunningen heb je nodig om een foodtruck te starten?](https://www.xerius.be/blog/welke-vergunningen-heb-je-nodig-om-een-food-truck-te-beginnen)
 * [Freelancer, hoe begin je eraan?](https://www.xerius.be/blog/freelancer-worden-hoe-begin-je-eraan/)
