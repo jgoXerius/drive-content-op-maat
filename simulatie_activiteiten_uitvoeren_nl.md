@@ -4,9 +4,9 @@ date: 2017-11-24 00:00:00 +0000
 ---
 ## Het kloppende hart van je onderneming
 
-Jouw project staat of valt met je **activiteit**. Alles draait om wat je doet en hoe je het doet.
+Jouw project staat of valt met je **activiteiten**. Alles draait om wat je doet en hoe je het doet.
 
-Je denkt dus best goed na over hoe je met jouw activiteiten een bepaalde nood of vraag van je potentiële klanten gaat verhelpen.
+Goed nadenken over hoe je met jouw activiteiten een bepaalde nood of vraag van je potentiële klanten gaat verhelpen, loont dus zeker de moeite.
 
 Hou hierbij wel rekening met een aantal **administratieve verplichtingen** voor je van start kunt gaan.
 
