@@ -19,6 +19,6 @@ Misschien dat onze tips je wel op weg helpen:
 
 Misschien dat deze voorbeelden jou ook inspireren.
 
-* [Welke vergunningen heb je nodig om een foodtruck te starten?](https://www.xerius.be/blog/welke-vergunningen-heb-je-nodig-om-een-food-truck-te-beginnen)
-* [Freelancer, hoe begin je eraan?](https://www.xerius.be/blog/freelancer-worden-hoe-begin-je-eraan/)
-* [Hoe start je een webshop?](https://www.xerius.be/blog/een-webshop-starten-hoe-begin-ik-eraan/)
+* Welke vergunningen heb je nodig om [een foodtruck](https://www.xerius.be/blog/welke-vergunningen-heb-je-nodig-om-een-food-truck-te-beginnen) te starten?
+* [Freelancer](https://www.xerius.be/blog/freelancer-worden-hoe-begin-je-eraan/), hoe begin je eraan?
+* Hoe start je [een webshop](https://www.xerius.be/blog/een-webshop-starten-hoe-begin-ik-eraan/)?
