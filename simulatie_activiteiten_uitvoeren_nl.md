@@ -2,7 +2,7 @@
 title: Simulatie activiteiten uitvoeren (NL)
 date: 2017-11-24 00:00:00 +0000
 ---
-## Activiteiten - titel
+## Het kloppende hart van je onderneming
 
 Jouw project staat of valt met je activiteit. Alles draait om wat je doet en hoe je het doet.
 
