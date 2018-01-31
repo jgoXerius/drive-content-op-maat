@@ -10,12 +10,12 @@ Maar er zijn een aantal verplichtingen waaraan je moet voldoen voordat je van st
 
 Meer weten over welke verplichtingen je hebt? Neem dan een kijkje in onderstaande teksten.
 
-* NACE-codes, wat zijn dat? En hoe ga je ermee om?
-* Wat is het belang van de NACE-codes?
-* Basiskennis bedrijfsbeheer en beroepskennis: moet ik dat nog bewijzen?
-* Heb ik ook een btw-nummer nodig?
+* [NACE-codes, wat zijn dat? ](https://www.xerius.be/nacebel-codes-je-activiteiten-registreren-in-de-kbo)
+* [Wat is het belang van de NACE-codes?](http://blog.xerius.be/zelfstandigen/waarom-correcte-bedrijfsgegevens-in-de-kbo-cruciaal-zijn)
+* [Basiskennis bedrijfsbeheer](https://www.xerius.be/zelfstandigen/start-eigen-zaak/basiskennis-bedrijfsbeheer/) en [beroepskennis](https://www.xerius.be/zelfstandigen/start-eigen-zaak/beroepskennis/): moet ik dat nog bewijzen?
+* Heb je een [btw-nummer](https://www.xerius.be/btw-voor-starters-wat-moet-je-weten) nodig?
 
-Misschien dat deze voorbeelden jou ook kunnen inspireren.
+Misschien dat deze voorbeelden jou ook inspireren.
 
 * [Welke vergunningen heb je nodig om een foodtruck te starten?](https://www.xerius.be/blog/welke-vergunningen-heb-je-nodig-om-een-food-truck-te-beginnen)
 * [Freelancer, hoe begin je eraan?](https://www.xerius.be/blog/freelancer-worden-hoe-begin-je-eraan/)
