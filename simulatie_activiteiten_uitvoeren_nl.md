@@ -8,9 +8,9 @@ Jouw project staat of valt met je activiteit. Alles draait om wat je doet en hoe
 
 Je denkt dus best goed na over hoe je met jouw activiteiten een bepaalde nood of vraag van je potentiële klanten gaat verhelpen 
 
-Hou wel rekening met een aantal verplichtingen waaraan je moet voldoen voordat je van start kunt gaan.
+Hou wel rekening met een aantal verplichtingen voor je van start kunt gaan.
 
-Meer weten over welke verplichtingen je hebt? Neem dan een kijkje in onderstaande teksten.
+Misschien dat onze tips je wel op weg helpen:
 
 * Je activiteiten worden bij de inschrijving van je onderneming in de Kruispuntbank van Ondernemingen (KBO) vertaald naar NACE-codes.  [NACE-codes, wat zijn dat? ](https://www.xerius.be/nacebel-codes-je-activiteiten-registreren-in-de-kbo)
 * Waarom is het belangrijk om [de gegevens van je onderneming correct te registreren in de KBO](http://blog.xerius.be/zelfstandigen/waarom-correcte-bedrijfsgegevens-in-de-kbo-cruciaal-zijn)? 
