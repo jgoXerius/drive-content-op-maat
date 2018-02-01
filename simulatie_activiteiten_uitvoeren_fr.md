@@ -17,6 +17,5 @@ Peut-être pourrions-nous vous aider grâce aux **conseils** suivants :
 
 Les **articles** suivants pourraient également vous **inspirer**.
 
-* Quelles sont les autorisations  nécessaires à l’ouverture d’un foodtruck ?
 * [Pour où commencer pour devenir indépendant ?](https://blog.xerius.be/debutant/devenir-ind%C3%A9pendant.-par-o%C3%B9-commencer)
 * [Comment  créer votre boutique en ligne ?](https://blog.xerius.be/debutant/creer-sa-boutique-en-ligne-par-ou-commencer)
