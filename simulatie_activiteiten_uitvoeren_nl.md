@@ -6,9 +6,7 @@ date: 2017-11-24 00:00:00 +0000
 
 Jouw project staat of valt met je **activiteiten**. Alles draait om wat je doet en hoe je het doet. Goed nadenken over hoe je met jouw activiteiten een bepaalde nood  van je potentiële klanten gaat lenigen, loont dus zeker de moeite.
 
-Hou hierbij wel rekening met een aantal **administratieve verplichtingen** voor je van start kunt gaan.
-
-Misschien dat onze **tips** je wel op weg helpen:
+Hou hierbij wel rekening met een aantal **administratieve verplichtingen** voor je van start kunt gaan. Misschien dat onze **tips** je wel op weg helpen:
 
 * Je activiteiten worden bij de inschrijving van je onderneming in de Kruispuntbank van Ondernemingen (KBO) vertaald naar **NACE-codes**. [Lees hier wat NACE-codes precies zijn](https://www.xerius.be/nacebel-codes-je-activiteiten-registreren-in-de-kbo).
 * [Waarom is het belangrijk om de gegevens van je onderneming correct te registreren in de KBO?](http://blog.xerius.be/zelfstandigen/waarom-correcte-bedrijfsgegevens-in-de-kbo-cruciaal-zijn)
