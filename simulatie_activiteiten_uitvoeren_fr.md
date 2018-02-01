@@ -10,9 +10,9 @@ Votre entreprise dépend de vos activités. Tout repose sur ce que vous faites e
 
 Peut-être pourrions-nous vous aider grâce aux **conseils** suivants :
 
-* Dans le cadre de l’inscription de votre entreprise à la Banque-Carrefour des Entreprises (BCE), vos activités  sont exprimées par les **codes** **NACE**. [Découvrez ici en quoi      consistent précisément les codes NACE](https://www.xerius.be/codes-nacebel-pour-enregistrer-vos-activites-a-la-bce).
+* Dans le cadre de l’inscription de votre entreprise à la Banque-Carrefour des Entreprises (BCE), vos activités  sont exprimées par les **codes** **NACE**. [Découvrez ici en quoi consistent précisément les codes NACE](https://www.xerius.be/codes-nacebel-pour-enregistrer-vos-activites-a-la-bce).
 * [Pourquoi est-il impératif d’enregistrer des données correctes à la BCE ?](http://blog.xerius.be/independants/entrer-des-donnees-dentreprise-correctes-a-la-bce-un-imperatif)
-* [Connaissances de gestion de base](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/connaissances-gestion-base/) et [connaissance professionnelle](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/connaissance-professionnelle/), appelées **capacités entrepreneuriales** : à quelle réglementation  devez-vous répondre pour démarrer une entreprise ?
+* [Connaissances de gestion de base](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/connaissances-gestion-base/) et [connaissance professionnelle](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/connaissance-professionnelle/), appelées **capacités entrepreneuriales** : à quelle réglementation devez-vous répondre pour démarrer une entreprise ?
 * [Avez-vous besoin d’un numéro de TVA pour exercer vos activités ?](https://www.xerius.be/la-tva-pour-les-debutants-que-faut-il-savoir)
 
 Les **articles** suivants pourraient également vous **inspirer**.
