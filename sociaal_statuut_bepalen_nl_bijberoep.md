@@ -4,9 +4,11 @@ date: 2018-01-12 00:00:00 +0000
 ---
 ## Aansluiten in bijberoep
 
-Een logische vraag die je je als zelfstandige stelt:: **hoeveel** bijdragen moet ik betalen? In bijberoep betaal je bijdragen op je werkelijke inkomen. Waar de zelfstandige in hoofdberoep een minimumbijdrage betaalt ongeacht zijn inkomen, is hier in bijberoep geen sprake van.  Langs de andere kant is er ook geen maximumbedrag dat je mag verdienen. Je statuut als bijberoeper hangt niet af van je inkomen, wel van het statuut dat je ernaast nog bekleed. [Meer misverstanden over bijberoep vind je hier.](https://www.xerius.be/blog/veelgestelde-vragen-over-bijberoep-7-misverstanden-opgeklaard)
+Een logische vraag die je je als zelfstandige stelt:: **hoeveel** bijdragen moet ik betalen? Als zelfstandige in bijberoep betaal je altijd bijdragen op je werkelijke inkomen.   Dit in tegenstelling tot de zelfstandige in hoofdberoep die altijd minstens een minimumbijdrage betaalt ook al heeft hij een beperkt inkomen. 
 
-Bij beperkte inkomsten kan je mogelijk een vrijstelling van bijdragen aanvragen. Hoeveel bijdragen je effectief moet betalen en of je wel moet betalen vind je eenvoudig in de simulatietool. Druk op de oranje knop hierboven en ontdek het antwoord.
+Je hoort wel eens dat je als bijberoeper je inkomsten moet **beperken**. Dat is niet waar. Uiteraard betaal je meer bijdragen als je meer verdient, maar je statuut als bijberoeper hangt niet af van je inkomen.  Als je naast je zelfstandige activiteit nog een statuut hebt waardoor je in orde bent met je sociale zekerheid, blijf je zelfstandige in bijberoep.. [Meer misverstanden over bijberoep lees je hier.](https://www.xerius.be/blog/veelgestelde-vragen-over-bijberoep-7-misverstanden-opgeklaard)
+
+Bij beperkte inkomsten kan je mogelijk een **vrijstelling** van bijdragen aanvragen. Hoeveel bijdragen je effectief moet betalen en of je wel moet betalen, bereken je eenvoudig in de simulatietool. Druk op de oranje knop hierboven en ontdek het antwoord.
 
 Lees ook:
 
@@ -15,6 +17,6 @@ Lees ook:
 
 Of je ook een bijberoep kan starten als je geen loontrekkende bent, kom je te weten in onderstaande artikels.
 
-* [De voorwaarden waaronder je een bijberoep kan starten tijdens je werkloosheid]( http://www.xerius.be/blog/bijberoep-tijdens-werkloosheid)
+* [De voorwaarden waaronder je een bijberoep kunt starten tijdens je werkloosheid](https://www.xerius.be/blog/bijberoep-tijdens-werkloosheid)
 * [Uitzendarbeid combineren met een bijberoep](https://www.xerius.be/blog/interim-en-bijberoep)
 * [Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/blog/mag-ik-een-bijberoep-opstarten-tijdens-tijdskrediet)
