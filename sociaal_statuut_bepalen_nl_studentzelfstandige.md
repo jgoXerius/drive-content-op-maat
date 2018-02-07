@@ -2,6 +2,9 @@
 title: Sociaal Statuut Bepalen - Student-zelfstandige (NL)
 date: 2018-01-12 00:00:00 +0000
 ---
-## Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Student-zelfstandige (NL)
+## Studeren en ondernemen
 
-Cras in efficitur nulla, at convallis arcu. Sed laoreet cursus egestas. Integer vitae lectus ac arcu commodo placerat non in tellus. Ut scelerisque varius nibh. Mauris et feugiat mauris. Donec porta felis id vestibulum bibendum. Nulla ut lobortis lorem. Quisque accumsan arcu ut tincidunt dapibus. Vivamus lorem sapien, vehicula vitae ligula et, pretium imperdiet tellus. 
+Sinds 2017 is er voor de studerende een apart statuut voorzien met een voordelige bijdrageregeling.
+
+* [Onder welke voorwaarden kan je hiervan gebruik maken?](http://www.xerius.be/blog/studeren-en-ondernemen-perfect-haalbaar-als-student-zelfstandige )
+* [Wat is het verschil tussen werken als jobstudent en student-zelfstandige?](http://www.xerius.be/blog/studeren-en-ondernemen-perfect-haalbaar-als-student-zelfstandige )
