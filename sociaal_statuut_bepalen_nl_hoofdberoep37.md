@@ -4,7 +4,7 @@ date: 2018-01-12 00:00:00 +0000
 ---
 ## Een addertje onder het gras
 
-Een aansluiting onder artikel 37 (hoofdberoep met gelijkstelling bijberoep) zorgt er weliswaar voor dat je minder sociale bijdragen moet betalen, er is een keerzijde aan de medaille.
+Een aansluiting onder artikel 37 (hoofdberoep met gelijkstelling bijberoep) zorgt er weliswaar voor dat je minder sociale bijdragen moet betalen, er is een belangrijke keerzijde aan de medaille.
 
 Stel: je bent gehuwd en je echtgeno(o)t(e) werkt voltijds. Jij zorgt voor het huishouden en start daarnaast een zelfstandige activiteit. Je besluit gebruik te maken van de regeling onder artikel 37. Je betaalt **verminderde bijdragen**, maar bouwt **geen sociale rechten** op. Dat betekent dus geen pensioenopbouw en geen uitkeringen bij moederschapsrust en arbeidsongeschiktheid. Momenteel laat je hier misschien je slaap niet voor.
 
