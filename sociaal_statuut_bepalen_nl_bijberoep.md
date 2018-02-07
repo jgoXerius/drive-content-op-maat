@@ -8,6 +8,13 @@ De eerste vraag die je je stelt: hoeveel bijdragen moet ik betalen? In bijberoep
 
 Hoeveel bijdragen je effectief moet betalen en of je wel moet betalen, bij beperkte inkomsten  kan je immers een vrijstelling van bijdragen aanvragen, vind je eenvoudig in de simulatietool. Druk op de oranje knop hierboven en ontdek het antwoord.
 
-Misschien dat je volgende informatie ook wel leuk vind.
+Lees ook:
 
-*  
+* [Waarom je als zelfstandige sociale bijdragen betaalt.](http://blog.xerius.be/zelfstandigen/waarom-zelfstandige-in-bijberoep-sociale-bijdragen )
+* [Wat het kost om een onderneming in bijberoep te starten.](https://www.xerius.be/blog/wat-kost-een-bijberoep)
+
+Of je ook een bijberoep kan starten als je geen loontrekkende bent, kom je te weten in onderstaande artikels.
+
+* [De voorwaarden waaronder je een bijberoep kan starten tijdens je werkloosheid]( http://www.xerius.be/blog/bijberoep-tijdens-werkloosheid)
+* [Uitzendarbeid combineren met een bijberoep](https://www.xerius.be/blog/interim-en-bijberoep)
+* [ Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/blog/mag-ik-een-bijberoep-opstarten-tijdens-tijdskrediet)
