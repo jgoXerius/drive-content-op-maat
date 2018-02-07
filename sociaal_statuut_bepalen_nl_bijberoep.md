@@ -17,4 +17,4 @@ Of je ook een bijberoep kan starten als je geen loontrekkende bent, kom je te we
 
 * [De voorwaarden waaronder je een bijberoep kan starten tijdens je werkloosheid]( http://www.xerius.be/blog/bijberoep-tijdens-werkloosheid)
 * [Uitzendarbeid combineren met een bijberoep](https://www.xerius.be/blog/interim-en-bijberoep)
-* [ Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/blog/mag-ik-een-bijberoep-opstarten-tijdens-tijdskrediet)
+* [Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/blog/mag-ik-een-bijberoep-opstarten-tijdens-tijdskrediet)
