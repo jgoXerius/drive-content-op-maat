@@ -6,5 +6,5 @@ date: 2018-01-12 00:00:00 +0000
 
 Sinds 2017 is er voor de student met ondernemersambities een apart statuut voorzien met een voordelige bijdrageregeling.
 
-* [Onder welke voorwaarden kan je hiervan gebruik maken?](http://www.xerius.be/blog/studeren-en-ondernemen-perfect-haalbaar-als-student-zelfstandige )
+* [Onder welke voorwaarden kan je hiervan gebruikmaken?](http://www.xerius.be/blog/studeren-en-ondernemen-perfect-haalbaar-als-student-zelfstandige )
 * [Wat is het verschil tussen werken als jobstudent en student-zelfstandige?](https://www.xerius.be/blog/werken-als-student-dit-zijn-je-opties)
