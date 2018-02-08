@@ -2,7 +2,7 @@
 title: Sociaal Statuut Bepalen - Hoofdberoep Artikel 37 (FR)
 date: 2018-01-12 00:00:00 +0000
 ---
-## **La prudence est de mise**
+## La prudence est de mise
 
 L’avantage d’une affiliation au titre de l’article 37 ? Vous payez moins de cotisations sociales. Mais elle comporte un inconvénient majeur.
 
