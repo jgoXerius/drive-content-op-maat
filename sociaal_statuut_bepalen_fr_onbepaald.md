@@ -8,4 +8,4 @@ En devenant indépendant, vous devez **obligatoirement** vous affilier à une ca
 
 * Le montant de cotisations sociales que vous devez      payer dépend de vos revenus et de votre statut. Pour en savoir plus, [vous pouvez simuler vos cotisations sociales](https://www.xerius.be/fr/independants/assurances-sociales/calculez-cotisations-sociales).
 * Vos cotisations sociales vous permettent de      constituer vos droits sociaux d’indépendant. [Découvrez ici à quoi servent vos cotisations sociales](http://blog.xerius.be/independants/a-quoi-servent-vos-cotisations-sociales).
-* Prenez également le temps de découvrir que tous les amateurs ne deviennent pas directement indépendants. [Découvrez ici la limite à partir de laquelle vous devenez indépendant lorsque votre hobby génère un certain revenu.](https://www.xerius.be/blog/bijverdienen-met-je-hobby-wanneer-ben-je-zelfstandige)
+* Prenez également le temps de découvrir que tous les amateurs ne deviennent pas directement indépendants. [Découvrez ici la limite à partir de laquelle vous devenez indépendant lorsque votre hobby génère un certain revenu.](https://blog.xerius.be/debutant/gagner-de-largent-avec-votre-hobby)
