@@ -2,6 +2,8 @@
 title: Sociaal Statuut Bepalen - Gepensioneerd (FR)
 date: 2018-01-12 00:00:00 +0000
 ---
-## Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Gepensioneerd (FR)
+## Que faire lorsque vous n’êtes pas prêt(e) à raccrocher ?
 
-Cras in efficitur nulla, at convallis arcu. Sed laoreet cursus egestas. Integer vitae lectus ac arcu commodo placerat non in tellus. Ut scelerisque varius nibh. Mauris et feugiat mauris. Donec porta felis id vestibulum bibendum. Nulla ut lobortis lorem. Quisque accumsan arcu ut tincidunt dapibus. Vivamus lorem sapien, vehicula vitae ligula et, pretium imperdiet tellus.
+Vous êtes pensionné, mais votre désir d’entreprendre n’est pas encore rassasié ? Rien ne vous empêche d’exercer une activité d’indépendant. Une fois l’âge de la pension atteint, vous pouvez gagner autant que vous le souhaitez via votre activité complémentaire. Vous prenez votre prépension ? Vous devez alors limiter vos revenus si vous souhaitez conserver votre pension complète.
+
+* [Découvrez ici tout ce que vous devez savoir sur      l’activité complémentaire pendant votre pension.](https://blog.xerius.be/zelfstandigen/doorwerken-tijdens-je-pensioen-alles-wat-je-moet-weten)
