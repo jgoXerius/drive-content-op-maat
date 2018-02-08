@@ -2,6 +2,14 @@
 title: Sociaal Statuut Bepalen - Onbepaald (FR)
 date: 2018-01-16 00:00:00 +0000
 ---
-## Content-zone: Kostenplaat: Sociaal Statuut Bepalen - Onbepaald (FR)
+## S’affilier à une caisse d’assurances sociales
 
-Cras in efficitur nulla, at convallis arcu. Sed laoreet cursus egestas. Integer vitae lectus ac arcu commodo placerat non in tellus. Ut scelerisque varius nibh. Mauris et feugiat mauris. Donec porta felis id vestibulum bibendum. Nulla ut lobortis lorem. Quisque accumsan arcu ut tincidunt dapibus. Vivamus lorem sapien, vehicula vitae ligula et, pretium imperdiet tellus. 
+En devenant indépendant, vous devez **obligatoirement** vous affilier à une caisse d’assurances sociales. [Vous n’avez pas le choix de vous affilier à titre principal ou à titre complémentaire](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/activite-principale-ou-complementaire). Le statut social est déterminé en fonction du fait d’être employé ou de percevoir une allocation en plus de l’activité d’indépendant.
+
+ 
+
+* Le montant de cotisations sociales que vous devez      payer dépend de vos revenus et de votre statut. Pour en savoir plus, [vous pouvez simuler vos cotisations sociales](https://www.xerius.be/fr/independants/assurances-sociales/calculez-cotisations-sociales).
+* Vos cotisations sociales vous permettent de      constituer vos droits sociaux d’indépendant. [Découvrez ici à quoi servent vos cotisations      sociales](http://blog.xerius.be/independants/a-quoi-servent-vos-cotisations-sociales).
+* Prenez également le temps de découvrir que tous      les amateurs ne deviennent pas directement indépendants.
+
+[Découvrez ici la limite à partir de laquelle vous devenez indépendant lorsque votre hobby génère un certain revenu.](https://www.xerius.be/blog/bijverdienen-met-je-hobby-wanneer-ben-je-zelfstandige)
