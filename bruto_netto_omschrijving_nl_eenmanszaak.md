@@ -8,4 +8,30 @@ Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de pers
 
 Anders gezegd: Je personenbelasting wordt berekend op je netto beroepsinkomen. Je netto beroepsinkomen bekom je door je kosten af te trekken van je omzet.  Je kosten zijn alle uitgaven die verbonden zijn aan de uitoefening van je zelfstandige activiteit en aan je sociale vangnet (sociale bijdragen, pensioensparen,...).
 
-Schematisch ziet dit er zo uit: <h4>Eenmanszaak</h4> <div class="grey-box"> hello eenmanszaak </div>
+Schematisch ziet dit er zo uit: 
+
+
+<h4>Eenmanszaak</h4>
+
+<div class="grey-box">
+
+    <p>Omzet (bruto)</p>
+    
+    <p>- Beroepskosten (bv. sociale bijdragen, vapz,...)
+    
+    	<br>- Investeringen
+    
+    </p>
+    
+    <hr>
+    
+    <h3>= Netto belastbaar inkomen</h3>
+    
+    <p>- Personenbelasting</p>
+    
+    <hr>
+    
+    <h3>= Wat jij eraan overhoudt</h3>
+    
+
+</div>
