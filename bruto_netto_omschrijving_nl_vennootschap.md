@@ -14,7 +14,7 @@ Hieronder tonen we je alvast waar je best rekening mee houdt bij je berekening.
 
 <div class="grey-box">
 
-    <h3>Omzet (bruto)</h3>
+    <p>Omzet (bruto)</p>
     
     <p>- Beroepskosten (inclusief ondernemersloon)
     
