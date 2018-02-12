@@ -14,17 +14,15 @@ Zo bereken je de loonkost van een werknemer :
 
 **Nettoloon werknemer**
 
-<p> + RSZ (13,07% - bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
+\+ RSZ (13,07% - bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
 
-<br> + Bedrijfsvoorheffing (voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon) <br>
+\+ Bedrijfsvoorheffing (voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
 
 = **Brutoloon werknemer**
 
-<br> + Werkgeversbijdragen (maximum 32% - een extra RSZ-bijdrage die je als werkgever verschuldigd bent.) <br>
+\+ Werkgeversbijdragen (maximum 32% - een extra RSZ-bijdrage die je als werkgever verschuldigd bent.)
 
 = **Totale loonkost**
-
-</p>
 
 ---
 
