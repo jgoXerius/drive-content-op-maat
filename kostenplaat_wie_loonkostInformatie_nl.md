@@ -2,6 +2,8 @@
 title: Kostenplaat Wie LoonkostInformatie (NL)
 date: 2017-12-18 00:00:00 +0000
 ---
+## Loonkosten
+
 De loonkost voor van een werknemer is zeker niet gelijk aan het nettoloon dat je maandelijks betaalt aan je werknemer.
 
 Het is heel erg belangrijk dat je de totale loonkost voor een werknemer correct kunt inschatten.
