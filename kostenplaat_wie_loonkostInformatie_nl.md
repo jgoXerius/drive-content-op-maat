@@ -4,9 +4,9 @@ date: 2017-12-18 00:00:00 +0000
 ---
 ## Loonkosten
 
-In deze oefening kan je het verwachtte nettoloon van je werknemer ingeven en de applicatie berekent automatisch voor jou welke kost dit betekent voor je onderneming. 
+In deze oefening kan je het verwachtte nettoloon van je werknemer ingeven en de applicatie berekent automatisch voor jou welke kost dit betekent voor je onderneming.
 
-Toch is het belangrijk dat je weet hoe die loonkost is samengesteld.  
+Toch is het belangrijk dat je weet hoe die loonkost is samengesteld.
 
 Zo bereken je de loonkost van een werknemer :
 
@@ -26,7 +26,7 @@ Zo bereken je de loonkost van een werknemer :
 
 ---
 
-Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [meer bepaald de doelgroepvermindering](https://www.werk.be/online-diensten/doelgroepverminderingen) (eerste werknemer, 55+ werknemers,...).
+Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [meer bepaald de doelgroepvermindering ](https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/structuralreduction_targetgroupreductions/firstengagments.html)(eerste werknemer, 55+ werknemers,...).
 
 Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon).
 
