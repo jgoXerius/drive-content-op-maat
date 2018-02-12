@@ -14,5 +14,5 @@ Stel je product voor aan familie, vrienden en kennissen of andere mogelijke klan
 
 Meer weten?
 
-* Welke [methode van prijszetting](https://www.xerius.be/blog/lean-pricing) is ideaal voor jou?
+* Welke [methode van prijszetting](https://www.xerius.be/blog/prijszetting-welke-methode-is-ideaal-voor-jou) is ideaal voor jou?
 * Hoe bepaal je je [tarief als freelancer](https://www.xerius.be/blog/vijf-stappen-om-je-freelance-tarief-te-bepalen/)?
