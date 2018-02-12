@@ -6,13 +6,17 @@ date: 2018-01-05 16:11:00 +0000
 
 Je omzet wordt bepaald door de prijs van je product en de aantallen die je ervan verkoopt.
 
-Om een idee te krijgen van je omzet is het daarom belangrijk dat je ook een realistische schatting maakt van de aantallen die je gaat verkopen. 
+Om een idee te krijgen van je omzet is het daarom belangrijk dat je ook een realistische schatting maakt van de aantallen die je gaat verkopen.
 
-Hou daarbij rekening met:
+Hou in de schatting van je aantallen rekening met volgende vragen:
 
-* het volume dat je kan produceren 
-* het aantal dagen dat je actief bent (vakantieperiodes, seizoensgebonden producten,...)
-* de groei die je voorziet
+* Wat zijn de marktcijfers?
+* Wie zijn je concurrenten?
+* Hoeveel potentiële klanten heb je? Welk marktaandeel vertegenwoordigt dit?
+* Welk volume kan je produceren? Hoeveel tijd neemt het aanbieden van je dienst in beslag?
+* Welke zijn je vakantieperiodes? En die van je leveranciers? 
+* Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
+* Welke groei voorzie je?
 
 Onze tips om je aantallen op een correcte manier in te vullen vind je hier. (_link naar nieuw artikel com & co achter steken)_
 
