@@ -2,17 +2,6 @@
 title: Kostenplaat resultaat investeringskosten (NL)
 date: 2018-01-23 13:51:00 +0000
 ---
-Dit is je investeringsbudget dat je nodig hebt om op te starten. Boekhouderkig gezien worden deze kosten gedragen over verschillende jaren. (NL)
+Het bedrag dat hier wordt getoond is de totale kost van de investeringen die je in het eerste jaar gaat moeten doen. Boekhoudkundig zal deze gespreid worden over verschillende jaren. De kosten zullen dus afgeschreven worden. Wat dit concreet voor jou betekent, kan je aan de hand van deze oefening bekijken met je boekhouder. Bekijk met jouw adviseur ook hoe je die investeringen kan financieren.
 
-Om deze ook cashflowmatig te spreiden, dat wil zeggen om niet deze totaalkoste te betalen op het moment van opstart kan je kijken naar financieringsmogelijkheden:
-<ul class="list">
-<li>lening = je leent geld en betaalt dit over een zekere termijn terug met rente</li>
-<li>investering :je zoekt een investeerder die je geldt geeft voor deze inversteringen, in ruil voor een deetlej
-van je bedrijf</li>
-<li>Subusidies: je ontvant geld van de staat dat je niet hoeft terug te betalen
-<ul class="list">
-<li>link naar loonscretariaat</li>
-<li>link naar subsidiedatabank</li>
-</ul>
-</li>
-</ul>
+Weten welke financieringsmogelijkheden er zijn? [Neem dan zeker een kijkje op de subsidiedatabank van het Vlaams Agentschap Ondernemen.](https://www.vlaio.be/nl/subsidies-financiering/subsidiedatabank)
