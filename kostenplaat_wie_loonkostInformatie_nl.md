@@ -10,15 +10,19 @@ Het is heel erg belangrijk dat je de totale loonkost voor een werknemer correct 
 
 Hoe werkt het :
 
-**Brutoloon**
+---
 
-<p>- 13,07% RSZ ( bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
+**Nettoloon werknemer**
 
-- Bedrijfsvoorheffing (dit is een voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
+<p>+ 13,07% RSZ ( bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
+
+\+ Bedrijfsvoorheffing (dit is een voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
 
 </p>
 
-= nettoloon werknemer
+= **Brutoloon werknemer**
+
+---
 
 Bovenop het brutoloon betaal je **werkgeversbijdragen** (+/- 30%). Dit is een extra RSZ-bijdrage die je als werkgever verschuldigd bent.
 
