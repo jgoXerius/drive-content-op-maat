@@ -4,7 +4,9 @@ date: 2017-11-21 23:43:33 +0000
 ---
 ## Nog een beetje verfijnen?
 
-Je ziet hier een eerste schatting van je netto belastbaar jaarinkomen. Misschien kan je op basis hiervan je oefening nog een beetje verfijnen. Hoe?
+Je ziet hier een eerste schatting van je netto belastbaar jaarinkomen. Misschien kan je op basis hiervan je oefening nog een beetje verfijnen. Een bijsturing die je in je loopbaan als ondernemer ook vaak zal doen.
+
+Hoe?
 
 Bij de stap "wie werkt er mee in jouw onderneming" heb je een schatting gegeven van je **sociale bijdragen**. Nu je je netto belastbaar inkomen kent kun je dit bedrag correct gaan invullen.
 
