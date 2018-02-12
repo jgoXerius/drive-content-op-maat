@@ -14,7 +14,7 @@ Hou in de schatting van je aantallen rekening met volgende vragen:
 * Wie zijn je concurrenten?
 * Hoeveel potentiële klanten heb je? Welk marktaandeel vertegenwoordigt dit?
 * Welk volume kan je produceren? Hoeveel tijd neemt het aanbieden van je dienst in beslag?
-* Welke zijn je vakantieperiodes? En die van je leveranciers? 
+* Welke zijn je vakantieperiodes? En die van je leveranciers?
 * Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
 * Welke groei voorzie je?
 
@@ -24,4 +24,4 @@ Lees ook:
 
 * Op welke slimme manieren je [klanten kan werven](http://www.xerius.be/blog/marketing-voor-starters-6-slimme-manieren-om-klanten-te-werven).
 * Onze tips om je als zelfstandige te [onderscheiden van anderen](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
-* Hoe omspringen met [concurrentie](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
+* Hoe omspringen met [concurrentie](https://www.xerius.be/blog/omgaan-met-concurrentie).
