@@ -12,9 +12,19 @@ Hoe werkt het :
 
 **Brutoloon**
 
+<p>Brutoloon</p>
+
+<p>- 13,07% RSZ ( bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
+
+	<br>- Bedrijfsvoorheffing (dit is een voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
+
+</p>
+
+<hr>
+
+<h3>= nettoloon werknemer</h3>
+
 * 13,07% RSZ ( bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
-
-
 * Bedrijfsvoorheffing (dit is een voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
 
 = nettoloon werknemer
