@@ -6,7 +6,7 @@ date: 2017-12-18 00:00:00 +0000
 
 De loonkost voor van een werknemer is zeker niet gelijk aan het nettoloon dat je maandelijks betaalt aan je werknemer.
 
-Het is heel erg belangrijk dat je de totale loonkost voor een werknemer correct kunt inschatten.
+Het is heel erg belangrijk dat je de totale loonkost voor een werknemer correct inschat.
 
 Hoe werkt het :
 
@@ -14,9 +14,11 @@ Hoe werkt het :
 
 **Nettoloon werknemer**
 
-<p>+ 13,07% RSZ ( bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
+<p> + RSZ (13,07% - bijdrage aan Rijksdienst Sociale Zekerheid ter financiering van sociale zekerheid in België)
 
-<br> + Bedrijfsvoorheffing (dit is een voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
+<br> + Bedrijfsvoorheffing (voorafbetaling aan personenbelasting die je doorstort aan de overheid, percentage hangt af van gezinssituatie en het uitgekeerde loon)
+
+<br> + Werkgeversbijdragen (+/- 30% - een extra RSZ-bijdrage die je als werkgever verschuldigd bent.)
 
 </p>
 
@@ -24,7 +26,7 @@ Hoe werkt het :
 
 ---
 
-Bovenop het brutoloon betaal je **werkgeversbijdragen** (+/- 30%). Dit is een extra RSZ-bijdrage die je als werkgever verschuldigd bent.
+Bovenop het brutoloon betaal je 
 
 Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon)
 
