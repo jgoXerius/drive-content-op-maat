@@ -20,7 +20,7 @@ Zo bereken je de loonkost van een werknemer :
 
 = **Brutoloon werknemer**
 
-<br> + Werkgeversbijdragen (+/- 30% - een extra RSZ-bijdrage die je als werkgever verschuldigd bent.) <br>
+<br> + Werkgeversbijdragen (maximum 32% - een extra RSZ-bijdrage die je als werkgever verschuldigd bent.) <br>
 
 = **Totale loonkost**
 
