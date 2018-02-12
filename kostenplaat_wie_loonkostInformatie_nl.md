@@ -25,4 +25,4 @@ Er zijn ook een aantal kortingen die je kunt krijgen voor bepaalde groepen werk
 
 * [Hier vind je meer informatie over de doelgroepenvermindering](https://www.werk.be/online-diensten/doelgroepverminderingen)
 
-  Voor een concrete berekening van de kostprijs van een eerste werknemer kan je ook terecht bij [SD Worx](https://www.sdworx.be/nl-be/startende-ondernemers/aanbod/diensten/personeel-in-dienst-nemen)
+  > Voor een concrete berekening van de kostprijs van een eerste werknemer kan je ook terecht bij [SD Worx](https://www.sdworx.be/nl-be/startende-ondernemers/aanbod/diensten/personeel-in-dienst-nemen)
