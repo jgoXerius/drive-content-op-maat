@@ -4,7 +4,7 @@ date: 2017-12-27 00:00:00 +0000
 ---
 ## Hoe bereken je wat je overhoudt aan je zelfstandige activiteit?
 
-Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting .
+Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting.
 
 Anders gezegd: Je personenbelasting wordt berekend op je netto beroepsinkomen. Je netto beroepsinkomen bekom je door je kosten af te trekken van je omzet.  Je kosten zijn alle uitgaven die verbonden zijn aan de uitoefening van je zelfstandige activiteit en aan je sociale vangnet (sociale bijdragen, pensioensparen,...).
 
@@ -14,4 +14,4 @@ Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootsc
 
 In deze infographics vind je een grafische weergave van beide situaties. Bepaal je ondernemingsvorm om meer info te krijgen voor jouw specifieke situatie.
 
-<div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Omzet (bruto)</h4> <p>- Beroepskosten (bv. sociale bijdragen, vapz,...) <br>- Investeringen (afschrijving van computer, machine,...) <br></p> <hr> <h4>= Netto belastbaar inkomen</h4> <p>- Personenbelasting</p> <hr> <h4>= Winst</h4> </div> </div> 
+<div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Omzet (bruto)</h4> <p>- Beroepskosten (bv. sociale bijdragen, vapz,...) <br>- Investeringen (afschrijving van computer, machine,...) <br></p> <hr> <h4>= Netto belastbaar inkomen</h4> <p>- Personenbelasting</p> <hr> <h4>= Winst</h4> </div> </div>
