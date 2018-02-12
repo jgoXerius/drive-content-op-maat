@@ -26,8 +26,8 @@ Zo bereken je de loonkost van een werknemer :
 
 ---
 
-Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [meer bepaald de doelgroepvermindering](https://www.werk.be/online-diensten/doelgroepverminderingen) (eerste werknemer, 55+ werknemers,...)
+Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [meer bepaald de doelgroepvermindering](https://www.werk.be/online-diensten/doelgroepverminderingen) (eerste werknemer, 55+ werknemers,...).
 
-Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon)
+Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon).
 
-Voor een concrete berekening van de kostprijs van een eerste werknemer kan je ook terecht bij [SD Worx](https://www.sdworx.be/nl-be/startende-ondernemers/aanbod/diensten/personeel-in-dienst-nemen).
+Voor een concrete berekening van de kostprijs van een eerste werknemer kan je terecht bij onze partnerorganisatie [SD Worx](https://www.sdworx.be/nl-be/startende-ondernemers/aanbod/diensten/personeel-in-dienst-nemen).
