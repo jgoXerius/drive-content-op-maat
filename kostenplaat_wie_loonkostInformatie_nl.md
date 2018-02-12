@@ -4,11 +4,11 @@ date: 2017-12-18 00:00:00 +0000
 ---
 ## Loonkosten
 
-De loonkost voor van een werknemer is zeker niet gelijk aan het nettoloon dat je maandelijks betaalt aan je werknemer.
+In deze oefening kan je het verwachtte nettoloon van je werknemer ingeven en de applicatie berekent automatisch voor jou welke kost dit betekent voor je onderneming. 
 
-Het is heel erg belangrijk dat je de totale loonkost voor een werknemer correct inschat.
+Toch is het belangrijk dat je weet hoe die loonkost is samengesteld.  
 
-Hoe werkt het :
+Zo bereken je de loonkost van een werknemer :
 
 ---
 
