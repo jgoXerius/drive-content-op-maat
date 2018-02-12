@@ -2,8 +2,6 @@
 title: Kostenplaat resultaat omzet (NL)
 date: 2018-01-23 13:51:00 +0000
 ---
-### 
-
 Je **omzet** is het totaal van alle diensten en producten die je hebt verkocht voor een bepaalde periode, in dit geval een jaar.
 
 Het bedrag van je omzet is gelijk aan de verkochte aantallen vermenigvuldigt met de verkoopprijs (exclusief btw). 
