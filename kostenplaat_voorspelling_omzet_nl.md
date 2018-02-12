@@ -13,5 +13,5 @@ Onze tips om je aantallen op een correcte manier in te vullen vind je hier. (_li
 Lees ook:
 
 * Op welke slimme manieren je [klanten kan werven](http://www.xerius.be/blog/marketing-voor-starters-6-slimme-manieren-om-klanten-te-werven).
-* Hoe je je als zelfstandige kan [onderscheiden van anderen](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
-* Onze tips om om te springen met [concurrentie](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
+* Onze tips om je als zelfstandige te [onderscheiden van anderen](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
+* Hoe omspringen met [concurrentie](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
