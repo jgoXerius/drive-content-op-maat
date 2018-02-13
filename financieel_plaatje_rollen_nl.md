@@ -8,3 +8,4 @@ date: 2017-12-21 00:00:00 +0000
 * Meer tips?
   * [Welke uitgaven komen in aanmerking als beroepskost?](http://www.xerius.be/blog/aftrekbare-kosten/)
   * [Wat kost een boekhouder?](http://www.xerius.be/blog/kosten-boekhouder/)
+  * De woordenschat van je boekhouder leren begrijpen. _link naar begrippenlijst toevoegen_
