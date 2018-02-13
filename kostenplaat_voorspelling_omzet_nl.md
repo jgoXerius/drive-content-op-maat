@@ -8,7 +8,6 @@ Je omzet wordt bepaald door de prijs van je product en de aantallen die je ervan
 
 Hou in de schatting van je aantallen rekening met volgende vragen:
 
-* Wat zijn de marktcijfers?
 * Wie zijn je concurrenten?
 * Hoeveel potentiële klanten heb je? Welk marktaandeel vertegenwoordigt dit?
 * Welk volume kan je produceren? Hoeveel tijd neemt het aanbieden van je dienst in beslag?
