@@ -4,7 +4,7 @@ date: 2017-12-27 00:00:00 +0000
 ---
 ## Hoe bereken je wat je overhoudt aan je zelfstandige activiteit?
 
-In een vennootschap zijn je persoonlijk vermogen en dat van de vennootschap gescheiden. Vanuit de vennootschap keer je jezelf een loon uit. In je personenbelasting wordt je enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak waar je op het volledige inkomen van je onderneming belast wordt.
+In een vennootschap is je persoonlijk vermogen gescheiden van het vermogen van de vennootschap. Vanuit de vennootschap keer je jezelf een loon uit. In je personenbelasting wordt je enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak waar je op het volledige inkomen van je onderneming belast wordt.
 
 Is er na het uitkeren van je loon nog winst over, dan blijft dit in de vennootschap. Deze vennootschapswinst is onderworpen aan de vennootschapsbelasting.
 
