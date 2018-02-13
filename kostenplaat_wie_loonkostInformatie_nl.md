@@ -4,7 +4,7 @@ date: 2017-12-18 00:00:00 +0000
 ---
 ## Loonkosten
 
-In deze oefening kan je het verwachtte nettoloon van je werknemer ingeven en de applicatie berekent automatisch voor jou welke kost dit betekent voor je onderneming.
+In deze oefening kan je het verwachte nettoloon van je werknemer ingeven en de applicatie berekent automatisch voor jou welke kost dit betekent voor je onderneming.
 
 Toch is het belangrijk dat je weet hoe die loonkost is samengesteld.
 
