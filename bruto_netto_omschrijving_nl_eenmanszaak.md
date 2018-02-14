@@ -9,9 +9,8 @@ Als eenmanszaak is je winst gelijk aan je loon. Hierop word je belast in de pers
 Hoe bereken je dit? Je loon is wat er overblijft nadat je kosten zijn afgetrokken van je omzet. Je kosten zijn alle uitgaven die verbonden zijn aan de uitoefening van je zelfstandige activiteit en aan je sociale vangnet (sociale bijdragen, pensioensparen,...).
 
 Schematisch ziet dit er zo uit:
-
 <h4>Eenmanszaak</h4>
-
+<style>.grey-box{background-color:gold;}</style>
 <div class="grey-box">
 
     <p>Omzet (bruto)</p>
