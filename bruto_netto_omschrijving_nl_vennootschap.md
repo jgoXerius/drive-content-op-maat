@@ -12,40 +12,46 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
 <h4>Vennootschap</h4>
 
-<div class="grey-box">
+<style>
+.netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
+.netto-box p,h2,h1,h3{margin-left:20px;}
+.netto-box .spacer{position:absolute;left:20px;}
+ </style>
+
+<div class="netto-box">
 
     <p>Omzet (bruto)</p>
     
-    <p>- Beroepskosten (inclusief ondernemersloon)
+    <p><span class="spacer">-</span> Beroepskosten (inclusief ondernemersloon)
     
-    	<br>- Investeringen
+    	<br><span class="spacer">-</span> Investeringen
     
     </p>
     
     <hr>
     
-    <h3>= Winst (bruto vennootschap)</h3>
+    <p><span class="spacer">=</span> Winst (bruto vennootschap)</p>
     
-    <p>- Vennootschapsbelasting</p>
+    <p><span class="spacer">-</span> Vennootschapsbelasting</p>
     
     <hr>
     
-    <h3>= Winst (netto vennootschap)</h3>
+    <p><span class="spacer">=</span> Winst (netto vennootschap)</p>
     
-    <p>Wat vennootschap eraan overhoudt</p>
+    <p><strong>Wat vennootschap eraan overhoudt</strong></p>
 
 </div>
-
 <h4>Jij</h4>
 
-<div class="grey-box">
+<div class="netto-box">
 
-    <h3>Ondernemersloon</h3>
+    <p>Ondernemersloon</p>
     
-    <p>- Persoonsbelasting</p>
+    <p><span class="spacer">-</span> Persoonsbelasting</p>
     
     <hr>
     
-    <h3>= Wat jij eraan overhoudt</h3>
+    <p><strong><span class="spacer">=</span>Wat jij eraan overhoudt</strong></p>
+
 
 </div>
