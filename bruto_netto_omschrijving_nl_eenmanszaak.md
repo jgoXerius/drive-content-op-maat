@@ -14,46 +14,46 @@ Schematisch ziet dit er zo uit:
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
 
-.netto-box p,h2,h1,h3{margin-left:40px;}
+.netto-box p{margin-left:40px;font-size:20px}
 
 .netto-box .spacer{position:absolute;left:20px;}
 
- </style>
+</style>
 
 <div class="netto-box">
 
     <p>Omzet (bruto)</p>
-
     
-
+    
+    
     <p><span class="spacer">-</span>Beroepskosten (bv. sociale bijdragen, vapz,...)
-
     
-
+    
+    
     	<br><span class="spacer">-</span>Investeringen
-
     
-
+    
+    
     </p>
-
     
-
+    
+    
     <hr>
-
     
-
-    <h3><span class="spacer">=</span> Netto belastbaar inkomen</h3>
-
     
-
+    
+    <p><span class="spacer">=</span> Netto belastbaar inkomen</p>
+    
+    
+    
     <p><span class="spacer">-</span> Personenbelasting</p>
-
     
-
+    
+    
     <hr>
-
     
-
-    <h3><span class="spacer">=</span> Wat jij eraan overhoudt</h3>
+    
+    
+    <p><strong><span class="spacer">=</span> Wat jij eraan overhoudt</strong></p>
 
 </div>
