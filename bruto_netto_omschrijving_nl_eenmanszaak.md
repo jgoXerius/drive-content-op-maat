@@ -10,8 +10,8 @@ Hoe bereken je dit? Je loon is wat er overblijft nadat je kosten zijn afgetrokke
 
 Schematisch ziet dit er zo uit:
 <h4>Eenmanszaak</h4>
-<style>.grey-box{background-color:gold;}</style>
-<div class="grey-box">
+<style>.gold-box{background-color:gold;}</style>
+<div class="gold-box">
 
     <p>Omzet (bruto)</p>
     
