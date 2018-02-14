@@ -10,25 +10,50 @@ Hoe bereken je dit? Je loon is wat er overblijft nadat je kosten zijn afgetrokke
 
 Schematisch ziet dit er zo uit:
 <h4>Eenmanszaak</h4>
-<style>.gold-box{background-color:gold;}</style>
-<div class="gold-box">
+<style>
+
+.netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
+
+.netto-box p,h2,h1,h3{margin-left:40px;}
+
+.netto-box .spacer{position:absolute;left:20px;}
+
+ </style>
+
+<div class="netto-box">
 
     <p>Omzet (bruto)</p>
+
     
-    <p>- Beroepskosten (bv. sociale bijdragen, vapz,...)
+
+    <p><span class="spacer">-</span>Beroepskosten (bv. sociale bijdragen, vapz,...)
+
     
-    	<br>- Investeringen
+
+    	<br><span class="spacer">-</span>Investeringen
+
     
+
     </p>
+
     
+
     <hr>
+
     
-    <h3>= Netto belastbaar inkomen</h3>
+
+    <h3><span class="spacer">=</span> Netto belastbaar inkomen</h3>
+
     
-    <p>- Personenbelasting</p>
+
+    <p><span class="spacer">-</span> Personenbelasting</p>
+
     
+
     <hr>
+
     
-    <h3>= Wat jij eraan overhoudt</h3>
+
+    <h3><span class="spacer">=</span> Wat jij eraan overhoudt</h3>
 
 </div>
