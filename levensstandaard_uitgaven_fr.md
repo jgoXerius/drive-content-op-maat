@@ -2,10 +2,17 @@
 title: FINANCIEEL PLAATJE - Levensstandaard Uitgaven (FR)
 date: 2017-12-27 00:00:00 +0000
 ---
-#### Uitgaven (FR)
+#### Dépenses
 
-* Huur of terugbetaling hypothecaire lening
-* Water/gas/elektriciteit
-* Telefoon
-* Voeding
-* Kleding
+* Loyer ou remboursement du prêt hypothécaire
+* Eau/gaz/électricité
+* Téléphone
+* Alimentation
+* Vêtements
+* Frais médicaux
+* Loisirs
+* Frais de déplacement
+* Primes d’assurance (incendie, familiale, auto...)
+* Pension alimentaire
+* Taxes diverses (taxe environnementale, précompte immobilier...)
+* Autres
