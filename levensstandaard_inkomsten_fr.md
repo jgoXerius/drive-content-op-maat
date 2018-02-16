@@ -2,9 +2,10 @@
 title: FINANCIEEL PLAATJE - Levensstandaard Inkomsten (FR)
 date: 2017-12-27 00:00:00 +0000
 ---
-#### Inkomsten (FR)
+#### Revenus
 
-* Loon partner
-* Kinderbijslag
-* Inkomsten huur
-* ...
+* Salaire du conjoint
+* Allocations familiales
+* Pension alimentaire
+* Revenus issus de location
+* Revenus divers
