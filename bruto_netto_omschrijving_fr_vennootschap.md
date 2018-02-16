@@ -18,7 +18,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 <p>- Frais professionnels (rémunération dirigeant comprise)
 
-    <br>- Investissements
+<br>- Investissements
 
 </p>
 
@@ -32,7 +32,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 <h3>= Bénéfices (net de la société)</h3>
 
-<p>Ce qu’il reste à votre société</p>
+<p>**Ce qu’il reste à votre société**</p>
 
 </div>
 
@@ -46,6 +46,6 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 <hr>
 
-<h3>= Ce qu’il vous reste</h3>
+<h3>**= Ce qu’il vous reste**</h3>
 
 </div>
