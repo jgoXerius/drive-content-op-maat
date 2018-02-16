@@ -4,19 +4,19 @@ date: 2017-12-27 00:00:00 +0000
 ---
 Comment calculer ce qu’il vous reste de votre activité d’indépendant ?
 
-En indépendant personne physique, votre salaire correspond à vos bénéfices. Vous êtes imposé sur ceux-ci à l’impôt des personnes.
+Dans une société, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
 
-Comment calculer tout cela ? Votre salaire correspond ce qu’il reste après déduction de vos frais de votre chiffre d’affaires. Vos frais représentent toutes vos dépenses qui sont liées à l’exercice de votre activité d’indépendant et à vos droits sociaux (cotisations sociales, épargne-pension...).
+S’il reste des bénéfices après le paiement de votre salaire, ceux-ci restent au sein de la société. Ils sont soumis à l’impôt des sociétés.
 
-Schématiquement, voici comment cela se présente :
+Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calcul.
 
-<h4>Entreprise personne physique</h4>
+<h4>Société</h4>
 
 <div class="grey-box">
 
 <p>Chiffre d’affaires (brut)</p>
 
-<p>- Frais professionnels (par ex. cotisations sociales, PCLI...)
+<p>- Frais professionnels (rémunération dirigeant comprise)
 
     <br>- Investissements
 
@@ -24,7 +24,23 @@ Schématiquement, voici comment cela se présente :
 
 <hr>
 
-<h3>= Revenu net imposable</h3>
+<h3>= Bénéfices (brut de la société)</h3>
+
+<p>- Impôt des sociétés</p>
+
+<hr>
+
+<h3>= Bénéfices (net de la société)</h3>
+
+<p>Ce qu’il reste à votre société</p>
+
+</div>
+
+<h4>Vous</h4>
+
+<div class="grey-box">
+
+<h3>Rémunération dirigeant</h3>
 
 <p>- Impôt des personnes</p>
 
