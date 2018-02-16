@@ -18,7 +18,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
     <p>Chiffre d’affaires (brut)</p>
     
-    <p><span class="spacer">-</span> - Frais professionnels (rémunération dirigeant comprise)
+    <p><span class="spacer">-</span>Frais professionnels (rémunération dirigeant comprise)
     
     	<br><span class="spacer">-</span> Investissements
     
@@ -27,7 +27,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
     
     <hr>
     
-    <p><span class="spacer">=</span> = Bénéfices (brut de la société)</p>
+    <p><span class="spacer">=</span>Bénéfices (brut de la société)</p>
     
     <p><span class="spacer">-</span> Impôt des sociétés</p>
     
