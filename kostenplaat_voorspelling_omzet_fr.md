@@ -21,5 +21,4 @@ Découvrez également :
 
 * Comment acquérir vos [clients intelligemment](http://www.xerius.be/blog/marketing-voor-starters-6-slimme-manieren-om-klanten-te-werven)
 * Nos conseils pour [vous démarquer des autres](https://blog.xerius.be/debutant/personal-branding-comment-puis-je-me-demarquer) en tant qu’indépendant
-
-Comment vous démarquer de la [concurrence](https://www.xerius.be/blog/omgaan-met-concurrentie)
+* Comment vous démarquer de la [concurrence](https://www.xerius.be/blog/omgaan-met-concurrentie)
