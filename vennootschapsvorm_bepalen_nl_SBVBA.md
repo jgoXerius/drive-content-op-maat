@@ -8,7 +8,7 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Notariële oprichtingsakte</li>
 
-<li>Minimum startkapitaal is 1 euro</li>
+<li>Minimum startkapitaal: 1 euro</li>
 
 <li>Minimale volstorting van 1 euro</li>
 
