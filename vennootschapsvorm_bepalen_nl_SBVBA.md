@@ -14,7 +14,7 @@ date: 2018-01-25 00:00:00 +0000
 * Financieel plan is onder toezicht van een expert
 * Minstens 1 zaakvoerder
 * Dubbele boekhouding is verplicht
-* Niet mogelijk voor personen die al een S-BVBA hebben opgericht of meer dan 5% aandelen bezitten in een andere vennootschap
+* Niet mogelijk voor personen die al een s-bvba hebben opgericht of meer dan 5% aandelen bezitten in een andere vennootschap
 * 25% van de winst moet jaarlijks gereserveerd worden tot het bedrag van 18.550 euro is bereikt.
-* Binnen de 5 jaar overgaan naar een klassieke BVBA met volstorting van het kapitaal tot 18.550 euro.
-* Vanaf 5 voltijdse werknemers verplichte omvorming naar een BVBA
+* Binnen de 5 jaar overgaan naar een klassieke bvba met volstorting van het kapitaal tot 18.550 euro.
+* Vanaf 5 voltijdse werknemers verplichte omvorming naar een bvba
