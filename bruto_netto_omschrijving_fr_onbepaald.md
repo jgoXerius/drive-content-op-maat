@@ -6,7 +6,57 @@ Comment calculer ce qu’il vous reste de votre activité d’indépendant ?
 
 En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous êtes imposé sur ceux-ci à l’impôt des personnes. Ci-dessous, nous schématisons le fonctionnement exact de ce système.
 
-<div class="box-body"> <div class="sum center" style="margin-top:20px;"> <h4>Chiffre d’affaires (brut)</h4> <p>- Frais professionnels (par ex. cotisations sociales, PCLI...) <br>- Investissements (amortissement d’un ordinateur, d’une machine...) <br></p> <hr> <h4>= Revenu net imposable</h4> <p>- Impôt des personnes</p> <hr> <h4>= Bénéfices</h4> </div> </div>
+<h4>Entreprise personne physique</h4> <style>
+
+.netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
+
+.netto-box p{margin-left:20px;font-size:20px}
+
+.netto-box .spacer{position:absolute;left:20px;}
+
+</style>
+
+<div class="netto-box">
+
+    <p>Chiffre d’affaires (brut)</p>
+    
+    
+    
+    <p><span class="spacer">-</span>
+    Frais professionnels (par ex. cotisations sociales, PCLI...)
+    
+    
+    
+    
+    
+    	<br><span class="spacer">-</span>Investissements
+    
+    
+    
+    
+    </p>
+    
+    
+    
+    <hr>
+    
+    
+    
+    <p><span class="spacer">=</span> Revenu net imposable</p>
+    
+    
+    
+    <p><span class="spacer">-</span>  Impôt des personnes</p>
+    
+    
+    
+    <hr>
+    
+    
+    
+    <p><strong><span class="spacer">=</span> Ce qu’il vous reste</strong></p>
+
+</div>
 
 Dans une **société**, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
 
