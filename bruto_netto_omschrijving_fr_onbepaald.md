@@ -23,7 +23,7 @@ En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous 
     
     
     <p><span class="spacer">-</span>
-    Frais professionnels (incl. cotisations sociales)
+    Frais professionnels (cotisations sociales inclus)
     
     
     
@@ -68,7 +68,7 @@ S’il reste des bénéfices après le paiement de votre salaire, ceux-ci resten
 
 <div class="netto-box">
 
-    <p>Chiffre d’affaires (brut)</p>
+    <p>Chiffre d’affaires</p>
     
     <p><span class="spacer">-</span>Frais professionnels (rémunération dirigeant comprise)
     
@@ -93,13 +93,13 @@ S’il reste des bénéfices après le paiement de votre salaire, ceux-ci resten
 
 <div class="netto-box">
 
-    <p>Rémunération dirigeant</p>
+    <p>Rémunération dirigeant (brut)</p>
     
     <p><span class="spacer">-</span>  Impôt des personnes</p>
     
     <hr>
     
-    <p><strong><span class="spacer">=</span>Ce qu’il vous reste</strong></p>
+    <p><strong><span class="spacer">=</span>Ce qu’il vous reste (net)</strong></p>
 
 </div>
 
