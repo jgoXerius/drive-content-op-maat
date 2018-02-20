@@ -16,7 +16,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 <div class="netto-box">
 
-    <p>Chiffre d’affaires (brut)</p>
+    <p>Chiffre d’affaires</p>
     
     <p><span class="spacer">-</span>Frais professionnels (rémunération dirigeant comprise)
     
@@ -41,12 +41,12 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 <div class="netto-box">
 
-    <p>Rémunération dirigeant</p>
+    <p>Rémunération dirigeant (brut)</p>
     
     <p><span class="spacer">-</span>  Impôt des personnes</p>
     
     <hr>
     
-    <p><strong><span class="spacer">=</span>Ce qu’il vous reste</strong></p>
+    <p><strong><span class="spacer">=</span>Ce qu’il vous reste (net)</strong></p>
 
 </div>
