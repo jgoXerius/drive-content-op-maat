@@ -2,7 +2,7 @@
 title: Vennootschapsvorm bepalen - S-BVBA (NL)
 date: 2018-01-25 00:00:00 +0000
 ---
-<li>Besloten vennootschap met beperkte aansprakelijkheid “starter” </li>
+<li>Besloten vennootschap met beperkte aansprakelijkheid - starter</li>
 
 <li>Minstens 1 oprichter</li>
 
