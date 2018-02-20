@@ -2,10 +2,18 @@
 title: Vennootschapsvorm bepalen - NV (NL)
 date: 2018-01-25 00:00:00 +0000
 ---
+<li>Naamloze vennootschap</li> 
 
-<li>NV optie 1 NL</li>
-<li>NV optie 2</li>
-<li>NV optie 3</li>
-<li>NV optie 4</li>
-<li>NV optie 5</li>
-<li>NV optie 6</li>
+<li>Minstens 2 oprichters</li>
+
+<li> Notariële oprichtingsakte</li>
+
+ <li>Minimum startkapitaal 61.500 euro</li> 
+
+<li>Aansprakelijkheid beperkt tot inbreng (behoudens uitzondering)</li> 
+
+<li>Bij opstart moet 61.500 euro volledig volstort worden. Kapitaal boven 61.500 euro moet 1/4e volstort worden</li> 
+
+<li>Aandelen op naam en vrij overdraagbaar</li>
+
+<li>Aandelenregister is verplicht</li>
