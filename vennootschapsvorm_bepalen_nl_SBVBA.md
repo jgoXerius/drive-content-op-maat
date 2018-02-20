@@ -14,15 +14,11 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Aansprakelijkheid beperkt tot ingebracht kapitaal</li>
 
-<li>Aandelen op naam</li>
-
-<li>Aandelen beperkt overdraagbaar: helft vennoten moeten instemmen en enkel overdraagbaar aan natuurlijke personen</li>
-
-<li>Aandelenregister is verplicht</li>
-
-<li>Financieel plan is onder toezicht van een expert</li>
-
 <li>Dubbele boekhouding is verplicht</li>
+
+<li>Aandelenregister is verplicht, financieel plan is onder toezicht van een expert</li>
+
+<li>Aandelen op naam beperkt overdraagbaar: helft vennoten moeten instemmen en enkel overdraagbaar aan natuurlijke personen</li>
 
 <li>Niet mogelijk voor personen die al een s-bvba hebben opgericht of meer dan 5% aandelen bezitten in een andere vennootschap</li>
 
