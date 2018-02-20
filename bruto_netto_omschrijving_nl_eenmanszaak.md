@@ -26,7 +26,7 @@ Schematisch ziet dit er zo uit:
     
     
     
-    <p><span class="spacer">-</span>Beroepskosten (bv. sociale bijdragen, vapz,...)
+    <p><span class="spacer">-</span>Beroepskosten (incl. sociale bijdragen)
     
     
     
