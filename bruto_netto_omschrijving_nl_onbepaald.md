@@ -22,7 +22,7 @@ Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de 
     
     
     
-    <p><span class="spacer">-</span>Beroepskosten (bv. sociale bijdragen, vapz,...)
+    <p><span class="spacer">-</span>Beroepskosten (incl. sociale bijdragen)
     
     
     
