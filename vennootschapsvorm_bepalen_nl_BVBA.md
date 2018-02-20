@@ -4,7 +4,7 @@ date: 2018-01-25 00:00:00 +0000
 ---
 * Besloten vennootschap met beperkte aansprakelijkheid
 * Minimum 1 oprichter
-* Minimum startkapitaal is 18.550 euro met een minimale volstorting van 1/5e van de inbreng: bij meerdere vennoten minstens 6.200 euro, indien 1 vennoot (ebvba) minstens 12.400 euro
+* Minimum startkapitaal is 18.550 euro met een minimale volstorting van 1/5e van de inbreng (bij meerdere oprichters minstens 6.200 euro, minstens 12.400 euro bij 1 oprichter)
 * Notariële oprichtingsakte
 * Financieel plan is verplicht
 * Minstens 1 zaakvoerder
