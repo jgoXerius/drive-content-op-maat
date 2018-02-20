@@ -4,7 +4,7 @@ date: 2018-01-25 00:00:00 +0000
 ---
 <li>Besloten vennootschap met beperkte aansprakelijkheid - starter</li>
 
-<li>Minstens 1 oprichter</li>
+<li>Minstens 1 oprichter en 1 zaakvoerder te bepalen onder de oprichters</li>
 
 <li>Notariële oprichtingsakte</li>
 
@@ -21,8 +21,6 @@ date: 2018-01-25 00:00:00 +0000
 <li>Aandelenregister is verplicht</li>
 
 <li>Financieel plan is onder toezicht van een expert</li>
-
-<li>Minstens 1 zaakvoerder</li>
 
 <li>Dubbele boekhouding is verplicht</li>
 
