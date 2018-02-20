@@ -17,3 +17,7 @@ date: 2018-01-25 00:00:00 +0000
 <li>Aandelen op naam en vrij overdraagbaar</li>
 
 <li>Aandelenregister en financieel plan verplicht</li>
+
+<li>Minstens 3 bestuurders (raad van bestuur)</li>
+
+<li>Dubbele boekhouding is verplicht</li>
