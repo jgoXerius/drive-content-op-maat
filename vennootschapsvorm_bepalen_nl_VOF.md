@@ -18,10 +18,10 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Aandelenregister is niet verplicht</li>
 
-<li> Financieel plan is niet verplicht</li>
+<li>Financieel plan is niet verplicht</li>
 
-<li> Minstens 1 beherende vennoot (iedere beherende vennoot kan bestuursdaden stellen zonder toestemming van de andere vennoten)</li>
+<li>Minstens 1 beherende vennoot (iedere beherende vennoot kan bestuursdaden stellen zonder toestemming van de andere vennoten)</li>
 
-<li> Dubbele boekhouding (enkelvoudige boekhouding mag als omzet < 500.000 euro) </li>
+<li>Dubbele boekhouding (enkelvoudige boekhouding mag als omzet < 500.000 euro) </li>
 
-<li> Meest eenvoudige vennootschapsvorm, maar faillissement van de vennootschap brengt automatisch het faillissement van de vennoten met zich mee</li>
+<li>Meest eenvoudige vennootschapsvorm, maar faillissement van de vennootschap brengt automatisch het faillissement van de vennoten met zich mee</li>
