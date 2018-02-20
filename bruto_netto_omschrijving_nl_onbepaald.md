@@ -64,7 +64,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
 <div class="netto-box">
 
-    <p>Omzet (bruto)</p>
+    <p>Omzet</p>
     
     <p><span class="spacer">-</span> Beroepskosten (inclusief ondernemersloon)
     
@@ -88,13 +88,13 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
 <div class="netto-box">
 
-    <p>Ondernemersloon</p>
+    <p>Ondernemersloon (bruto)</p>
     
     <p><span class="spacer">-</span> Persoonsbelasting</p>
     
     <hr>
     
-    <p><strong><span class="spacer">=</span>Wat jij eraan overhoudt</strong></p>
+    <p><strong><span class="spacer">=</span>Wat jij eraan overhoudt (netto)</strong></p>
 
 </div>
 
