@@ -16,4 +16,4 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Aandelen op naam en vrij overdraagbaar</li>
 
-<li>Aandelenregister is verplicht</li>
+<li>Aandelenregister en financieel plan verplicht</li>
