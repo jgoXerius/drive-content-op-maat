@@ -52,4 +52,4 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
 </div>
 
-In deze infographics vind je een grafische weergave van beide situaties. Wil je meer info over jouw specifieke situatie? Bepaal dan eerst je ondernemingsvorm.
+In de infographics rechts vind je een grafische weergave van beide situaties. Wil je meer info over jouw specifieke situatie? Bepaal dan eerst je ondernemingsvorm.
