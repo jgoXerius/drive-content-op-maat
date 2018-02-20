@@ -16,9 +16,9 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Aandelen op naam</li>
 
-<li>Aandelenregister is verplicht</li>
-
 <li>Aandelen beperkt overdraagbaar: helft vennoten moeten instemmen en enkel overdraagbaar aan natuurlijke personen</li>
+
+<li>Aandelenregister is verplicht</li>
 
 <li>Financieel plan is onder toezicht van een expert</li>
 
