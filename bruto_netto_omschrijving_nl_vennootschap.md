@@ -16,11 +16,11 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
 .netto-box p,h1,h3{margin-left:20px;}
 .netto-box .spacer{position:absolute;left:20px;}
- </style>
+</style>
 
 <div class="netto-box">
 
-    <p>Omzet (bruto)</p>
+    <p>Omzet</p>
     
     <p><span class="spacer">-</span> Beroepskosten (inclusief ondernemersloon)
     
@@ -45,13 +45,12 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
 <div class="netto-box">
 
-    <p>Ondernemersloon</p>
+    <p>Ondernemersloon (bruto)</p>
     
     <p><span class="spacer">-</span> Persoonsbelasting</p>
     
     <hr>
     
-    <p><strong><span class="spacer">=</span>Wat jij eraan overhoudt</strong></p>
-
+    <p><strong><span class="spacer">=</span>Wat jij eraan overhoudt (netto)</strong></p>
 
 </div>
