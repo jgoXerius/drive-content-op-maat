@@ -10,9 +10,9 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Minimum startkapitaal: €61.500</li>
 
-<li>Aansprakelijkheid beperkt tot inbreng (behoudens uitzondering)</li>
-
 <li>Bij opstart moet €61.500 volledig volstort worden. Kapitaal boven €61.500 moet 1/4e volstort worden</li>
+
+<li>Aansprakelijkheid beperkt tot inbreng (behoudens uitzondering)</li>
 
 <li>Aandelen op naam en vrij overdraagbaar</li>
 
