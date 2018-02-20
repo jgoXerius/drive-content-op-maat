@@ -23,7 +23,7 @@ En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous 
     
     
     <p><span class="spacer">-</span>
-    Frais professionnels (par ex. cotisations sociales, PCLI...)
+    Frais professionnels (incl. cotisations sociales)
     
     
     
