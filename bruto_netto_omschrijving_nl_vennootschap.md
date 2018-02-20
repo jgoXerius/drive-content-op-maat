@@ -14,7 +14,7 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
 <style>
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
-.netto-box p,h2,h1,h3{margin-left:20px;}
+.netto-box p,h1,h3{margin-left:20px;}
 .netto-box .spacer{position:absolute;left:20px;}
  </style>
 
