@@ -8,5 +8,5 @@ Je hebt de [pro’s en contra’s](http://www.xerius.be/blog/zelfstandige-worden
 
 * [Welke verplichtingen heb je in een eenmanszaak? ](http://www.xerius.be/blog/boekhouding-eenmanszaak)Denk aan boekhouding, btw, personenbelasting, sociale bijdragen.
 * Als ondernemingshoofd van een eenmanszaak ben je aansprakelijk voor al je zakelijke verbintenissen. [Je kunt wel je privé-woning beschermen via een verklaring bij de notaris.](https://www.notaris.be/nieuws-pers/detail/de-akte-van-onbeslagbaarheid-van-de-gezinswoning)
-* Een eenmanszaak oprichten is niet moeilijk, dat heb je begrepen. Is stopzetten even eenvoudig?
-* En wat als je niet wilt stoppen, [maar je activiteiten wilt verderzetten in een vennootschap?](http://info.xerius.be/hubfs/XERIUS_ebook_eenmanszaakvenootschap-v1.pdf)
+* Een eenmanszaak oprichten is niet moeilijk, dat heb je begrepen. [Is stopzetten even eenvoudig?](http://www.xerius.be/http/www.xerius.be/zelfstandigen/wijzigingen-onderneming/stopzetten/)
+* En wat als je niet wilt stoppen, [maar je activiteiten wil verderzetten in een vennootschap?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/van-eenmanszaak-naar-vennootschap/)
