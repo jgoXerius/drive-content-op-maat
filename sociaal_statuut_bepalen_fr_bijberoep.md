@@ -10,8 +10,8 @@ Vos revenus sont très peu élevés ? Vous ne payez alors aucune cotisation soc
 
 Découvrez également :
 
-* [Pourquoi devez-vous payer des cotisations sociales en étant indépendant à titre complémentaire ?](https://blog.xerius.be/zelfstandigen/waarom-zelfstandige-in-bijberoep-sociale-bijdragen)
-* [Combien cela coûte-t-il de devenir  indépendant à titre complémentaire ?](https://www.xerius.be/blog/wat-kost-een-bijberoep)
+* [Pourquoi devez-vous payer des cotisations sociales en étant indépendant à titre complémentaire ?](http://blog.xerius.be/independants/independant-complementaire-pourquoi-cotisations-sociales)
+* [Combien cela coûte-t-il de devenir  indépendant à titre complémentaire ?](https://www.xerius.be/blog/wat-kost-een-bijberoep http://blog.xerius.be/debutant/combien-coute-une-activite-a-titre-complementaire)
 
 Quelques cas particuliers :
 
