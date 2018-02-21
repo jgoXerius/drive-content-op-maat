@@ -2,7 +2,7 @@
 title: Keuze ondernemingsvorm (NL) - Vennootschap
 date: 2017-11-07 23:43:33 +0000
 ---
-### Een vennootschap starten
+## Een vennootschap starten
 
 Je hebt de [pro’s en contra’s](https://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/) naast elkaar gelegd, en je hebt (voorlopig) besloten dat je een vennootschap wilt oprichten. Goed bezig!
 
