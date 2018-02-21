@@ -4,7 +4,7 @@ date: 2017-11-07 23:43:33 +0000
 ---
 #### Eenmanszaak of vennootschap?
 
-De vraag welke ondernemingsvorm het meest geschikt is voor jouw project, is een complexe vraag. Er zijn immers heel wat facetten aan het ondernemerschap waar je rekening mee moet houden, ook bij deze keuze. Ons belangrijkste advies: laat je bijstaan door een boekhouder of accountant!
+De vraag welke ondernemingsvorm het meest geschikt is voor jouw project, is een complexe vraag. Er zijn immers heel wat facetten aan het ondernemerschap waar je rekening mee moet houden, ook bij deze keuze. Ons belangrijkste advies: laat je bijstaan door een boekhouder of accountant! Neem alvast een kijkje in[ onze begrippenlijst](https://www.xerius.be/begrippenlijst) om dezelfde taal te spreken als je adviseur.
 
 In tussentijd vind je hier alvast meer informatie over de vragen die je je misschien stelt:
 
