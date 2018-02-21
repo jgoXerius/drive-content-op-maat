@@ -15,7 +15,7 @@ Hou in de schatting van je aantallen rekening met volgende vragen:
 * Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
 * Welke groei voorzie je?
 
-Onze tips om je aantallen op een correcte manier in te vullen, vind je hier. (_link naar nieuw artikel com & co achter steken)_
+[Onze tips om je aantallen op een correcte manier in te vullen, vind je hier.](https://www.xerius.be/blog/checklist-hoe-schat-je-je-prijzen-en-inkomsten-beter-in ) 
 
 Lees ook:
 
