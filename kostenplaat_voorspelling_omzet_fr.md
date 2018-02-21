@@ -15,10 +15,8 @@ Tenez compte des éléments suivants dans l’estimation de la quantité :
 * Vos produits ou services sont-ils saisonniers ? Avez-vous des produits alternatifs à vendre pendant les périodes plus calmes ?
 * Quelle croissance prévoyez-vous ?
 
-Vous retrouverez ici nos conseils pour remplir correctement vos quantités. (Ajouter le lien vers le nouvel article com & co.)
+Vous retrouverez ici [nos conseils pour remplir correctement vos quantités](http://blog.xerius.be/debutant/7-questions-pour-mieux-evaluer-vos-tarifs-et-vos-revenus ). 
 
-Découvrez également :
-
-* Comment acquérir vos [clients intelligemment](http://www.xerius.be/blog/marketing-voor-starters-6-slimme-manieren-om-klanten-te-werven). _(fr versie nog te publiceren)_
+* Comment acquérir vos [clients intelligemment](http://blog.xerius.be/debutant/marketing-pour-starters-6-manieres-intelligentes-dacquerir-des-clients).
 * Nos conseils pour [vous démarquer des autres](https://blog.xerius.be/debutant/personal-branding-comment-puis-je-me-demarquer) en tant qu’indépendant.
-* Comment vous démarquer de la [concurrence](https://blog.xerius.be/debutant/gerer-la-concurrence). 
+* Comment vous démarquer de la [concurrence](https://blog.xerius.be/debutant/gerer-la-concurrence).
