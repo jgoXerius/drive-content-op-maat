@@ -2,9 +2,9 @@
 title: Keuze ondernemingsvorm (NL) - Vennootschap
 date: 2017-11-07 23:43:33 +0000
 ---
-Je hebt de [pro’s en contra’s](https://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/) naast elkaar gelegd, en je hebt (voorlopig) besloten dat je een vennootschap wilt oprichten. Goed bezig!
+### Een vennootschap starten
 
-Wist je dat je je vennootschap altijd van vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig. 
+Je hebt de [pro’s en contra’s](https://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/) naast elkaar gelegd, en je hebt (voorlopig) besloten dat je een vennootschap wilt oprichten. Goed bezig!
 
 Meer informatie over het starten van een vennootschap lees je in volgende artikels:
 
@@ -15,3 +15,5 @@ Meer informatie over het starten van een vennootschap lees je in volgende artike
 * [Betaalt een vennootschap ook sociale bijdragen?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/vennootschapsbijdrage/)
 * Oprichters, vennoten en mandatarissen, what's in a name? [Lees het in onze begrippenlijst.](https://www.xerius.be/begrippenlijst)
 * [En hoe zit het als je je vennootschap terug wilt stopzetten?](http://www.xerius.be/http/www.xerius.be/zelfstandigen/wijzigingen-onderneming/stopzetten/)  _(nog link naar artikel achterzetten)_
+
+Wist je dat je je vennootschap altijd van vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig. 
