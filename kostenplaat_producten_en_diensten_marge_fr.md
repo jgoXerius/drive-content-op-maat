@@ -6,4 +6,4 @@ Dans cette partie de l’exercice, réfléchissez à combien la vente d’un pro
 
 La multiplication suivante vous permet d’obtenir la marge brute totale : marge brute totale = marge par produit ou service x total de produits ou services vendus
 
-Cliquez si vous souhaitez en apprendre davantage sur [l’importance d’une marge correcte](http://www.xerius.be/blog/plak-de-juiste-prijs-op-je-product-en-dienst%20) et l’influence de celle-ci sur votre tarification.
+Cliquez si vous souhaitez en apprendre davantage sur [l’importance d’une marge correcte](http://blog.xerius.be/debutant/vos-produits-et-services-a-leur-juste-valeur) et l’influence de celle-ci sur votre tarification.
