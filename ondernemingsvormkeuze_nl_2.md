@@ -16,4 +16,4 @@ Meer informatie over het starten van een vennootschap lees je in volgende artike
 * Oprichters, vennoten en mandatarissen, what's in a name? [Lees het in onze begrippenlijst.](https://www.xerius.be/begrippenlijst)
 * [En hoe zit het als je je vennootschap terug wilt stopzetten?](http://www.xerius.be/http/www.xerius.be/zelfstandigen/wijzigingen-onderneming/stopzetten/)  _(nog link naar artikel achterzetten)_
 
-Wist je dat je je vennootschap altijd van vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig. 
+Wist je overigens dat je je vennootschap altijd van vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig. 
