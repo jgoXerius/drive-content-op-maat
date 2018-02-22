@@ -15,10 +15,10 @@ Hou in de schatting van je aantallen rekening met volgende vragen:
 * Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
 * Welke groei voorzie je?
 
-[Onze tips om je aantallen op een correcte manier in te vullen, vind je hier.](https://www.xerius.be/blog/checklist-hoe-schat-je-je-prijzen-en-inkomsten-beter-in ) 
+[Onze tips om je aantallen op een correcte manier in te vullen, vind je hier.](https://www.xerius.be/blog/checklist-hoe-schat-je-je-prijzen-en-inkomsten-beter-in )
 
 Lees ook:
 
 * Op welke slimme manieren je [klanten kan werven](http://www.xerius.be/blog/marketing-voor-starters-6-slimme-manieren-om-klanten-te-werven).
 * Onze tips om je als zelfstandige te [onderscheiden van anderen](http://www.xerius.be/blog/personal-branding-hoe-onderscheid-ik-me-als-zelfstandige-van-de-anderen).
-* Hoe omspringen met [concurrentie](https://www.xerius.be/blog/omgaan-met-concurrentie).
+* Hoe je omspringt met [concurrentie](https://www.xerius.be/blog/omgaan-met-concurrentie).
