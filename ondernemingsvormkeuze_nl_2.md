@@ -9,11 +9,11 @@ Je hebt de [pro’s en contra’s](https://www.xerius.be/blog/zelfstandige-worde
 Meer informatie over het starten van een vennootschap lees je in volgende artikels:
 
 * [Welke vennootschapsvormen zijn er?](http://www.xerius.be/zelfstandigen/start-eigen-zaak/juridische-vorm/)
-* Het vennootschapsrecht wordt hervormd. Wat gaat er veranderen? _(link naar nieuw artikel toevoegen)_
-* Een vennootschap oprichten. [Hoe begin je daaraan?](www.xerius.be/oprichting-vennootschap) 
+* Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er) 
+* Een vennootschap oprichten. [Hoe begin je daaraan?](www.xerius.be/oprichting-vennootschap)
 * [En wat moet er in de statuten staan?](https://www.xerius.be/blog/wat-moet-in-statuten-staan)
 * [Betaalt een vennootschap ook sociale bijdragen?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/vennootschapsbijdrage/)
 * Oprichters, vennoten en mandatarissen, what's in a name? [Lees het in onze begrippenlijst.](https://www.xerius.be/begrippenlijst)
 * [En hoe zit het als je je vennootschap terug wilt stopzetten?](http://www.xerius.be/http/www.xerius.be/zelfstandigen/wijzigingen-onderneming/stopzetten/)  _(nog link naar artikel achterzetten)_
 
-Wist je overigens dat je je vennootschap altijd van vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig. 
+Wist je overigens dat je je vennootschap altijd van juridische vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig.
