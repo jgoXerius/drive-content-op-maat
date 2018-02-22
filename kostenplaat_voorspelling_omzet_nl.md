@@ -11,11 +11,11 @@ Hou in de schatting van je aantallen rekening met volgende vragen:
 * Wie zijn je concurrenten?
 * Hoeveel potentiële klanten heb je? Welk marktaandeel vertegenwoordigt dit?
 * Welk volume kan je produceren? Hoeveel tijd neemt het aanbieden van je dienst in beslag?
-* Welke zijn je vakantieperiodes? En die van je leveranciers?
 * Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
 * Welke groei voorzie je?
+* Welke zijn je vakantieperiodes? En die van je leveranciers?
 
-[Onze tips om je aantallen op een correcte manier in te vullen, vind je hier.](https://www.xerius.be/blog/checklist-hoe-schat-je-je-prijzen-en-inkomsten-beter-in )
+Wist je bijvoorbeeld dat je als freelancer kan uitgaan van 220 werkdagen per jaar? [Meer tips om je aantallen op een correcte manier in te vullen, vind je hier.](https://www.xerius.be/blog/checklist-hoe-schat-je-je-prijzen-en-inkomsten-beter-in )
 
 Lees ook:
 
