@@ -8,6 +8,8 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Notariële oprichtingsakte</li>
 
+<li>[Meer info](https://www.xerius.be/ondernemingsvorm/bvba)</li>
+
 <li>Minimum startkapitaal: €18.550</li>
 
 <li>Bij opstart minimale volstorting van 1/5e van de inbreng (bij meerdere oprichters minstens €6.200, minstens €12.400 bij 1 oprichter)</li>
