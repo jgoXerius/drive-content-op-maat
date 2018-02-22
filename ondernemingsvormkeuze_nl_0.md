@@ -13,7 +13,7 @@ Dat zit zo. Welke vorm je onderneming ook aanneemt, vanaf dat je een onderneming
 Meer weten over eenmanszaken en vennootschappen?
 
 * [Welke ondernemingsvormen zijn er?](http://www.xerius.be/zelfstandigen/start-eigen-zaak/juridische-vorm/)
-* Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er) 
+* Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er)
 * [Wat is het verschil tussen een eenmanszaak en een vennootschap?](http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/)
 * [Welke fiscale verplichtingen heb je in een eenmanszaak? En in een vennootschap?](https://www.vlaanderen.be/nl/ondernemen/boekhouding-belastingen-en-fiscaliteit/belastingen-voor-startende-ondernemers)
-* Een vennootschap oprichten. [Hoe begin je daaraan?](www.xerius.be/oprichting-vennootschap) [En wat moet er in de statuten staan?](https://www.xerius.be/blog/wat-moet-in-statuten-staan)
+* Een vennootschap oprichten. [Hoe begin je daaraan?](www.xerius.be/oprichting-vennootschap) En wat moet er in [de statuten ](https://www.xerius.be/blog/wat-moet-in-statuten-staan)staan?
