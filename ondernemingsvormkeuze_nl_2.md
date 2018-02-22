@@ -14,6 +14,6 @@ Meer informatie over het starten van een vennootschap lees je in volgende artike
 * [En wat moet er in de statuten staan?](https://www.xerius.be/blog/wat-moet-in-statuten-staan)
 * [Betaalt een vennootschap ook sociale bijdragen?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/vennootschapsbijdrage/)
 * Oprichters, vennoten en mandatarissen, what's in a name? [Lees het in onze begrippenlijst.](https://www.xerius.be/begrippenlijst)
-* [En hoe zit het als je je vennootschap terug wilt stopzetten?](https://www.xerius.be/zelfstandigen/start-eigen-zaak/eenmanszaak-vennootschap)  
+* [En hoe zit het als je je vennootschap wilt stopzetten?](https://www.xerius.be/zelfstandigen/start-eigen-zaak/eenmanszaak-vennootschap)
 
 Wist je overigens dat je je vennootschap altijd van juridische vorm kan veranderen? Hiervoor is wel altijd een publicatie in het Belgisch Staatsblad nodig.
