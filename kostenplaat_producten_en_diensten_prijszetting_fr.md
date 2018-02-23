@@ -16,3 +16,4 @@ Vous souhaitez obtenir davantage d’informations ?
 
 * Quelle méthode vous convient le mieux [pour fixer vos tarifs](https://blog.xerius.be/debutant/fixer-ses-tarifs-quelle-methode-vous-convient-le-mieux) ?
 * Comment fixer vos [tarifs d’indépendant](https://blog.xerius.be/debutant/cinq-%C3%A9tapes-pour-fixer-ses-tarifs-dind%C3%A9pendant) ?
+* Une stratégie de tarification bien réfléchie pour les starters. _(link fr nog achtersteken)_
