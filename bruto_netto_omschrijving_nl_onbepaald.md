@@ -54,7 +54,7 @@ Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de 
 
 </div>
 
-#### Vennootschap
+##### Vennootschap
 
 ###### In een vennootschap is je persoonlijk vermogen gescheiden van het vermogen van de vennootschap. Je keert jezelf een loon uit vanuit de vennootschap. In de personenbelasting word je enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak, waar je op het volledige inkomen van je onderneming belast wordt.
 
