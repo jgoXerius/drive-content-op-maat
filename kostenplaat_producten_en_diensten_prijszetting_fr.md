@@ -2,7 +2,7 @@
 title: Kostenplaat producten en diensten prijszetting (FR)
 date: 2018-01-05 16:11:00 +0000
 ---
-## Chiffre d’affaires = **prix** x quantité  
+## Chiffre d’affaires = **prix** x quantité
 
 Impossible de surestimer l’intérêt que représente une tarification correcte. Si votre prix est trop bas, vos produits ou services ne vous rapportent rien. Dans ce cas, votre marge est trop faible. Et vous devrez vendre de nombreux produits pour garder la tête hors de l’eau. Bien qu’un prix plus élevé vous rapportera une marge supérieure, vos clients se mettront rapidement en quête de solutions plus abordables.
 
@@ -15,5 +15,5 @@ Présentez votre produit à votre famille, vos amis et vos connaissances ou à d
 Vous souhaitez obtenir davantage d’informations ?
 
 * Quelle méthode vous convient le mieux [pour fixer vos tarifs](https://blog.xerius.be/debutant/fixer-ses-tarifs-quelle-methode-vous-convient-le-mieux) ?
-* Comment fixer vos [tarifs d’indépendant](https://blog.xerius.be/debutant/cinq-%C3%A9tapes-pour-fixer-ses-tarifs-dind%C3%A9pendant) ?
 * Une stratégie de tarification bien réfléchie pour les starters. _(link fr nog achtersteken)_
+* Comment fixer vos [tarifs d’indépendant](https://blog.xerius.be/debutant/cinq-%C3%A9tapes-pour-fixer-ses-tarifs-dind%C3%A9pendant) ?
