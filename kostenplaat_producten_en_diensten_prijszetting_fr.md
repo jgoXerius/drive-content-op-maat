@@ -2,7 +2,7 @@
 title: Kostenplaat producten en diensten prijszetting (FR)
 date: 2018-01-05 16:11:00 +0000
 ---
-# Tarification vs chiffre d’affaires
+# Chiffre d’affaires = **prix** x quantité  
 
 Impossible de surestimer l’intérêt que représente une tarification correcte. Si votre prix est trop bas, vos produits ou services ne vous rapportent rien. Dans ce cas, votre marge est trop faible. Et vous devrez vendre de nombreux produits pour garder la tête hors de l’eau. Bien qu’un prix plus élevé vous rapportera une marge supérieure, vos clients se mettront rapidement en quête de solutions plus abordables.
 
