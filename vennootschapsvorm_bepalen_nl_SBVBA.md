@@ -20,9 +20,17 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Aandelen op naam beperkt overdraagbaar: helft vennoten moeten instemmen en enkel overdraagbaar aan natuurlijke personen</li>
 
-<li> Extra voorwaarden:
+<li> Extra voorwaarden: 
 
-1.  Je mag nog geen oprichter van een s-bvba zijn of meer dan 5% aandelen bezitten in een andere vennootschap
+<br>
+
+1. Je mag nog geen oprichter van een s-bvba zijn of meer dan 5% aandelen bezitten in een andere vennootschap
+
+   <br>
 2. 25% van de winst moet jaarlijks gereserveerd worden tot je het bedrag van €18.550 bereikt
+
+   <br>
 3. Binnen de 5 jaar vorm je de s-bvba om naar een klassieke bvba met volstorting van het kapitaal tot €18.550
+
+   <br>
 4. Vanaf 5 voltijdse werknemers verplichte omvorming naar een bvba</li>
