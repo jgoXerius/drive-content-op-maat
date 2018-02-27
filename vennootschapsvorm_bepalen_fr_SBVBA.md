@@ -20,7 +20,9 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Actions nominatives et transmissibles de manière limitée : le consentement de la moitié des associés est nécessaire et elles sont uniquement transmissibles à des personnes morales.</li>
 
-<li> Conditions supplémentaires : <br>
+<li> Conditions supplémentaires :
+
+ <br>
 
 1. Vous ne pouvez pas devenir fondateur d’une SPRL-S si vous possédez plus de 5 % d’actions dans une autre société. 
 
