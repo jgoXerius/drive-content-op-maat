@@ -14,10 +14,8 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Responsabilité limitée au capital apporté</li>
 
-<li>Une double comptabilité est obligatoire.</li>
+<li>Une double comptabilité est obligatoire</li>
 
-<li>Un registre des actions et un plan financier sont obligatoires.</li>
+<li>Un registre des actions et un plan financier sont obligatoires</li>
 
 <li>Actions nominatives et transmissibles de manière limitée : uniquement avec le consentement de la moitié des associés</li>
-
-    
