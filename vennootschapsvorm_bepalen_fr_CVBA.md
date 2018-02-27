@@ -2,10 +2,26 @@
 title: Vennootschapsvorm bepalen - CVBA (FR)
 date: 2018-01-25 00:00:00 +0000
 ---
+<li>Société coopérative à responsabilité limitée</li>
 
-<li>CVBA optie 1 FR</li>
-<li>CVBA optie 2</li>
-<li>CVBA optie 3</li>
-<li>CVBA optie 4</li>
-<li>CVBA optie 5</li>
-<li>CVBA optie 6</li>
+<li>Au moins 3 fondateurs qui désignent 1 administrateur (associé ou pas)</li>
+
+<li>Acte constitutif notarié</li>
+
+<li>Capital de départ minimum : 18.550 €/li>
+
+<li>Libération minimale d’un quart du capital de départ, avec un minimum de 6.200 €</li>
+
+<li>Responsabilité limitée à l’apport (sauf exception)</li>
+
+<li>Une double comptabilité est obligatoire</li>
+
+<li>Un registre des actions et un plan financier sont obligatoires</li>
+
+<li>Actions nominatives et relativement transmissibles entre associés</li>
+
+<li> La transmission à des tiers est uniquement possible selon les prescriptions des statuts</li>
+
+<li>Les associés peuvent rejoindre et quitter facilement l’entreprise</li>
+
+    
