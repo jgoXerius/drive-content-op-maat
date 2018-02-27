@@ -4,7 +4,9 @@ date: 2018-01-12 00:00:00 +0000
 ---
 ## La prudence est de mise
 
-L’avantage d’une affiliation au titre de l’article 37 ? Vous payez moins de cotisations sociales. Mais elle comporte un inconvénient majeur.
+L’avantage d’une affiliation au titre de l’article 37 ? Vous payez moins de cotisations sociales. Si vous percevez une pension de survie, cette option est tout à fait envisageable pour gagner un complément avec ce statut.    
+
+Mais elle comporte un inconvénient majeur.
 
 Prenons un exemple concret. Vous êtes marié(e) et votre conjoint(e) travaille à temps plein. Vous vous occupez du ménage et vous devenez indépendant. Vous optez pour le régime de l’article 37. Vous payez donc des **cotisations réduites**, mais vous ne constituez **aucuns droits sociaux**. En d’autres termes, vous ne constituez aucune pension et vous ne percevez aucune indemnité en cas de repos de maternité ou d’incapacité de travail. Pour le moment, cela ne vous empêche peut-être pas de dormir. Mais si vous étiez enceinte et que vous deviez prendre un peu de repos ? Vous n’auriez alors droit à aucune **allocation**.
 
