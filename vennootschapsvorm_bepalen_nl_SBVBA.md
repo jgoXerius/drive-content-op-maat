@@ -16,11 +16,11 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Dubbele boekhouding is verplicht</li>
 
-<li>Aandelenregister is verplicht, financieel plan is onder toezicht van een expert</li>
+<li>Aandelenregister en financieel plan zijn verplicht</li>
 
 <li>Aandelen op naam beperkt overdraagbaar: helft vennoten moeten instemmen en enkel overdraagbaar aan natuurlijke personen</li>
 
-<li> Extra voorwaarden: 
+<li> Extra voorwaarden:
 
 <br>
 
@@ -30,7 +30,7 @@ date: 2018-01-25 00:00:00 +0000
 2. 25% van de winst moet jaarlijks gereserveerd worden tot je het bedrag van €18.550 bereikt
 
    <br>
-3. Binnen de 5 jaar vorm je de s-bvba om naar een klassieke bvba met volstorting van het kapitaal tot €18.550
+3. Het financieel plan moet opgesteld worden door een financieel expert (erkend boekhouder, accountant of bedrijfsrevisor).
 
    <br>
-4. Vanaf 5 voltijdse werknemers verplichte omvorming naar een bvba</li>
+4. Bedraagt het minimumkapitaal na drie jaar nog geen €18.550, dan zijn de oprichters hoofdelijk aansprakelijk voor het verschil tussen het kapitaal van de s-bvba en €18.550 euro.</li>
