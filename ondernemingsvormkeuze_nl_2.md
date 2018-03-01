@@ -12,7 +12,7 @@ Meer informatie over het starten van een vennootschap lees je in volgende artike
 * Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er)
 * Een vennootschap oprichten. [Hoe begin je daaraan?](www.xerius.be/oprichting-vennootschap)
 * [En wat moet er in de statuten staan?](https://www.xerius.be/blog/wat-moet-in-statuten-staan)
-* [Betaalt een vennootschap ook je sociale bijdragen?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/vennootschapsbijdrage/)
+* [Betaalt een vennootschap ook sociale bijdragen?](https://www.xerius.be/zelfstandigen/sociale-zekerheid/vennootschapsbijdrage/)
 * Oprichters, vennoten en mandatarissen, what's in a name? [Lees het in onze begrippenlijst.](https://www.xerius.be/begrippenlijst)
 * [En hoe zit het als je je vennootschap wilt stopzetten?](https://www.xerius.be/zelfstandigen/start-eigen-zaak/eenmanszaak-vennootschap)
 
