@@ -58,6 +58,12 @@ En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous 
 
 </div>
 
+<br/>
+
+<br/>
+
+<br/>
+
 Dans une **société**, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
 
 S’il reste des bénéfices après le paiement de votre salaire, ceux-ci restent au sein de la société. Ils sont soumis à l’impôt des sociétés.
