@@ -6,6 +6,8 @@ date: 2017-12-27 00:00:00 +0000
 
 Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting. Hieronder geven we schematisch weer hoe dit precies in zijn werk gaat.
 
+<br/>
+
 <h4>Eenmanszaak</h4> <style>
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
