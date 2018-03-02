@@ -4,6 +4,8 @@ date: 2017-12-27 00:00:00 +0000
 ---
 ## Hoe bereken je wat je overhoudt aan je zelfstandige activiteit?
 
+<br/>
+
 Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting. Hieronder geven we schematisch weer hoe dit precies in zijn werk gaat.
 
 <br/>
@@ -55,8 +57,6 @@ Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de 
     <p><strong><span class="spacer">=</span> Wat jij eraan overhoudt</strong></p>
 
 </div>
-
-<br/>
 
 <br/>
 
