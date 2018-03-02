@@ -8,8 +8,6 @@ date: 2017-12-27 00:00:00 +0000
 
 En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous êtes imposé sur ceux-ci à l’impôt des personnes. Ci-dessous, nous schématisons le fonctionnement exact de ce système.
 
-<br/>
-
 <h4>Entreprise personne physique</h4> <style>
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
