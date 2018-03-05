@@ -10,7 +10,7 @@ Heb je een heel laag inkomen? Dan betaal je in bijberoep geen sociale bijdragen.
 
 Lees ook:
 
-* [Waarom je als zelfstandige sociale bijdragen betaalt.](http://blog.xerius.be/zelfstandigen/waarom-zelfstandige-in-bijberoep-sociale-bijdragen )
+* [Waarom je als zelfstandige in bijberoep sociale bijdragen betaalt.](http://blog.xerius.be/zelfstandigen/waarom-zelfstandige-in-bijberoep-sociale-bijdragen )
 * [Wat het kost om een onderneming in bijberoep te starten.](https://www.xerius.be/blog/wat-kost-een-bijberoep)
 
 Enkele bijzondere situaties:
