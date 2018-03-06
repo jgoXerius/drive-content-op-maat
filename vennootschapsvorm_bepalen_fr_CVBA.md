@@ -8,7 +8,7 @@ date: 2018-01-25 00:00:00 +0000
 
 <li>Acte constitutif notarié</li>
 
-<li>Capital de départ minimum : 18.550 €/li>
+<li>Capital de départ minimum : 18.550 €</li>
 
 <li>Libération minimale d’un quart du capital de départ, avec un minimum de 6.200 €</li>
 
