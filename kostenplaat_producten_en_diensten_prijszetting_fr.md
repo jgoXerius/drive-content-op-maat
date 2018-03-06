@@ -15,5 +15,5 @@ Présentez votre produit à votre famille, vos amis et vos connaissances ou à d
 Vous souhaitez obtenir davantage d’informations ?
 
 * Quelle méthode vous convient le mieux [pour fixer vos tarifs](https://blog.xerius.be/debutant/fixer-ses-tarifs-quelle-methode-vous-convient-le-mieux) ?
-* Une stratégie de tarification bien réfléchie pour les starters. _(link fr nog achtersteken)_
+* Une stratégie de [tarification bien réfléchie pour les starters](http://blog.xerius.be/debutant/lean-pricing).
 * Comment fixer vos [tarifs d’indépendant](https://blog.xerius.be/debutant/cinq-%C3%A9tapes-pour-fixer-ses-tarifs-dind%C3%A9pendant) ?
