@@ -2,7 +2,7 @@
 title: Kostenplaat producten en diensten prijszetting (NL)
 date: 2018-01-05 16:11:00 +0000
 ---
-## Omzet = **prijs** x hoeveelheid 
+## Omzet = **prijs** x hoeveelheid
 
 Het belang van een correcte **prijs** kan je moeilijk overschatten. Is je prijs te laag,  dan hou je te weinig over per product of dienst. Je marge is in dat geval te klein. En je zal veel producten moeten verkopen om het hoofd boven water te houden. Bij een te hoge prijs heb je weliswaar een grotere marge, maar je klanten zullen snel naar goedkopere alternatieven zoeken.
 
@@ -15,5 +15,5 @@ Stel je product voor aan familie, vrienden en kennissen of andere mogelijke klan
 Meer weten?
 
 * Welke [methode van prijszetting](https://www.xerius.be/blog/prijszetting-welke-methode-is-ideaal-voor-jou) is ideaal voor jou?
-* Als starter naar [een uitgekiende prijsstrategie]().
+* Als starter naar [een uitgekiende prijsstrategie](https://www.xerius.be/blog/lean-pricing).
 * Hoe bepaal je je [tarief als freelancer](https://www.xerius.be/blog/vijf-stappen-om-je-freelance-tarief-te-bepalen/)?
