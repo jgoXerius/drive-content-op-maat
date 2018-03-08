@@ -70,6 +70,8 @@ In een **vennootschap** is je persoonlijk vermogen gescheiden van het vermogen v
 
 Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootschap. Deze vennootschapswinst is onderworpen aan de vennootschapsbelasting.
 
+Loon? Winst? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/begrippenlijst#4) bij.
+
 <h4>Vennootschap</h4>
 
 <style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h1,h3{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
