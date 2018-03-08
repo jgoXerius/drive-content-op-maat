@@ -20,7 +20,7 @@ Vous pouvez calculer le coût salarial d’un salarié comme suit :
 
 = **Salaire brut du salarié**
 
-\+ Cotisations patronales (+/- 30 % - cotisation ONSS supplémentaire à laquelle vous êtes soumis en tant qu’employeur)
+\+ Cotisations patronales (+/- 25 % - cotisation ONSS supplémentaire à laquelle vous êtes soumis en tant qu’employeur)
 
 = **Coût salarial**
 
