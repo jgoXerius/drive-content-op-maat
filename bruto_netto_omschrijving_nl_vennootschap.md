@@ -10,7 +10,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
 Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
-Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begripskennis](https://www.xerius.be/begrippenlijst) bij. 
+Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/begrippenlijst#4) bij.
 
 <h4>Vennootschap</h4>
 
