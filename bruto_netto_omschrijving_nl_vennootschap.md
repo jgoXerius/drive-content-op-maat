@@ -38,7 +38,7 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
     
     <p><span class="spacer">=</span> Winst (netto vennootschap)</p>
     
-    <p><strong>Wat vennootschap eraan overhoudt</strong></p>
+    <p><strong>Wat je vennootschap eraan overhoudt</strong></p>
 
 </div>
 <h4>Jij</h4>
@@ -47,7 +47,7 @@ Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
     <p>Ondernemersloon (bruto)</p>
     
-    <p><span class="spacer">-</span> Persoonsbelasting</p>
+    <p><span class="spacer">-</span> Personenbelasting</p>
     
     <hr>
     
