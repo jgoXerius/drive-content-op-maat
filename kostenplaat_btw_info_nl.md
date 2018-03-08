@@ -2,7 +2,9 @@
 title: Kostenplaat wizard BTW-info (NL)
 date: 2017-12-04 12:00:00 +0000
 ---
-_Als zelfstandige haal je inkomsten uit je activiteiten, maar je doet ook uitgaven en investeringen. Die kosten geef je net als je omzet jaarlijks door in je belastingaangifte. Je effectieve beroepskosten mag je aftrekken van je inkomsten: hoe lager je inkomsten, hoe minder belastingen je erop betaalt. Rijst natuurlijk de vraag: trek je kosten dan met of zonder btw af? Deze basisprincipes scheppen klaarheid:_
+_Als zelfstandige haal je inkomsten uit je activiteiten, maar je doet ook uitgaven en investeringen. Die kosten geef je net als je omzet jaarlijks door in je belastingaangifte. Je effectieve beroepskosten mag je aftrekken van je inkomsten: hoe lager je inkomsten, hoe minder belastingen je erop betaalt. Hoe je dit best aanpakt zal je boekhouder je vertellen._ 
+
+_Voor jouw schatting hier leggen we graag even uit of je kosten aftrekt met of zonder btw? Deze basisprincipes scheppen klaarheid:_
 
 1\.     Algemeen: aftrekbare kosten zijn in principe altijd bedragen _zonder btw_
 
