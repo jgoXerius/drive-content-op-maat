@@ -11,7 +11,7 @@ Hou in de schatting van je aantallen rekening met volgende vragen:
 * Wie zijn je concurrenten?
 * Hoeveel potentiële klanten heb je? Welk marktaandeel vertegenwoordigt dit?
 * Welk volume kan je produceren? Hoeveel tijd neemt het aanbieden van je dienst in beslag?
-* Zijn je producten of diensten seizoensgebonden? heb je alternatieve producten voor kalmere periodes?
+* Zijn je producten of diensten seizoensgebonden? Heb je alternatieve producten voor kalmere periodes?
 * Welke groei voorzie je?
 * Welke zijn je vakantieperiodes? En die van je leveranciers?
 
