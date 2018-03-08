@@ -4,7 +4,9 @@ date: 2017-12-27 00:00:00 +0000
 ---
 ## Hoe bereken je wat je overhoudt aan je zelfstandige activiteit?
 
-Als eenmanszaak is er geen onderscheid tussen je persoonlijk vermogen en dat van je zaak. Het inkomen dat je overhoudt aan je professionele activiteit, na aftrek van je kosten, wordt als persoonlijk inkomen of ‘loon’ gezien. Daarom zegt men vaak dat in een eenmanszaak je winst gelijk is aan je loon. Op die winst word je belast in de personenbelasting. Ruwweg hou je als zelfstandige met een gemiddelde omzet zo’n 40-45% netto-winst over.  
+Als eenmanszaak is er geen onderscheid tussen je persoonlijk vermogen en dat van je zaak. Het inkomen dat je overhoudt aan je professionele activiteit, na aftrek van je kosten, wordt als persoonlijk inkomen of ‘loon’ gezien. Daarom zegt men vaak dat in een eenmanszaak je winst gelijk is aan je loon. Op die winst word je belast in de personenbelasting. Ruwweg hou je als zelfstandige met een gemiddelde omzet zo’n 40-45% netto-winst over.
+
+Loon? Winst? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/begrippenlijst#4) bij.
 
 Schematisch ziet dit er zo uit:
 <h4>Eenmanszaak</h4>
