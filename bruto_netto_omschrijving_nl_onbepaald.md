@@ -94,7 +94,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
     
     <p><span class="spacer">=</span> Winst (netto vennootschap)</p>
     
-    <p><strong>Wat vennootschap eraan overhoudt</strong></p>
+    <p><strong>Wat je vennootschap eraan overhoudt</strong></p>
 
 </div> <h4>Jij</h4>
 
@@ -102,7 +102,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
     <p>Ondernemersloon (bruto)</p>
     
-    <p><span class="spacer">-</span> Persoonsbelasting</p>
+    <p><span class="spacer">-</span> Personenbelasting</p>
     
     <hr>
     
