@@ -89,13 +89,13 @@ S’il reste des bénéfices après le paiement de votre salaire, ceux-ci resten
     
     <hr>
     
-    <p><span class="spacer">=</span>Bénéfices (brut de la société)</p>
+    <p><span class="spacer">=</span>Bénéfice (brut de la société)</p>
     
     <p><span class="spacer">-</span> Impôt des sociétés</p>
     
     <hr>
     
-    <p><span class="spacer">=</span> Bénéfices (net de la société)</p>
+    <p><span class="spacer">=</span> Bénéfice (net de la société)</p>
     
     <p><strong>Ce qu’il reste à votre société</strong></p>
 
