@@ -15,7 +15,7 @@ Tenez compte des éléments suivants dans l’estimation de la quantité :
 * Vos produits ou services sont-ils saisonniers ? Avez-vous des produits alternatifs à vendre pendant les périodes plus calmes ?
 * Quelle croissance prévoyez-vous ?
 
-Saviez-vous par exemple qu’un indépendant peut compter sur 220 jours de travail par an ?   [Obtenez ici davantage de conseils pour établir correctement vos chiffres.](https://blog.xerius.be/debutant/7-questions-pour-mieux-evaluer-vos-tarifs-et-vos-revenus) 
+Saviez-vous par exemple qu’un indépendant preste 220 jours de travail par an ? [Obtenez ici davantage de conseils pour établir correctement vos chiffres.](https://blog.xerius.be/debutant/7-questions-pour-mieux-evaluer-vos-tarifs-et-vos-revenus)
 
 * Comment acquérir vos [clients intelligemment](http://blog.xerius.be/debutant/marketing-pour-starters-6-manieres-intelligentes-dacquerir-des-clients).
 * Nos conseils pour [vous démarquer des autres](https://blog.xerius.be/debutant/personal-branding-comment-puis-je-me-demarquer) en tant qu’indépendant.
