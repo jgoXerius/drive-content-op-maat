@@ -72,6 +72,8 @@ Dans une **société**, votre patrimoine personnel est distinct du patrimoine de
 
 S’il reste des bénéfices après le paiement de votre salaire, ceux-ci restent au sein de la société. Ils sont soumis à l’impôt des sociétés.
 
+Salaire ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/glossaire).
+
 <h4>Société</h4>
 
 <style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h2,h1,h3{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
