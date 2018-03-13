@@ -10,7 +10,7 @@ S’il reste des bénéfices après le paiement de votre salaire, ceux-ci resten
 
 Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calcul.
 
-Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/glossaire).
+Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/glossaire#4).
 
 <h4>Société</h4>
 
