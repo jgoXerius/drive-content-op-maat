@@ -2,7 +2,7 @@
 title: Kostenplaat wizard BTW-info (FR)
 date: 2017-12-04 12:00:00 +0000
 ---
-_En tant qu’indépendant, vos revenus proviennent de vos activités, mais vous devez également faire face à des dépenses et à des investissements. À l’instar de votre chiffre d’affaires, vous devez reprendre annuellement ces frais dans votre déclaration d’impôts. Vous pouvez déduire vos frais professionnels réels de vos revenus : plus vos revenus sont bas, moins vous serez imposé sur ceux-ci. D’où la question que vous vous êtes en droit de vous poser : devez-vous déduire vos frais avec ou sans TVA ? Ces principes de base vous aident à y voir plus clair._
+_En tant qu’indépendant, vos revenus proviennent de vos activités, mais vous devez également faire face à des dépenses et à des investissements. À l’instar de votre chiffre d’affaires, vous devez reprendre annuellement ces frais dans votre déclaration d’impôts. Vous pouvez déduire vos frais professionnels réels de vos revenus : plus vos revenus sont bas, moins vous serez imposé sur ceux-ci. Votre comptable vous dira quel est le meilleur moyen d’y parvenir. Dans le cadre de votre estimation, nous vous expliquons avec plaisir si vous devez déduire vos frais avec ou sans TVA._ _Ces principes de base vous aident à y voir plus clair._
 
 1\.     Généralement, les frais déductibles correspondent toujours à des montants hors TVA
 
