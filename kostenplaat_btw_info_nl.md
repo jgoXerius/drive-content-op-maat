@@ -12,8 +12,7 @@ De btw (‘belasting over de toegevoegde waarde’) is een vorm van belasting di
 
 Vanwege je btw-neutraliteit, moet je telkens **kostenbedragen zonder btw** van je inkomsten aftrekken. Ter info: onderhandel je met een leverancier over zijn prijzen, ga er dan altijd van uit dat dat zijn prijzen exclusief btw zullen zijn.
 
-* Meer weten? [Hier doen we de basics van btw helder uit de doeken.](https://www.xerius.be/btw-voor-starters-wat-moet-je-weten)
-* <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Nog meer weten?</a>
+* Meer weten? <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Hier doen we de basics van btw helder uit de doeken.</a>
 
 2\.     Zo ga je van inclusief naar exclusief btw (en omgekeerd)
 
