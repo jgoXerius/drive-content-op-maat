@@ -35,4 +35,4 @@ Als je omzet minder dan 25.000 euro (excl. btw) bedraagt, dan kan je als zelfsta
 
 Keerzijde van de medaille: de btw op je eigen aankopen kan je niet recupereren, die moet je dus in dit geval effectief betalen. Bijgevolg moet je voor je aftrekbare kosten hier **de bedragen inclusief btw** hanteren.
 
-* <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Lees hier meer over btw-vrijstellingsregeling en btw-aangifte</a>..
+* <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Lees hier meer over btw-vrijstellingsregeling en btw-aangifte</a>.
