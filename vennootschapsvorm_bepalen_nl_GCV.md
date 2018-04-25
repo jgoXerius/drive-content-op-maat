@@ -9,17 +9,3 @@ date: 2018-01-25 00:00:00 +0000
 <li>Onderhandse oprichtingsakte</li>
 
 <li>Vrij te bepalen startkapitaal</li>
-
-<li>De vennoten moeten het bedrag inbrengen waartoe ze zich in de statuten verbonden hebben</li>
-
-<li>Voor beherend/werkend vennoot: onbeperkte en hoofdelijke aansprakelijkheid
-
-Voor stille vennoot: aansprakelijkheid beperkt tot inbreng</li>
-
-<li>Dubbele boekhouding (enkelvoudige boekhouding mag als omzet < €500.000)</li>
-
-<li>Aandelenregister en financieel plan niet verplicht</li>
-
-<li>Aandelen op naam en niet overdraagbaar zonder akkoord van alle medevennoten</li>
-
-<li> Faillissement van de vennootschap brengt automatisch het faillissement van de beherende vennoten met zich mee</li>
