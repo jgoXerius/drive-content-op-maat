@@ -9,17 +9,3 @@ date: 2018-01-25 00:00:00 +0000
 <li>Acte sous seing privé</li>
 
 <li>Capital de départ à déterminer librement</li>
-
-<li>Les associés doivent apporter le montant auquel ils se sont engagés dans les statuts</li>
-
-<li>Responsabilité illimitée et solidaire</li>
-
-<li>Une double comptabilité est obligatoire</li>
-
-<li>Un registre des actions est obligatoire, au contraire du plan financier</li>
-
-<li>Actions nominatives et relativement transmissibles entre associés</li> 
-
-<li>La transmission à des tiers est possible selon les prescriptions des statuts.</li>
-
-<li>Les associés peuvent rejoindre et quitter facilement l’entreprise.</li>
