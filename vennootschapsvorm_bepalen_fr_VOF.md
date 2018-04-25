@@ -9,17 +9,3 @@ date: 2018-01-25 00:00:00 +0000
 <li>Acte sous seing privé</li>
 
 <li>Capital de départ à déterminer librement</li>
-
-<li>Les associés doivent apporter le montant auquel ils se sont engagés dans les statuts</li>
-
-<li>Responsabilité illimitée et solidaire</li>
-
-<li>Double comptabilité (une comptabilité simple est possible si chiffre d’affaires < 500.000 €) </li>
-
-<li>Un registre des actions et un plan financier ne sont pas obligatoires</li>
-
-<li>Actions nominatives et non transmissibles sans l’accord de tous les co-associés</li>
-
-<li>Forme de société la plus simple, mais la faillite de la société entraîne automatiquement la faillite des associés</li>
-
- 
