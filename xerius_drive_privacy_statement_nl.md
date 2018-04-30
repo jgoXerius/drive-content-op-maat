@@ -53,4 +53,8 @@ Dit houdt onder meer in dat:
 Je hebt recht op inzage in de gegevens en op verbetering van de gegevens. Deze rechten kan je gemakkelijk zelf uitoefenen. Wat je ziet in XeriusDrive is wat wij verwerken. Je hebt het recht jouw profiel met gegevens te laten verwijderen. Dit kan je niet zelf, maar op eenvoudig verzoek doen wij dit voor jou. Stuur een e-mail vanaf het e-mailadres waarmee je in XeriusDrive geregistreerd bent naar <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Binnen de wettelijk opgelegde termijn van 1 maand verwijderen we jouw profiel. Verder heb je het recht om je uit te schrijven op bepaalde communicaties. Dit regel je door te kiezen voor uitschrijven in de communicatie zelf.
 
 
+## Contact
+
+Voor vragen in verband met uw privacy binnen XeriusDrive heeft Xerius een functionaris voor gegevensbescherming (DPO) aangesteld. Deze is bereikbaar via <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Als je na overleg met ons niet akkoord gaat met ons standpunt of de aangeboden oplossing, kan je alsnog klacht neerleggen bij de Belgische Gegevensbeschermingsautoriteit, [www.privacycommission.be](www.privacycommission.be). 
+
 
