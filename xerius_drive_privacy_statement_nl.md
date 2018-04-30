@@ -15,7 +15,7 @@ Sommige stappen in het proces laten je toe simulaties van sociale bijdragen of a
 
 Alle bovengenoemde organisaties van de Xerius-groep gaan zorgzaam om met jouw gegevens. Ze geven of verkopen je persoonsgegevens nooit door aan derde organisaties zonder jouw toestemming. De verschillende organisaties van de Xerius-groep worden verder samen aangeduid als Xerius.
 
-### Welke gegevens worden verwerkt?
+## Welke gegevens worden verwerkt?
 
 Afhankelijk van waar je zit in het proces en welke velden je ingeeft, beschikken we binnen XeriusDrive over volgende gegevens:
 
