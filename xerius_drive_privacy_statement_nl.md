@@ -55,4 +55,4 @@ Je hebt recht op inzage in de gegevens en op verbetering van de gegevens. Deze r
 
 ## Contact
 
-Voor vragen in verband met uw privacy binnen XeriusDrive heeft Xerius een functionaris voor gegevensbescherming (DPO) aangesteld. Deze is bereikbaar via <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Als je na overleg met ons niet akkoord gaat met ons standpunt of de aangeboden oplossing, kan je alsnog klacht neerleggen bij de Belgische Gegevensbeschermingsautoriteit, [https://www.privacycommission.be](www.privacycommission.be)<a href="www.privacycommission.be">www.privacycommission.be</a>.
+Voor vragen in verband met uw privacy binnen XeriusDrive heeft Xerius een functionaris voor gegevensbescherming (DPO) aangesteld. Deze is bereikbaar via <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Als je na overleg met ons niet akkoord gaat met ons standpunt of de aangeboden oplossing, kan je alsnog klacht neerleggen bij de Belgische Gegevensbeschermingsautoriteit, [www.privacycommission.be](https://www.privacycommission.be)<a href="www.privacycommission.be">www.privacycommission.be</a>.
