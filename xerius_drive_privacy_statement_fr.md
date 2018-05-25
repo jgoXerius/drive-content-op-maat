@@ -4,9 +4,9 @@ date: 2018-04-30 00:00:00 +0000
 ---
 # Déclaration de confidentialité de Xerius Drive
 
-Lors de votre utilisation de Xerius Drive, vous partagez de nombreuses données avec nous. 
+Lors de votre utilisation de Xerius Drive, vous partagez de nombreuses données avec nous.
 
-Nous avons besoin de ces données afin de vous accompagner au mieux dans les étapes nécessaires au lancement de votre entreprise. D'un autre côté, vous appréciez votre vie privée. 
+Nous avons besoin de ces données afin de vous accompagner au mieux dans les étapes nécessaires au lancement de votre entreprise. D'un autre côté, vous appréciez votre vie privée.
 
 C'est pourquoi nous mettons un point d'honneur à traiter vos données à caractère personnel de manière légale, correcte et transparente.
 
@@ -29,44 +29,36 @@ Selon l'étape à laquelle vous êtes dans le processus et les champs que vous s
 * Vous en tant qu'entrepreneur : groupe cible, date de début prévue, historique d'indépendant et du statut social, votre comptable
 * Vos plans : raisons et motivation pour devenir entrepreneur, votre vision de l'entrepreneuriat, votre besoin d'accompagnement, salaire prévu, réalisation de simulations
 
- 
-
-Xerius Drive utilise des cookies. 
-
-                Cookies concernant votre choix de « groupe cible »
+Xerius Drive utilise des cookies.
 
 Ces cookies fonctionnels sont nécessaires en vue de garantir le bon déroulement de la connexion au sein du « groupe cible » choisi.
 
-               Cookies concernant l'origine de votre visite sur Xerius Drive (codes UTM)
+Cookies concernant l'origine de votre visite sur Xerius Drive (codes UTM)
 
-               Cookies permettant une navigation correcte dans l'application
+Cookies permettant une navigation correcte dans l'application
 
 Cookies destinés à l'analyse et l'optimisation de notre site Web
 
 Vous trouverez plus de détails dans notre déclaration en matière de cookies.
 
- 
-
 Xerius conserve vos données tant que vous conservez votre compte Xerius Drive. Vous pouvez demander la suppression de votre compte avec vos données. Pour de plus amples informations, consultez « Quels sont vos droits ? »
-
- 
 
 ## Finalités du traitement des données
 
 Xerius utilisera uniquement les données à caractère personnel que vous avez fournies via Xerius Desk pour :
 
 •    vous accompagner sur Xerius Drive grâce à des conseils personnalisés et vous guider à travers les étapes que vous devez entreprendre pour démarrer une entreprise.  
- Le traitement précité est basé sur votre consentement étant donné votre enregistrement sur Xerius Drive.
+Le traitement précité est basé sur votre consentement étant donné votre enregistrement sur Xerius Drive.
 
 •  vous fournir des informations pertinentes sur l'entrepreneuriat via le marketing direct. Ce traitement est réalisé sur la base d'un intérêt légitime. Vous pouvez indiquer dans chaque communication que vous ne souhaitez plus les recevoir.
 
-Sur Xerius Drive, vous pouvez démarrer votre entreprise et/ou acheter des services auprès de Xerius. Dans ce cas, les données à caractère personnel pertinentes que vous saisissez sur Xerius Drive sont utilisées selon le principe Only-Once. Celui-ci vous évite d'avoir à remplir des informations que vous avez déjà fournies. 
+Sur Xerius Drive, vous pouvez démarrer votre entreprise et/ou acheter des services auprès de Xerius. Dans ce cas, les données à caractère personnel pertinentes que vous saisissez sur Xerius Drive sont utilisées selon le principe Only-Once. Celui-ci vous évite d'avoir à remplir des informations que vous avez déjà fournies.
 
 ## Comment vos données sont-elles protégées ?
 
 Nous prenons des mesures pour protéger vos données à caractère personnel de la destruction, de la perte, de la modification, de la falsification, de la diffusion ou de l’accès non autorisés et de toute autre forme de traitement illicite, que ce soit par accident ou par des méthodes illégitimes. Les mesures prises tiennent compte de l’état de la technique, de la nature, de la portée, du contexte et de l’objectif du traitement et du risque.
 
-Xerius s’engage à prendre les mesures techniques et organisationnelles appropriées pour sécuriser les données à caractère personnel et leur traitement. 
+Xerius s’engage à prendre les mesures techniques et organisationnelles appropriées pour sécuriser les données à caractère personnel et leur traitement.
 
 Ceci sous-entend entre autres que :
 
@@ -86,11 +78,9 @@ Pour traiter les questions relatives à votre confidentialité dans Xerius Driv
 
 Si, à la suite de votre demande précédente, vous avez une réclamation concernant l'exercice de vos droits, vous pouvez adresser celle-ci à ol[.kwaliteit@xerius.be](mailto:.kwaliteit@xerius.be).
 
-Si, après concertation avec nous, vous n'êtes pas d'accord avec notre position ou la solution proposée, vous pouvez toujours déposer une plainte auprès de l'Autorité belge de protection des données, [www.privacycommission.be](http://www.privacycommission.be). 
+Si, après concertation avec nous, vous n'êtes pas d'accord avec notre position ou la solution proposée, vous pouvez toujours déposer une plainte auprès de l'Autorité belge de protection des données, [www.privacycommission.be](http://www.privacycommission.be).
 
 # Cookies
-
- 
 
 ## À propos des cookies
 
@@ -108,17 +98,11 @@ Ci-dessous, nous donnons un aperçu des différents types de cookies sur Xerius�
 
 _Les cookies nécessaires assurent le bon fonctionnement d'un site Web ou d'une application en permettant des fonctions de bases comme la navigation entre les différentes pages et l'accès à des zones sécurisées. Sans ces cookies, le site Web ne peut pas fonctionner correctement._
 
- 
-
 ·        Xerius : informations sur l'user session state, le Single Sign On
 
 ## Cookies d'analyse/de performance
 
 _Les cookies d'analyse aident les propriétaires de sites Web à comprendre comment les visiteurs interagissent avec les sites Web en recueillant et en rapportant des informations anonymes._
-
- 
-
-Google Analytics, Appcues, Hotjar[\[KK-X1\]](#_msocom_1)  : génère des données statistiques sur la manière dont le visiteur utilise le site Web.
 
 ## Cookies imprévus
 
