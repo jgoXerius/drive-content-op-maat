@@ -3,9 +3,15 @@ new_page_extension: html
 auto_deploy: false
 admin_path: 
 webhook_url: ''
-collections: 
+collections:
+- path: ''
+  label: Pages
+  create: all
+- path: _posts
+  label: Posts
+  create: all
 upload_dir: uploads
-public_path: https://app.forestry.io/sites/ckfgevllcw05bq/media//uploads
+public_path: https://app.forestry.io/sites/ckfgevllcw05bq/body-media//uploads
 front_matter_path: https://app.forestry.io/sites/ckfgevllcw05bq/media//uploads
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
