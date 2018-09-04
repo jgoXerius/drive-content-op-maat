@@ -15,6 +15,6 @@ Lees ook:
 
 Enkele bijzondere situaties:
 
-* [De voorwaarden waaronder je een bijberoep kunt starten tijdens je werkloosheid](https://www.xerius.be/blog/bijberoep-tijdens-werkloosheid)
+* [De voorwaarden waaronder je een bijberoep kunt starten tijdens je werkloosheid](https://www.xerius.be/nl-be/drive/sociaal-statuut/bijberoep/werkloosheid)
 * [Uitzendarbeid combineren met een bijberoep](https://www.xerius.be/blog/interim-en-bijberoep)
-* [Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/blog/mag-ik-een-bijberoep-opstarten-tijdens-tijdskrediet)
+* [Een bijberoep starten tijdens tijdskrediet](https://www.xerius.be/nl-be/drive/sociaal-statuut/bijberoep/tijdskrediet)
