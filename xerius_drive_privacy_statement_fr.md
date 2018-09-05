@@ -1,6 +1,7 @@
 ---
 title: XeriusDrive Privacy Statement (FR)
 date: 2018-04-30 00:00:00 +0000
+
 ---
 # Déclaration de confidentialité de Xerius Drive
 
@@ -16,7 +17,7 @@ Dans la présente déclaration de confidentialité, vous pouvez lire quelles son
 
 Xerius Drive est un outil qui a été développé et qui est mis à disposition par Xerius Guichet d'entreprises (numéro d'entreprise 0860.109.391 – Xerius, Rue Vésale 31, 1000 Bruxelles). L'outil vous aide à franchir les différentes étapes du processus de démarrage d'une entreprise. Xerius Guichet d'entreprises traite les données que vous fournissez d'une manière que vous êtes raisonnablement en droit d'attendre.
 
-Certaines étapes vous permettent de réaliser des simulations des cotisations sociales ou des assurances complémentaires. Il s'agit de services offerts par Xerius Caisse d'assurances sociales (numéro d'entreprise 0410.682.657), Xerius Voorzorgfonds (numéro d'entreprise 0410.958.217) et Xerius Association d’Assurances Mutuelles (numéro d'entreprise 0454.283.959).
+Certaines étapes vous permettent de réaliser des simulations des cotisations sociales ou des assurances complémentaires. Il s'agit de services offerts par Xerius Caisse d'assurances sociales (numéro d'entreprise 0410.682.657), Xerius Voorzorgfonds (numéro d'entreprise 0410.958.217) et Xerius Association d’Assurances Mutuelles (numéro d'entreprise 0454.283.959). Ces organisations peuvent ainsi également disposer de vos données.
 
 Toutes les organisations précitées du groupe Xerius traiteront vos données avec le plus grand soin. Elles ne transmettront ou ne vendront jamais vos données à caractère personnel à des tiers sans votre autorisation. Par la suite, les différentes organisations du groupe Xerius sont désignées collectivement Xerius.
 
@@ -29,6 +30,8 @@ Selon l'étape à laquelle vous êtes dans le processus et les champs que vous s
 * Vous en tant qu'entrepreneur : groupe cible, date de début prévue, historique d'indépendant et du statut social, votre comptable
 * Vos plans : raisons et motivation pour devenir entrepreneur, votre vision de l'entrepreneuriat, votre besoin d'accompagnement, salaire prévu, réalisation de simulations
 
+Dès que vous créez un projet, les données du projet sont sauvegardées. Tant que vous n'êtes pas enregistré, celles-ci restent anonymes. Lorsque vous vous enregistrez, les données du projet sont reliées à votre compte.
+
 Xerius Drive utilise des cookies.
 
 Ces cookies fonctionnels sont nécessaires en vue de garantir le bon déroulement de la connexion au sein du « groupe cible » choisi.
@@ -39,7 +42,7 @@ Cookies permettant une navigation correcte dans l'application
 
 Cookies destinés à l'analyse et l'optimisation de notre site Web
 
-Vous trouverez plus de détails dans notre déclaration en matière de cookies.
+Vous trouverez plus de détails dans notre [déclaration en matière de cookies](https://www.xerius.be/fr-be/cookie-statement).
 
 Xerius conserve vos données tant que vous conservez votre compte Xerius Drive. Vous pouvez demander la suppression de votre compte avec vos données. Pour de plus amples informations, consultez « Quels sont vos droits ? »
 
@@ -47,12 +50,22 @@ Xerius conserve vos données tant que vous conservez votre compte Xerius Drive.
 
 Xerius utilisera uniquement les données à caractère personnel que vous avez fournies via Xerius Desk pour :
 
-•    vous accompagner sur Xerius Drive grâce à des conseils personnalisés et vous guider à travers les étapes que vous devez entreprendre pour démarrer une entreprise.  
+... vous accompagner sur Xerius Drive grâce à des conseils personnalisés et vous guider à travers les étapes que vous devez entreprendre pour démarrer une entreprise.  
 Le traitement précité est basé sur votre consentement étant donné votre enregistrement sur Xerius Drive.
 
-•  vous fournir des informations pertinentes sur l'entrepreneuriat via le marketing direct. Ce traitement est réalisé sur la base d'un intérêt légitime. Vous pouvez indiquer dans chaque communication que vous ne souhaitez plus les recevoir.
+Si nous constatons que vous bloquez lors de l'enregistrement ou de la création de votre profil, nous vous enverrons une seule fois un e-mail de rappel.
 
-Sur Xerius Drive, vous pouvez démarrer votre entreprise et/ou acheter des services auprès de Xerius. Dans ce cas, les données à caractère personnel pertinentes que vous saisissez sur Xerius Drive sont utilisées selon le principe Only-Once. Celui-ci vous évite d'avoir à remplir des informations que vous avez déjà fournies.
+… Nous pouvons également vous contacter, éventuellement par téléphone, pour vous demander votre avis sur l'utilisation de Xerius Drive dans le cadre de nos efforts pour créer un environnement aussi convivial que possible.
+
+... vous fournir des informations pertinentes sur l'entrepreneuriat via le marketing direct. Ce traitement est réalisé sur la base d'un intérêt légitime. Vous pouvez indiquer dans chaque communication que vous ne souhaitez plus les recevoir.
+
+... Sur Xerius Drive, vous pouvez démarrer votre entreprise et/ou acheter des services auprès de Xerius. Dans ce cas, les données à caractère personnel pertinentes que vous saisissez sur Xerius Drive sont utilisées selon le principe Only-Once. Celui-ci vous évite d'avoir à remplir des informations que vous avez déjà fournies.
+
+## Avec qui partageons-nous vos données ?
+
+La réponse est très simple : nous ne partageons pas vos données avec des personnes extérieures à Xerius.
+
+Xerius Drive vous permet de partager vos coordonnées et les données de votre projet avec votre comptable, les membres de votre famille ou vos amis. Si vous partagez, il s'agit de votre décision et d'une action que vous réalisez consciemment. Xerius envoie ensuite ces données pour votre compte à une adresse e-mail que vous avez choisie. Cet e-mail reprenant un code d'accès en lecture à votre projet doit être traité confidentiellement par les destinataires. Nous ne pouvons être tenus responsables en cas d'abus de ce code d'accès ou de cet e-mail.
 
 ## Comment vos données sont-elles protégées ?
 
@@ -70,7 +83,7 @@ Ceci sous-entend entre autres que :
 
 ## Quels sont vos droits ?
 
-Vous avez le droit d'accéder aux données et de les rectifier. Vous pouvez facilement exercer ces droits vous-même. Ce que vous voyez dans Xerius Drive est ce que nous traitons. Vous avez le droit de faire effacer votre profil avec les données. Vous ne pouvez pas le faire vous-même, mais, sur simple demande, nous le ferons pour vous. Envoyez un e-mail à partir de l'adresse e-mail que vous avez enregistrée dans Xerius Drive à  <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Nous supprimons votre profil dans le délai légal de 1 mois. Vous avez également le droit de vous désinscrire de certaines communications. Vous pouvez le faire en choisissant de vous désinscrire dans la communication elle-même.
+Vous avez le droit d'accéder aux données et de les rectifier. Vous pouvez facilement exercer ces droits vous-même. Ce que vous voyez dans Xerius Drive est ce que nous traitons. Vous avez le droit de faire effacer votre profil avec les données. Vous ne pouvez pas le faire vous-même, mais, sur simple demande, nous le ferons pour vous. Envoyez un e-mail à partir de l'adresse e-mail que vous avez enregistrée dans Xerius Drive à  <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Nous supprimons votre profil dans le délai légal de 1 mois. Vous avez également le droit de vous désinscrire de certaines communications. Vous pouvez le faire en choisissant de vous désinscrire dans la communication elle-même ou en adaptant vos paramètres dans le preference center.
 
 ## Personne de contact
 
@@ -79,39 +92,3 @@ Pour traiter les questions relatives à votre confidentialité dans Xerius Driv
 Si, à la suite de votre demande précédente, vous avez une réclamation concernant l'exercice de vos droits, vous pouvez adresser celle-ci à ol[.kwaliteit@xerius.be](mailto:.kwaliteit@xerius.be).
 
 Si, après concertation avec nous, vous n'êtes pas d'accord avec notre position ou la solution proposée, vous pouvez toujours déposer une plainte auprès de l'Autorité belge de protection des données, [www.privacycommission.be](http://www.privacycommission.be).
-
-# Cookies
-
-## À propos des cookies
-
-Les cookies sont de petits fichiers texte qui sont enregistrés sur votre ordinateur ou votre appareil mobile quand vous visitez un site Web. Les cookies et technologies assimilées sont utilisés pour assurer le fonctionnement rapide et correct du site Web ou de l'application. En outre, les cookies peuvent également servir à améliorer les interactions avec vous. En vous connaissant mieux, nous pouvons vous offrir du contenu plus pertinent et tenir compte de vos goûts et préférences personnels lors de l'utilisation de nos services.
-
-Concrètement, un cookie peut contenir des informations qui permettent à votre navigateur de connaître vos préférences lors de votre visite sur le service en ligne ou de visites ultérieures, comme votre préférence linguistique. Les cookies d'analyse recueillent des informations anonymes sur la façon dont les visiteurs interagissent avec le site Web afin d'améliorer le confort d'utilisation de notre site Web et d'optimiser l'offre de nos services.
-
-## Nous utilisons des cookies
-
-Nous utilisons des cookies « directs » qui proviennent de Xerius et des cookies « indirects » qui proviennent de tiers.
-
-Ci-dessous, nous donnons un aperçu des différents types de cookies sur Xerius Drive. Nous nous efforçons de maintenir à jour cet aperçu des cookies que nous utilisons. Si, malheureusement, tel n'est pas le cas, vous pouvez le signaler à [privacy@xerius.be](mailto:privacy@xerius.be).
-
-## Cookies fonctionnels nécessaires
-
-_Les cookies nécessaires assurent le bon fonctionnement d'un site Web ou d'une application en permettant des fonctions de bases comme la navigation entre les différentes pages et l'accès à des zones sécurisées. Sans ces cookies, le site Web ne peut pas fonctionner correctement._
-
-·        Xerius : informations sur l'user session state, le Single Sign On
-
-## Cookies d'analyse/de performance
-
-_Les cookies d'analyse aident les propriétaires de sites Web à comprendre comment les visiteurs interagissent avec les sites Web en recueillant et en rapportant des informations anonymes._
-
-## Cookies imprévus
-
-En raison du fonctionnement d'Internet et des sites Web ou des applications, il se peut que nous ne maîtrisions pas toujours les cookies qui sont placés par des tiers via nos services en ligne. Par exemple, si nos pages Web contiennent ce que l'on appelle des éléments intégrés : des textes, des documents, des photos, des vidéos fournis par un tiers et qui sont diffusés sur, dans ou via nos services en ligne.
-
-## Vous pouvez bloquer les cookies
-
-Vous pouvez refuser ou gérer l'installation de cookies via les paramètres de votre navigateur. Retrouvez un plan par étapes qui vous indique comment procéder sur les navigateurs les plus courants sur [https://www.consumentenbond.nl/internet-privacy/cookies-verwijderen](https://www.consumentenbond.nl/internet-privacy/cookies-verwijderen "https://www.consumentenbond.nl/internet-privacy/cookies-verwijderen").
-
-Vous pouvez également supprimer à tout moment les cookies déjà installés de votre ordinateur ou votre appareil mobile.
-
-Veuillez noter que, si vous désactivez les cookies, l'apparence de certains éléments graphiques ou de certaines fonctionnalités de notre site Web pourrait sembler incorrecte ou visuellement déplaisante et que vous ne pourrez plus utiliser certaines applications.
