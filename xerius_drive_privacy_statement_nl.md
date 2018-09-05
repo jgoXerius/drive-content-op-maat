@@ -42,15 +42,21 @@ Zolang je jouw account bij Xerius Drive behoudt, bewaart Xerius je gegevens. Je 
 
 ## Doel van de gegevensverwerking
 
-Xerius zal de persoonsgegevens die via Xerius Drive verstrekt worden enkel gebruiken om… Je binnen Xerius Drive bij te staan met gepersonaliseerd advies en te begeleiden bij de stappen die je moet ondernemen om een onderneming te starten. Deze verwerking is gebaseerd op jouw toestemming aangezien je jezelf registreert bij Xerius Drive.Indien we merken dat je strandt bij de registratie of aanmaken van de profiel, zullen we je eenmalig per e-mail een herinnering sturen.
+Xerius zal de persoonsgegevens die via Xerius Drive verstrekt worden enkel gebruiken om
 
-* Wij kunnen ook contact met je op te nemen, eventueel ook telefonisch, om jouw mening te vragen over het gebruik van Xerius Drive in het kader van ons streven naar een zo gebruiksvriendelijk mogelijke omgeving.
+… Je binnen Xerius Drive bij te staan met gepersonaliseerd advies en te begeleiden bij de stappen die je moet ondernemen om een onderneming te starten. Deze verwerking is gebaseerd op jouw toestemming aangezien je jezelf registreert bij Xerius Drive.
 
-Xerius zal jou relevante informatie  bezorgen over het ondernemerschap via Direct Marketing, dit doen we op basis van gerechtvaardigd belang. Je kunt in elke communicatie of via ons preference center aangeven dat je ze niet langer wilt ontvangen of je uitschrijven.… Vanuit Xerius Drive kan je jouw zaak opstarten en/of diensten afnemen van Xerius. In dat geval worden relevante persoonsgegevens die je ingaf in Xerius Drive gebruikt volgens het Only-Once principe. Zo vermijd je dat je informatie die je eerder al doorgaf opnieuw moet invullen.
+Als we merken dat je strandt bij de registratie of aanmaken van je profiel, zullen we je eenmalig per e-mail een herinnering sturen.
+
+... Wij kunnen ook contact met je op te nemen, eventueel ook telefonisch, om jouw mening te vragen over het gebruik van Xerius Drive in het kader van ons streven naar een zo gebruiksvriendelijk mogelijke omgeving.
+
+... Xerius zal jou relevante informatie  bezorgen over het ondernemerschap via Direct Marketing. Dit doen we op basis van gerechtvaardigd belang. Je kunt in elke communicatie of via ons preference center aangeven dat je deze informatie niet langer wilt ontvangen of je uitschrijven voor de nieuwsbrieven.
+
+… Vanuit Xerius Drive kan je jouw zaak opstarten en/of diensten afnemen van Xerius. In dat geval worden relevante persoonsgegevens die je ingaf in Xerius Drive gebruikt volgens het Only-Once principe. Zo vermijd je dat je informatie die je eerder al doorgaf opnieuw moet invullen.
 
 ## Met wie delen wij jouw gegevens?
 
-Het antwoord op deze vraag is heel eenvoudig: Wij delen jouw gegevens niet buiten Xerius.
+Het antwoord op deze vraag is heel eenvoudig: Wij delen jouw gegevens met niemand buiten Xerius.
 
 Xerius Drive voorziet in de mogelijkheid dat jij je contactgegevens en de gegevens over je project deelt met je boekhouder, familieleden of vrienden. In het geval je zelf deelt, is dat een beslissing die jij neemt en een actie die jij bewust uitvoert. Xerius stuurt deze gegevens dan in jouw opdracht naar een e-mailadres dat jij hebt gekozen. Deze mail met code voor leestoegang tot jouw project dient door de ontvangers vertrouwelijk behandeld te worden. Wij kunnen niet aansprakelijk gesteld worden indien deze mail of toegangscode misbruikt wordt.
 
