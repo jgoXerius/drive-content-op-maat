@@ -30,7 +30,7 @@ Selon l'étape à laquelle vous êtes dans le processus et les champs que vous s
 * Vous en tant qu'entrepreneur : groupe cible, date de début prévue, historique d'indépendant et du statut social, votre comptable
 * Vos plans : raisons et motivation pour devenir entrepreneur, votre vision de l'entrepreneuriat, votre besoin d'accompagnement, salaire prévu, réalisation de simulations
 
-Dès que vous créez un projet, les données du projet sont sauvegardées. Tant que vous n'êtes pas enregistré, celles-ci restent anonymes. Lorsque vous vous enregistrez, les données du projet sont reliées à votre compte.
+Dès que vous créez un projet, les données du projet sont sauvegardées. Tant que vous n'êtes pas enregistré, celles-ci restent anonymes. Lorsque vous vous enregistrez, les données du projet sont liées à votre compte.
 
 Xerius Drive utilise des cookies.
 
@@ -53,7 +53,7 @@ Xerius utilisera uniquement les données à caractère personnel que vous avez f
 ... vous accompagner sur Xerius Drive grâce à des conseils personnalisés et vous guider à travers les étapes que vous devez entreprendre pour démarrer une entreprise.  
 Le traitement précité est basé sur votre consentement étant donné votre enregistrement sur Xerius Drive.
 
-Si nous constatons que vous bloquez lors de l'enregistrement ou de la création de votre profil, nous vous enverrons une seule fois un e-mail de rappel.
+Si nous constatons que vous êtes bloqué lors de l'enregistrement ou de la création de votre profil, nous vous enverrons un e-mail de rappel unique.
 
 … Nous pouvons également vous contacter, éventuellement par téléphone, pour vous demander votre avis sur l'utilisation de Xerius Drive dans le cadre de nos efforts pour créer un environnement aussi convivial que possible.
 
