@@ -65,7 +65,7 @@ Si nous constatons que vous êtes bloqué lors de l'enregistrement ou de la cré
 
 La réponse est très simple : nous ne partageons pas vos données avec des personnes extérieures à Xerius.
 
-Xerius Drive vous permet de partager vos coordonnées et les données de votre projet avec votre comptable, les membres de votre famille ou vos amis. Si vous partagez, il s'agit de votre décision et d'une action que vous réalisez consciemment. Xerius envoie ensuite ces données pour votre compte à une adresse e-mail que vous avez choisie. Cet e-mail reprenant un code d'accès en lecture à votre projet doit être traité confidentiellement par les destinataires. Nous ne pouvons être tenus responsables en cas d'abus de ce code d'accès ou de cet e-mail.
+Xerius Drive vous permet de partager vos coordonnées et les données de votre projet avec votre comptable, les membres de votre famille ou vos amis. Si vous partagez, il s'agit de votre décision et d'une action que vous réalisez consciemment. Xerius envoie ensuite ces données pour vous à une adresse e-mail que vous avez choisie. Cet e-mail reprenant un code d'accès en lecture à votre projet doit être traité confidentiellement par les destinataires. Nous ne pouvons être tenus responsables en cas d'abus de ce code d'accès ou de cet e-mail.
 
 ## Comment vos données sont-elles protégées ?
 
