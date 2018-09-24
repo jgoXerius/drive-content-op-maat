@@ -28,14 +28,6 @@ Projectgegevens worden opgeslagen van zodra je een project aanmaakt. Zolang je n
 
 Xerius Drive maakt gebruik van cookies.
 
-Cookie met je keuze ‘doelgroep’. Deze functionele cookie is noodzakelijk om een juist aanmeldingsproces te garanderen binnen de gekozen ‘doelgroep’.
-
-Cookies met de oorsprong van jouw bezoek aan Xerius Drive (UTM codes).
-
-Cookies voor een correcte navigatie doorheen de applicatie.
-
-Cookies voor analyse en optimalisatie van onze website.
-
 Meer details vind je in ons [cookiestatement](https://www.xerius.be/nl-be/cookie-statement).
 
 Zolang je jouw account bij Xerius Drive behoudt, bewaart Xerius je gegevens. Je kunt je account met jouw gegevens laten verwijderen . Kijk hiervoor bij ‘Wat zijn jouw rechten?’.
@@ -48,9 +40,9 @@ Xerius zal de persoonsgegevens die via Xerius Drive verstrekt worden enkel gebru
 
 Als we merken dat je strandt bij de registratie of aanmaken van je profiel, zullen we je eenmalig per e-mail een herinnering sturen.
 
-... Wij kunnen ook contact met je op te nemen, eventueel ook telefonisch, om jouw mening te vragen over het gebruik van Xerius Drive in het kader van ons streven naar een zo gebruiksvriendelijk mogelijke omgeving.
+... Wij kunnen ook contact met je opnemen, eventueel ook telefonisch, om jouw mening te vragen over het gebruik van Xerius Drive in het kader van ons streven naar een zo gebruiksvriendelijk mogelijke omgeving.
 
-... Xerius zal jou relevante informatie  bezorgen over het ondernemerschap via Direct Marketing. Dit doen we op basis van gerechtvaardigd belang. Je kunt in elke communicatie of via ons preference center aangeven dat je deze informatie niet langer wilt ontvangen of je uitschrijven voor de nieuwsbrieven.
+... Xerius zal jou relevante informatie  bezorgen over het ondernemerschap via Direct Marketing. Dit doen we op basis van gerechtvaardigd belang. Je kunt in elke communicatie of via de communicatievoorkeuren op onze website aangeven dat je deze informatie niet langer wilt ontvangen of je uitschrijven.
 
 … Vanuit Xerius Drive kan je jouw zaak opstarten en/of diensten afnemen van Xerius. In dat geval worden relevante persoonsgegevens die je ingaf in Xerius Drive gebruikt volgens het Only-Once principe. Zo vermijd je dat je informatie die je eerder al doorgaf opnieuw moet invullen.
 
@@ -73,8 +65,8 @@ Dit houdt onder meer in dat:
 
 ## Wat zijn jouw rechten?
 
-Je hebt recht op inzage in de gegevens en op verbetering van de gegevens. Deze rechten kan je gemakkelijk zelf uitoefenen. Wat je ziet in Xerius Drive is wat wij verwerken. Je hebt het recht jouw profiel met gegevens te laten verwijderen. Dit kan je niet zelf, maar op eenvoudig verzoek doen wij dit voor jou. Stuur een e-mail vanaf het e-mailadres waarmee je in Xerius Drive geregistreerd bent naar [privacy@xerius.be](mailto:privacy@xerius.be).  Binnen de wettelijk opgelegde termijn van 1 maand verwijderen we jouw profiel. Verder heb je het recht om je uit te schrijven op bepaalde communicaties. Dit regel je door te kiezen voor uitschrijven in de communicatie zelf of je instellingen in het preference center aan te passen.
+Je hebt recht op inzage in de gegevens en op verbetering van de gegevens. Deze rechten kan je gemakkelijk zelf uitoefenen. Wat je ziet in Xerius Drive is wat wij verwerken. Je hebt het recht jouw profiel met gegevens te laten verwijderen. Dit kan je niet zelf, maar op eenvoudig verzoek doen wij dit voor jou. Stuur een e-mail vanaf het e-mailadres waarmee je in Xerius Drive geregistreerd bent naar [privacy@xerius.be](mailto:privacy@xerius.be).  Binnen de wettelijk opgelegde termijn van 1 maand verwijderen we jouw profiel. Verder heb je het recht om je uit te schrijven op bepaalde communicaties. Dit regel je door te kiezen voor uitschrijven in de communicatie zelf of je instellingen via de communicatievoorkeuren op onze website aan te passen.
 
 ## Contact
 
-Voor vragen in verband met uw privacy binnen Xerius Drive heeft Xerius een functionaris voor gegevensbescherming (DPO) aangesteld. Deze is bereikbaar via [privacy@xerius.be](mailto:privacy@xerius.be). Als je na overleg met ons niet akkoord gaat met ons standpunt of de aangeboden oplossing, kan je alsnog klacht neerleggen bij de Belgische Gegevensbeschermingsautoriteit, <a href="https://www.privacycommission.be" target="_blank">www.privacycommission.be</a>.
+Voor vragen in verband met uw privacy binnen Xerius Drive heeft Xerius een functionaris voor gegevensbescherming (DPO) aangesteld. Deze is bereikbaar via [privacy@xerius.be](mailto:privacy@xerius.be). Als je na overleg met ons niet akkoord gaat met ons standpunt of de aangeboden oplossing, kan je alsnog klacht neerleggen bij de[ Belgische Gegevensbeschermingsautoriteit]().
