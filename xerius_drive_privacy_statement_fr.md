@@ -34,21 +34,13 @@ Dès que vous créez un projet, les données du projet sont sauvegardées. Tant 
 
 Xerius Drive utilise des cookies.
 
-Ces cookies fonctionnels sont nécessaires en vue de garantir le bon déroulement de la connexion au sein du « groupe cible » choisi.
-
-Cookies concernant l'origine de votre visite sur Xerius Drive (codes UTM)
-
-Cookies permettant une navigation correcte dans l'application
-
-Cookies destinés à l'analyse et l'optimisation de notre site Web
-
-Vous trouverez plus de détails dans notre [déclaration en matière de cookies](https://www.xerius.be/fr-be/cookie-statement).
+Consultez notre [déclaration en matière de cookies](https://www.xerius.be/fr-be/cookie-statement) pour plus de détails.
 
 Xerius conserve vos données tant que vous conservez votre compte Xerius Drive. Vous pouvez demander la suppression de votre compte avec vos données. Pour de plus amples informations, consultez « Quels sont vos droits ? »
 
 ## Finalités du traitement des données
 
-Xerius utilisera uniquement les données à caractère personnel que vous avez fournies via Xerius Desk pour :
+Xerius utilisera uniquement les données à caractère personnel que vous avez fournies via Xerius Drive pour :
 
 ... vous accompagner sur Xerius Drive grâce à des conseils personnalisés et vous guider à travers les étapes que vous devez entreprendre pour démarrer une entreprise.  
 Le traitement précité est basé sur votre consentement étant donné votre enregistrement sur Xerius Drive.
@@ -57,7 +49,9 @@ Si nous constatons que vous êtes bloqué lors de l'enregistrement ou de la cré
 
 … Nous pouvons également vous contacter, éventuellement par téléphone, pour vous demander votre avis sur l'utilisation de Xerius Drive dans le cadre de nos efforts pour créer un environnement aussi convivial que possible.
 
-... vous fournir des informations pertinentes sur l'entrepreneuriat via le marketing direct. Ce traitement est réalisé sur la base d'un intérêt légitime. Vous pouvez indiquer dans chaque communication que vous ne souhaitez plus les recevoir.
+... Xerius vous fournira des informations pertinentes sur l'entrepreneuriat via le Marketing Direct. Ce traitement est réalisé sur la base d'un intérêt légitime. Vous pouvez indiquer dans chaque communication ou via vos préférences de communication sur notre site web que vous ne souhaitez plus les recevoir ou que vous désirez vous désinscrire.
+
+… Xerius vous fournit des informations pertinentes à propos des services et produits complémentaires de partenaires sélectionnés avec soin. Ces informations à propos de l’entrepreneuriat seront également partagées avec vous sur base d’un intérêt légitime. Vous pouvez indiquer à partir de chaque communication ou depuis vos préférences de communication sur notre site web que vous ne souhaitez plus les recevoir ou que vous désirez vous désinscrire.
 
 ... Sur Xerius Drive, vous pouvez démarrer votre entreprise et/ou acheter des services auprès de Xerius. Dans ce cas, les données à caractère personnel pertinentes que vous saisissez sur Xerius Drive sont utilisées selon le principe Only-Once. Celui-ci vous évite d'avoir à remplir des informations que vous avez déjà fournies.
 
@@ -83,7 +77,7 @@ Ceci sous-entend entre autres que :
 
 ## Quels sont vos droits ?
 
-Vous avez le droit d'accéder aux données et de les rectifier. Vous pouvez facilement exercer ces droits vous-même. Ce que vous voyez dans Xerius Drive est ce que nous traitons. Vous avez le droit de faire effacer votre profil avec les données. Vous ne pouvez pas le faire vous-même, mais, sur simple demande, nous le ferons pour vous. Envoyez un e-mail à partir de l'adresse e-mail que vous avez enregistrée dans Xerius Drive à  <a href="mailto:privacy@xerius.be">privacy@xerius.be</a>. Nous supprimons votre profil dans le délai légal de 1 mois. Vous avez également le droit de vous désinscrire de certaines communications. Vous pouvez le faire en choisissant de vous désinscrire dans la communication elle-même ou en adaptant vos paramètres dans le preference center.
+Vous avez le droit d'accéder aux données et de les rectifier. Vous pouvez facilement exercer ces droits vous-même. Ce que vous voyez dans Xerius Drive est ce que nous traitons. Vous avez le droit de faire effacer votre profil avec les données. Vous ne pouvez pas le faire vous-même, mais, sur simple demande, nous le ferons pour vous. Envoyez un e-mail à partir de l'adresse e-mail que vous avez enregistrée dans Xerius Drive à  privacy@xerius.be. Nous supprimons votre profil dans le délai légal de 1 mois. Vous avez également le droit de vous désinscrire de certaines communications. Vous pouvez le faire en choisissant de vous désinscrire dans la communication elle-même ou en adaptant vos préférences de communication sur notre site web.
 
 ## Personne de contact
 
