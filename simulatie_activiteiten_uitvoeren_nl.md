@@ -1,6 +1,7 @@
 ---
 title: Simulatie activiteiten uitvoeren (NL)
 date: 2017-11-24 00:00:00 +0000
+
 ---
 ## Het kloppende hart van je onderneming
 
@@ -10,7 +11,7 @@ Hou hierbij wel rekening met een aantal **administratieve verplichtingen** voor 
 
 * Je activiteiten worden bij de inschrijving van je onderneming in de Kruispuntbank van Ondernemingen (KBO) vertaald naar **NACE-codes**. [Lees hier wat NACE-codes precies zijn](https://www.xerius.be/nl-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/nacebel).
 * [Waarom is het belangrijk om de gegevens van je onderneming correct te registreren in de KBO?](http://blog.xerius.be/zelfstandigen/waarom-correcte-bedrijfsgegevens-in-de-kbo-cruciaal-zijn)
-* [Basiskennis bedrijfsbeheer ](https://www.xerius.be/zelfstandigen/start-eigen-zaak/basiskennis-bedrijfsbeheer/)en [beroepskennis](https://www.xerius.be/zelfstandigen/start-eigen-zaak/beroepskennis/), de zogenaamde **ondernemersvaardigheden**:  aan welke reglementering moet je voldoen om een zaak te starten?
+* [Basiskennis bedrijfsbeheer ](https://www.xerius.be/nl-be/zelfstandig-worden/een-eenmanszaak/bedrijfsbeheer-en-beroepskennis)en [beroepskennis](https://www.xerius.be/nl-be/zelfstandig-worden/een-eenmanszaak/bedrijfsbeheer-en-beroepskennis), de zogenaamde **ondernemersvaardigheden**:  aan welke reglementering moet je voldoen om een zaak te starten?
 * [Heb je voor jouw activiteiten een **btw-nummer** nodig?](https://www.xerius.be/btw-voor-starters-wat-moet-je-weten)
 
 Misschien dat deze **voorbeelden** jou ook **inspireren**.
