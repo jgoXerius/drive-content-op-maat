@@ -18,4 +18,4 @@ Misschien dat deze **voorbeelden** jou ook **inspireren**.
 
 * [Welke vergunningen heb je nodig om een foodtruck te starten?](https://www.xerius.be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/foodtruck)
 * [Freelancer, hoe begin je eraan?](https://www.xerius.be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/freelancer)
-* [Hoe start je een webshop?](https://www.xerius.be/blog/een-webshop-starten-hoe-begin-ik-eraan/)
+* [Hoe start je een webshop?](https://www.xerius.be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/webshop)
