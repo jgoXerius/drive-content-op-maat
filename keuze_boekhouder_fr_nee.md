@@ -1,6 +1,7 @@
 ---
 title: Keuze boekhouder (FR) - Nee
 date: 2017-11-21 23:43:33 +0000
+
 ---
 ## Ne pas s’entourer d’un comptable, un choix judicieux ?
 
@@ -10,6 +11,6 @@ Vous souhaitez obtenir **davantage d’informations** à propos des éléments �
 
 * [Quelles sont vos obligations comptables ?](https://blog.xerius.be/debutant/quelles-sont-vos-obligations-comptables)
 * [Comment établir une facture ?](https://blog.xerius.be/debutant/etablir-une-facture)
-* [Que ne devez-vous pas oublier en remplissant votre déclaration TVA ?](https://blog.xerius.be/debutant/deposer-sa-declaration-de-tva-une-liste-de-controle-utile)
+* [Que ne devez-vous pas oublier en remplissant votre déclaration TVA ?](https://www.xerius.be/fr-be/drive/boekhouder/nee/controlelijst-btw)
 * [Comment la déclaration d’impôts pour indépendants fonctionne-t-elle ?](http://blog.xerius.be/debutant/declaration-dimpots-pour-independants)
 * [Quelles dépenses pouvez-vous déduire de vos impôts ?](http://blog.xerius.be/debutant/frais-deduire-independant)
