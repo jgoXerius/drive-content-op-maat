@@ -13,4 +13,4 @@ Dans ces articles, nous vous donnons déjà des **pistes** pour vous **aider à 
 * [À quoi devez-vous faire attention lorsque vous choisissez un comptable ? ](https://www.xerius.be/fr-be/drive/boekhouder/onbepaald/boekhouder-kiezen)
 * [Combien un comptable vous coûtera-t-il ?](https://blog.xerius.be/debutant/combien-coute-un-comptable)
 * Vous avez une entreprise personne physique. [Un comptable est-il un luxe superflu ?](https://www.xerius.be/fr-be/drive/ondernemingsvorm/ondernemingsvorm-ez/boekhouding)
-* [Quelle est la différence entre un comptable et un expert-comptable ?](https://blog.xerius.be/debutant/comptable-ou-expert-comptable)
+* [Quelle est la différence entre un comptable et un expert-comptable ?](https://www.xerius.be/fr-be/drive/boekhouder/onbepaald/boekhouder-of-accountant)
