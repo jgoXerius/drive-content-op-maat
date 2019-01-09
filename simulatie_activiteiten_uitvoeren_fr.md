@@ -15,8 +15,4 @@ Peut-être pourrions-nous vous aider grâce aux **conseils** suivants :
 * [Pourquoi est-il impératif d’enregistrer des données correctes à la BCE ?](http://blog.xerius.be/independants/entrer-des-donnees-dentreprise-correctes-a-la-bce-un-imperatif)
 * [Connaissances de gestion de base](https://www.xerius.be/fr-be/je-demarre/entreprise-personne-physique/gestion-connaissances-professionnelles) et [connaissance professionnelle](https://www.xerius.be/fr-be/je-demarre/entreprise-personne-physique/gestion-connaissances-professionnelles), appelées **capacités entrepreneuriales** : à quelle réglementation devez-vous répondre pour démarrer une entreprise ?
 * [Avez-vous besoin d’un numéro de TVA pour exercer vos activités ?](https://www.xerius.be/la-tva-pour-les-debutants-que-faut-il-savoir)
-
-Les **articles** suivants pourraient également vous **inspirer**.
-
-* [Pour où commencer pour devenir indépendant ?](https://www.xerius.be/fr-be/je-demarre/devenir-independant)
 * [Comment  créer votre boutique en ligne ?](https://blog.xerius.be/debutant/creer-sa-boutique-en-ligne-par-ou-commencer)
