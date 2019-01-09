@@ -17,5 +17,5 @@ Hou hierbij wel rekening met een aantal **administratieve verplichtingen** voor 
 Misschien dat deze **voorbeelden** jou ook **inspireren**.
 
 * [Welke vergunningen heb je nodig om een foodtruck te starten?](https://www.xerius.be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/foodtruck)
-* [Freelancer, hoe begin je eraan?](https://www.xerius.be/blog/freelancer-worden-hoe-begin-je-eraan/)
+* [Freelancer, hoe begin je eraan?](https://www.xerius.be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/freelancer)
 * [Hoe start je een webshop?](https://www.xerius.be/blog/een-webshop-starten-hoe-begin-ik-eraan/)
