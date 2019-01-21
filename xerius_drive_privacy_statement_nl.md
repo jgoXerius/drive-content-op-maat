@@ -11,7 +11,7 @@ Wanneer je Xerius Drive gebruikt, deel je heel wat gegevens met ons. We hebben d
 
 Xerius Drive is een tool die ontwikkeld is en ter beschikking gesteld wordt door Xerius Ondernemingsloket (ondernemingsnummer 0860.109.391 – Brouwersvliet 4, 2000 Antwerpen). De tool helpt je bij de verschillende stappen in het opstartproces van een onderneming. De gegevens die je ter beschikking stelt, worden verwerkt door Xerius Ondernemingsloket op een manier die je redelijkerwijs mag verwachten.
 
-Sommige stappen in het proces laten je toe simulaties van sociale bijdragen of aanvullende verzekeringen te laten maken. Deze diensten zijn diensten van Xerius Sociaal Verzekeringsfonds (ondernemingsnummer 0410.682.657), Xerius Voorzorgfonds (ondernemingsnummer 0410.958.217) en Xerius Onderlinge Verzekeringsvereniging (ondernemingsnummer 0454.283.959). Deze organisaties kunnen hierdoor ook over jouw gegevens beschikken.
+Sommige stappen in het proces laten je toe simulaties van sociale bijdragen of aanvullende verzekeringen te laten maken. Deze diensten zijn diensten van Xerius Sociaal Verzekeringsfonds (ondernemingsnummer 0410.682.657), Xerius Contact (ondernemingsnummer 0410.958.217) en Xerius Onderlinge Verzekeringsvereniging (ondernemingsnummer 0454.283.959). Deze organisaties kunnen hierdoor ook over jouw gegevens beschikken.
 
 Alle bovengenoemde organisaties van de Xerius-groep gaan zorgzaam om met jouw gegevens. Ze geven of verkopen je persoonsgegevens nooit door aan derde organisaties zonder jouw toestemming. De verschillende organisaties van de Xerius-groep worden verder samen aangeduid als Xerius.
 
