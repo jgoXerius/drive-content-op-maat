@@ -1,6 +1,7 @@
 ---
 title: Keuze ondernemingsvorm (NL) - onbepaald
 date: 2017-11-07 23:43:33 +0000
+
 ---
 ## Eenmanszaak of vennootschap?
 
@@ -11,4 +12,4 @@ Meer weten over eenmanszaken en vennootschappen?
 * [Welke ondernemingsvormen zijn er?](http://www.xerius.be/zelfstandigen/start-eigen-zaak/juridische-vorm/)
 * Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er)
 * [Wat is het verschil tussen een eenmanszaak en een vennootschap?](http://www.xerius.be/blog/zelfstandige-worden-eenmanszaak-vennootschap/)
-* Een vennootschap oprichten. [Hoe begin je daaraan?](https://www.xerius.be/oprichting-vennootschap) En wat moet er in [de statuten](https://www.xerius.be/blog/wat-moet-in-statuten-staan) staan?
+* Een vennootschap oprichten. [Hoe begin je daaraan?](https://www.xerius.be/nl-be/zelfstandig-worden/een-vennootschap/vennootschap-oprichten) En wat moet er in [de statuten](https://www.xerius.be/blog/wat-moet-in-statuten-staan) staan?
