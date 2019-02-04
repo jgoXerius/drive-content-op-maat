@@ -1,6 +1,7 @@
 ---
 title: Kostenplaat wizard BTW-info (NL)
 date: 2017-12-04 12:00:00 +0000
+
 ---
 _Als zelfstandige haal je inkomsten uit je activiteiten, maar je doet ook uitgaven en investeringen. Die kosten geef je net als je omzet jaarlijks door in je belastingaangifte. Je effectieve beroepskosten mag je aftrekken van je inkomsten: hoe lager je inkomsten, hoe minder belastingen je erop betaalt. Hoe je dat best aanpakt, zal je boekhouder je vertellen._
 
@@ -12,11 +13,11 @@ De btw (‘belasting over de toegevoegde waarde’) is een vorm van belasting di
 
 Vanwege je btw-neutraliteit, moet je telkens **kostenbedragen zonder btw** van je inkomsten aftrekken. Ter info: onderhandel je met een leverancier over zijn prijzen, ga er dan altijd van uit dat dat zijn prijzen exclusief btw zullen zijn.
 
-* Meer weten? <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Hier doen we de basics van btw helder uit de doeken.</a>
+* Meer weten? [Hier doen we de basics van btw helder uit de doeken.](www.xerius.be/btw-voor-starters-wat-moet-je-weten)
 
 2\.     Zo ga je van inclusief naar exclusief btw (en omgekeerd)
 
-Er bestaan verschillende btw-tarieven: 21% (standaard), 12%, 6% of 0%. Welk btw-tarief je moet hanteren, wordt bepaald door wat je verkoopt (<a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">lees hier meer</a>). Beschik je enkel over kostenbedragen inclusief btw, dan zal je die moeten omzetten naar bedragen zonder btw en daarbij met deze btw-tarieven rekening houden. Zo maak je de rekensom:
+Er bestaan verschillende btw-tarieven: 21% (standaard), 12%, 6% of 0%. Welk btw-tarief je moet hanteren, wordt bepaald door wat je verkoopt ([lees hier meer](www.xerius.be/btw-voor-starters-wat-moet-je-weten)). Beschik je enkel over kostenbedragen inclusief btw, dan zal je die moeten omzetten naar bedragen zonder btw en daarbij met deze btw-tarieven rekening houden. Zo maak je de rekensom:
 
 * Bedrag incl. btw (bv. 100 euro) naar bedrag excl. btw (bij 21% btw):  
   **100 euro : 1,21 = 82,65 euro als bedrag excl. btw** (btw-bedrag is dan 17,35 euro)
@@ -35,4 +36,4 @@ Als je omzet minder dan 25.000 euro (excl. btw) bedraagt, dan kan je als zelfsta
 
 Keerzijde van de medaille: de btw op je eigen aankopen kan je niet recupereren, die moet je dus in dit geval effectief betalen. Bijgevolg moet je voor je aftrekbare kosten hier **de bedragen inclusief btw** hanteren.
 
-* <a href="https://www.xerius.be/btw-voor-starters-wat-moet-je-weten" target="_blank">Lees hier meer over btw-vrijstellingsregeling en btw-aangifte</a>.
+* [Lees hier meer over btw-vrijstellingsregeling en btw-aangifte](www.xerius.be/btw-voor-starters-wat-moet-je-weten).
