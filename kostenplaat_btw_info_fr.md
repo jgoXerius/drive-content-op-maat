@@ -15,7 +15,7 @@ En raison de votre neutralité TVA, vous devez toujours déduire les **frais hor
 
 2\.     Voilà comment passer d’un montant TVA comprise à un montant hors TVA (et inversement)
 
-Il existe plusieurs taux de TVA : 21 % (standard), 12 %, 6 % ou 0 %. Le taux de TVA que vous devez utiliser est déterminé par la nature de vos produits ([en savoir plus](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/la-tva-pour-les-debutants)). Si vous disposez uniquement des frais TVA comprise, vous devez alors convertir ceux-ci en montant hors TVA. Pour ce faire, vous devez tenir compte des taux de TVA. Voici le calcul à effectuer :
+Il existe plusieurs taux de TVA : 21 % (standard), 12 %, 6 % ou 0 %. Le taux de TVA que vous devez utiliser est déterminé par la nature de vos produits ([en savoir plus](https://www.xerius.be/fr-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/btw-voor-starters)). Si vous disposez uniquement des frais TVA comprise, vous devez alors convertir ceux-ci en montant hors TVA. Pour ce faire, vous devez tenir compte des taux de TVA. Voici le calcul à effectuer :
 
 * Montant TVA comprise (par ex. 100 euros) en montant hors TVA (21 % de TVA) :           **100 euros : 1,21 = 82,65 euros de montant hors TVA** (la TVA s’élève donc à 17,35 euros)
 * Montant TVA comprise (par ex. 100 euros) en montant hors TVA (12 % de TVA) :
@@ -35,4 +35,4 @@ Si votre chiffre d’affaires est inférieur à 25.000 euros (hors TVA), vous p
 
 L’inconvénient est que vous ne pouvez pas récupérer la TVA sur vos propres achats, vous devez dès lors la payer. Par conséquent, vous pouvez utiliser **les montants TVA comprise pour vos frais déductibles**.
 
-* [Obtenez davantage d’informations sur le régime de la franchise TVA et la déclaration TVA.](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/la-tva-pour-les-debutants)
+* [Obtenez davantage d’informations sur le régime de la franchise TVA et la déclaration TVA.](https://www.xerius.be/fr-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/btw-voor-starters)
