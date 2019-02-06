@@ -11,7 +11,7 @@ N’oubliez donc pas de prendre en compte certaines **obligations administrative
 
 Peut-être pourrions-nous vous aider grâce aux **conseils** suivants :
 
-* Dans le cadre de l’inscription de votre entreprise à la Banque-Carrefour des Entreprises (BCE), vos activités  sont exprimées par les **codes** **NACE**. [Découvrez ici en quoi consistent précisément les codes NACE](https://www.xerius.be/codes-nacebel-pour-enregistrer-vos-activites-a-la-bce).
+* Dans le cadre de l’inscription de votre entreprise à la Banque-Carrefour des Entreprises (BCE), vos activités  sont exprimées par les **codes** **NACE**. [Découvrez ici en quoi consistent précisément les codes NACE.](https://www.xerius.be/fr-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/nacebel)
 * [Pourquoi est-il impératif d’enregistrer des données correctes à la BCE ?](http://blog.xerius.be/independants/entrer-des-donnees-dentreprise-correctes-a-la-bce-un-imperatif)
 * [Connaissances de gestion de base](https://www.xerius.be/fr-be/je-demarre/entreprise-personne-physique/gestion-connaissances-professionnelles) et [connaissance professionnelle](https://www.xerius.be/fr-be/je-demarre/entreprise-personne-physique/gestion-connaissances-professionnelles), appelées **capacités entrepreneuriales** : à quelle réglementation devez-vous répondre pour démarrer une entreprise ?
 * [Avez-vous besoin d’un numéro de TVA pour exercer vos activités ?](https://www.xerius.be/fr-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/btw-voor-starters)
