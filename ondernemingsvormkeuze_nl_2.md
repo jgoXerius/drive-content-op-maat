@@ -1,6 +1,7 @@
 ---
 title: Keuze ondernemingsvorm (NL) - Vennootschap
 date: 2017-11-07 23:43:33 +0000
+
 ---
 ## Een vennootschap starten
 
@@ -8,7 +9,6 @@ Je hebt de [pro’s en contra’s](https://www.xerius.be/blog/zelfstandige-worde
 
 Meer informatie over het starten van een vennootschap lees je in volgende artikels:
 
-* [Welke vennootschapsvormen zijn er?](http://www.xerius.be/zelfstandigen/start-eigen-zaak/juridische-vorm/)
 * Het vennootschapsrecht wordt hervormd. [Wat gaat er veranderen?](https://www.xerius.be/blog/hervorming-van-het-vennootschapsrecht-wat-verandert-er)
 * Een vennootschap oprichten. [Hoe begin je daaraan?](http://www.xerius.be/oprichting-vennootschap)
 * [En wat moet er in de statuten staan?](https://www.xerius.be/blog/wat-moet-in-statuten-staan)
