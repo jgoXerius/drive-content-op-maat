@@ -11,4 +11,4 @@ Vous souhaitez obtenir davantage d’informations sur les entreprises personne p
 
 * Une réforme du droit des sociétés est en cours. [Quels sont les changements ?](https://blog.xerius.be/debutant/reforme-du-droit-des-societes-quels-changements)
 * [Quelle  est la différence entre une entreprise personne physique et une société ?](http://blog.xerius.be/debutant/entreprise-en-personne-physique-ou-societe)
-* Constituer une société [Par où commencer ?](https://www.xerius.be/fr/independants/demarrez-votre-entreprise/constitution-de-la-societe/) Et que doivent contenir [les statuts](https://blog.xerius.be/debutant/que-doivent-contenir-les-statuts-de-ma-societe) ?
+* Constituer une société. [Par où commencer ?](https://www.xerius.be/fr-be/je-demarre/societe/constituer-societe) Et que doivent contenir [les statuts](https://blog.xerius.be/debutant/que-doivent-contenir-les-statuts-de-ma-societe) ?
