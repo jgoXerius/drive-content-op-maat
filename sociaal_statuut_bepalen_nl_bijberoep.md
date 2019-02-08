@@ -1,6 +1,7 @@
 ---
 title: Sociaal Statuut Bepalen - Bijberoep (NL)
 date: 2018-01-12 00:00:00 +0000
+
 ---
 ## Aansluiten in bijberoep
 
@@ -11,7 +12,7 @@ Heb je een heel laag inkomen? Dan betaal je in bijberoep geen sociale bijdragen.
 Lees ook:
 
 * [Waarom je als zelfstandige in bijberoep sociale bijdragen betaalt.](http://blog.xerius.be/zelfstandigen/waarom-zelfstandige-in-bijberoep-sociale-bijdragen )
-* [Wat het kost om een onderneming in bijberoep te starten.](https://www.xerius.be/blog/wat-kost-een-bijberoep)
+* [Wat het kost om een onderneming in bijberoep te starten.](https://www.xerius.be/nl-be/drive/sociaal-statuut/bijberoep/kosten)
 
 Enkele bijzondere situaties:
 
