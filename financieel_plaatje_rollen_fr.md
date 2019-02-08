@@ -1,6 +1,7 @@
 ---
 title: FINANCIEEL PLAATJE - INFORMATIE EN TIPS (FR)
 date: 2017-12-21 00:00:00 +0000
+
 ---
 ## INFORMATIONS ET CONSEILS
 
@@ -8,4 +9,4 @@ date: 2017-12-21 00:00:00 +0000
 * Vous souhaitez davantage de conseils ?
   * [Quelles sont les dépenses considérées comme frais professionnels ?](https://blog.xerius.be/debutant/frais-deduire-independant)
   * [Combien coûte un comptable ?](https://blog.xerius.be/debutant/combien-coute-un-comptable)
-  * [Apprendre à démystifier le vocabulaire de votre comptable.](https://www.xerius.be/glossaire)
+  * [Apprendre à démystifier le vocabulaire de votre comptable.](https://www.xerius.be/fr-be/drive/ondernemingsvorm/ondernemingsvorm-onbepaald/begrippen)
