@@ -1,6 +1,7 @@
 ---
 title: Kostenplaat Wie LoonkostInformatie (NL)
-date: 2017-12-18 01:00:00 +0100
+date: 2017-12-18 00:00:00 +0000
+
 ---
 ## Loonkosten
 
@@ -10,7 +11,7 @@ Toch is het belangrijk dat je weet hoe die loonkost is samengesteld.
 
 Zo bereken je de loonkost van een werknemer :
 
----
+***
 
 **Nettoloon werknemer**
 
@@ -24,10 +25,10 @@ Zo bereken je de loonkost van een werknemer :
 
 = **Totale loonkost**
 
----
+***
 
 Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [meer bepaald de doelgroepvermindering ](https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/structuralreduction_targetgroupreductions/firstengagments.html#h21 )(eerste werknemer, 55+ werknemers,...).
 
 Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon).
 
-Voor een concrete berekening van de kostprijs van een eerste werknemer kan je terecht bij onze partnerorganisatie [SD Worx](https://www.sdworx.be/nl-be/startende-ondernemers/aanbod/diensten/personeel-in-dienst-nemen).
+Voor een concrete berekening van de kostprijs van een eerste werknemer kan je terecht bij onze partnerorganisatie [SD Worx](https://www.sdworx.be/nl-be/blog/verlonen/eerste-aanwerving).
