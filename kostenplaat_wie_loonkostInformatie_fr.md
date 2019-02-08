@@ -31,4 +31,4 @@ En engageant certains groupes de travailleurs, vous pouvez obtenir des réductio
 
 N’oubliez pas non plus le **pécule de vacances** (= 92 % du salaire mensuel brut) et la **prime de fin d’année** (= salaire mensuel brut).
 
-Adressez-vous à notre partenaire [**SD Worx**](https://www.sdworx.be/fr-be/blog/remuneration/premiere-embauche) pour obtenir un calcul concret du coût d’un premier engagement.
+Adressez-vous à notre partenaire **SD Worx** pour obtenir un calcul concret du coût d’un premier engagement.
