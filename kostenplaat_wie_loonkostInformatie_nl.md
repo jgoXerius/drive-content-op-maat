@@ -31,4 +31,4 @@ Bij het aanwerven van bepaalde groepen werknemers kan je kortingen krijgen, [me
 
 Hou ook rekening met het **jaarlijks vakantiegeld** (=92% van het bruto maandloon) en de **eindejaarspremie** ( = brutomaandloon).
 
-Voor een concrete berekening van de kostprijs van een eerste werknemer kan je terecht bij onze partnerorganisatie [SD Worx](https://www.sdworx.be/nl-be/blog/verlonen/eerste-aanwerving).
+Voor een concrete berekening van de kostprijs van een eerste werknemer kan je terecht bij onze partnerorganisatie **SD Worx**.
