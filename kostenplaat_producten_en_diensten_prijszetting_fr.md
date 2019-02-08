@@ -1,6 +1,7 @@
 ---
 title: Kostenplaat producten en diensten prijszetting (FR)
 date: 2018-01-05 16:11:00 +0000
+
 ---
 ## Chiffre d’affaires = **prix** x quantité
 
@@ -16,4 +17,4 @@ Vous souhaitez obtenir davantage d’informations ?
 
 * Quelle méthode vous convient le mieux [pour fixer vos tarifs](https://blog.xerius.be/debutant/fixer-ses-tarifs-quelle-methode-vous-convient-le-mieux) ?
 * Une stratégie de [tarification bien réfléchie pour les starters](http://blog.xerius.be/debutant/lean-pricing).
-* Comment fixer vos [tarifs d’indépendant](https://blog.xerius.be/debutant/cinq-%C3%A9tapes-pour-fixer-ses-tarifs-dind%C3%A9pendant) ?
+* Comment fixer vos [tarifs d’indépendant](https://www.xerius.be/fr-be/drive/financieel/producten-en-diensten-prijszetting/freelance-tarief) ?
