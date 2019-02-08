@@ -1,6 +1,7 @@
 ---
 title: Kostenplaat Wie LoonkostInformatie (FR)
 date: 2017-12-18 00:00:00 +0000
+
 ---
 **Coût salarial**
 
@@ -10,7 +11,7 @@ Cependant, il est important que vous sachiez la composition du coût salarial.
 
 Vous pouvez calculer le coût salarial d’un salarié comme suit :
 
----
+***
 
 **Salaire net du salarié**
 
@@ -24,10 +25,10 @@ Vous pouvez calculer le coût salarial d’un salarié comme suit :
 
 = **Coût salarial**
 
----
+***
 
 En engageant certains groupes de travailleurs, vous pouvez obtenir des réductions, [notamment les réductions groupe-cible ](https://www.socialsecurity.be/employer/instructions/dmfa/fr/latest/instructions/deductions/structuralreduction_targetgroupreductions/firstengagments.html#h21)(premier engagement, travailleurs âgés de plus de 55 ans...).
 
 N’oubliez pas non plus le **pécule de vacances** (= 92 % du salaire mensuel brut) et la **prime de fin d’année** (= salaire mensuel brut).
 
-Adressez-vous à notre partenaire [SD Worx](https://www.sdworx.be/fr-be/entrepreneurs-debutants/offre/services/engager-du-personnel) pour obtenir un calcul concret du coût d’un premier engagement.
+Adressez-vous à notre partenaire [SD Worx](https://www.sdworx.be/fr-be/blog/remuneration/premiere-embauche) pour obtenir un calcul concret du coût d’un premier engagement.
