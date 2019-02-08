@@ -11,7 +11,7 @@ La TVA (taxe sur la valeur ajoutée) est une forme de taxe qui est payée par le
 
 En raison de votre neutralité TVA, vous devez toujours déduire les **frais hors TVA** de vos revenus. Pour information : lorsque vous négociez les prix avec un fournisseur, partez toujours du principe que ses tarifs s’entendent hors TVA.
 
-* [Vous souhaitez obtenir davantage d’informations ?]()
+* [Vous souhaitez obtenir davantage d’informations ?](https://www.xerius.be/fr-be/drive/activiteiten/simulatie-activiteiten-uitvoeren-nl/btw-voor-starters)
 
 2\.     Voilà comment passer d’un montant TVA comprise à un montant hors TVA (et inversement)
 
