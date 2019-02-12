@@ -3,15 +3,15 @@ title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Onbepaald
 date: 2017-12-27 00:00:00 +0000
 
 ---
-<h3>Eenmanszaak</h3>
-
+<h3> Eenmanszaak </h3>  
+  
 <br/>
 
 Als **eenmanszaak** is je winst gelijk aan je loon. Hierop word je belast in de personenbelasting. Hieronder geven we schematisch weer hoe dit precies in zijn werk gaat.
 
 <br/>
 
-<h4>Wat hou ik over?</h4>   
+<h4>Wat hou ik over?</h4>  
 <style>
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
