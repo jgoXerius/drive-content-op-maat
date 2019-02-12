@@ -1,8 +1,9 @@
 ---
 title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (FR) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
+
 ---
-Comment calculer ce qu’il vous reste de votre activité d’indépendant ?
+<h3>Société</h3>
 
 Dans une société, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
 
@@ -12,7 +13,7 @@ Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calc
 
 Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/glossaire#4).
 
-<h4>Société</h4>
+<h4>Ce qui reste pour mon entreprise</h4>
 
 <style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h2,h1,h3{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
 
@@ -39,7 +40,7 @@ Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Gr
     
     <p><strong>Ce qu’il reste à votre société</strong></p>
 
-</div> <h4>Vous</h4>
+</div> <h4>Ce qui reste pour moi</h4>
 
 <div class="netto-box">
 
