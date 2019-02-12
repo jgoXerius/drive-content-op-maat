@@ -17,8 +17,9 @@ Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met
 
 <style>
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
-.netto-box p,h1,h3{margin-left:20px;}
-.netto-box .spacer{position:absolute;left:20px;}
+.netto-box p,h1{margin-left:20px;}
+.netto-box .spacer{position:absolute;left:20px;}  
+h3 {color: #ed8b00;}
 </style>
 
 <div class="netto-box">
@@ -43,7 +44,7 @@ Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met
     
     <p><strong>Wat je vennootschap eraan overhoudt</strong></p>
 
-</div>   
+</div>  
 <h4>Wat hou ik zelf over?</h4>
 
 <div class="netto-box">
