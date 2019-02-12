@@ -78,7 +78,7 @@ Loon? Winst? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze
 
 <h4>Wat houdt mijn vennootschap over?</h4>
 
-<style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h1,h3{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
+<style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h1{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
 
 <div class="netto-box">
 
