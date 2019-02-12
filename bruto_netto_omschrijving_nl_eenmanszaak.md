@@ -9,8 +9,8 @@ Als eenmanszaak is er geen onderscheid tussen je persoonlijk vermogen en dat van
 
 Loon? Winst? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/begrippenlijst#4) bij.
 
-Schematisch ziet dit er zo uit:   
-<h4>Wat hou ik over?</h4>   
+Schematisch ziet dit er zo uit:  
+<h4>Wat hou ik over?</h4>  
 <style>
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
@@ -18,6 +18,8 @@ Schematisch ziet dit er zo uit:
 .netto-box p{margin-left:20px;font-size:20px}
 
 .netto-box .spacer{position:absolute;left:20px;}
+
+h3 {color: #ed8b00;}
 
 </style>
 
