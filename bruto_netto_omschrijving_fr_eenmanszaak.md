@@ -18,6 +18,8 @@ Schématiquement, voici comment cela se présente :
 .netto-box p{margin-left:20px;font-size:20px}
 
 .netto-box .spacer{position:absolute;left:20px;}
+  
+ h3 {color: #ed8b00;}
 
 </style>
 
