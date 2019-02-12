@@ -15,7 +15,8 @@ En **indépendant personne physique**, vos bénéfices sont votre salaire. Vous 
 
 .netto-box p{margin-left:20px;font-size:20px}
 
-.netto-box .spacer{position:absolute;left:20px;}
+.netto-box .spacer{position:absolute;left:20px;}  
+h3 {color: #ed8b00;}
 
 </style>
 
@@ -79,7 +80,7 @@ Salaire ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! G
 
 <h4>Ce qui reste pour mon entreprise</h4>
 
-<style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h2,h1,h3{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
+<style> .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;} .netto-box p,h2,h1{margin-left:20px;} .netto-box .spacer{position:absolute;left:20px;} </style>
 
 <div class="netto-box">
 
