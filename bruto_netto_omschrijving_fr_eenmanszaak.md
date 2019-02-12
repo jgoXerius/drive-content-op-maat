@@ -1,8 +1,9 @@
 ---
 title: FINANCIEEL PLAATJE - Brutto - Netto Omscrijving Eenmanszaak (FR)
 date: 2017-12-27 00:00:00 +0000
+
 ---
-### Comment calculer ce qu’il vous reste de votre activité d’indépendant ?
+<h3>Entreprise personne physique</h3>
 
 En tant qu’entreprise personne physique, votre patrimoine personnel n’est pas distinct de celui de votre entreprise. Le montant qu’il vous reste de votre activité professionnelle, déduction faite de vos frais, est considéré comme un revenu professionnel ou un « salaire ». Voilà pourquoi l’on dit souvent qu’en entreprise personne physique vos bénéfices correspondent à votre salaire. Vous êtes imposé(e) sur ceux-ci à l’impôt des personnes. Globalement, un indépendant avec un chiffre d’affaires moyen ne conserve qu’environ 40-45 % de bénéfice net.
 
@@ -10,7 +11,7 @@ Salaire ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! G
 
 Schématiquement, voici comment cela se présente :
 
-<h4>Entreprise personne physique</h4> <style>
+<h4>Ce qui reste pour moi</h4> <style>
 
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
 
