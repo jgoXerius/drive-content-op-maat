@@ -9,7 +9,7 @@ Als eenmanszaak is er geen onderscheid tussen je persoonlijk vermogen en dat van
 
 Loon? Winst? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/nl-be/drive/ondernemingsvorm/ondernemingsvorm-onbepaald/begrippen) bij.
 
-Schematisch ziet dit er zo uit:  test
+Schematisch ziet dit er zo uit:
 <h4>Wat hou ik over?</h4>  
 <style>
 
