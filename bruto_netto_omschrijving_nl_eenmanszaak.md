@@ -16,7 +16,6 @@ Schematisch ziet dit er zo uit:
 .netto-box{position:relative;padding:20px;margin-left:40px;margin:0 auto;background-color:#F0F0F0;}
 
 .netto-box p{margin-left:20px;font-size:20px}
-  
 
 .netto-box .spacer{position:absolute;left:20px;}
 
