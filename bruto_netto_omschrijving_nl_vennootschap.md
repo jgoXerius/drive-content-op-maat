@@ -3,7 +3,6 @@ title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
 
 ---
-
 <h3>Vennootschap</h3>
 
 In een vennootschap is je persoonlijk vermogen gescheiden van het vermogen van de vennootschap. Je keert jezelf een loon uit vanuit de vennootschap. In de personenbelasting word je enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak, waar je op het volledige inkomen van je onderneming belast wordt.
