@@ -3,7 +3,6 @@ title: FINANCIEEL PLAATJE - Brutto - Netto Omscrijving Eenmanszaak (FR)
 date: 2017-12-27 00:00:00 +0000
 
 ---
-
 <h3>Entreprise personne physique</h3>
 
 En tant qu’entreprise personne physique, votre patrimoine personnel n’est pas distinct de celui de votre entreprise. Le montant qu’il vous reste de votre activité professionnelle, déduction faite de vos frais, est considéré comme un revenu professionnel ou un « salaire ». Voilà pourquoi l’on dit souvent qu’en entreprise personne physique vos bénéfices correspondent à votre salaire. Vous êtes imposé(e) sur ceux-ci à l’impôt des personnes. Globalement, un indépendant avec un chiffre d’affaires moyen ne conserve qu’environ 40-45 % de bénéfice net.
