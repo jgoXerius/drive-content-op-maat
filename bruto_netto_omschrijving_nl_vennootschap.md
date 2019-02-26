@@ -3,6 +3,7 @@ title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (NL) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
 
 ---
+
 <h3>Vennootschap</h3>
 
 In een vennootschap is je persoonlijk vermogen gescheiden van het vermogen van de vennootschap. Je keert jezelf een loon uit vanuit de vennootschap. In de personenbelasting word je enkel op dit loon belast. Een belangrijk verschil met een eenmanszaak, waar je op het volledige inkomen van je onderneming belast wordt.
@@ -11,7 +12,7 @@ Is er na het uitkeren van je loon nog winst over, dan blijft die in de vennootsc
 
 Hieronder tonen we je waar je best rekening mee houdt bij je berekening.
 
-Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/begrippenlijst#4) bij.
+Berekening? Loon? Belasting? Dat is spek naar de bek van een **boekhouder**. Met deze informatie ben je beter voorbereid op een eerste gesprek met de boekhouder van jouw keuze. Wil je nog meer indruk maken? Schaaf dan je [begrippen](https://www.xerius.be/nl-be/drive/ondernemingsvorm/ondernemingsvorm-onbepaald/begrippen) bij.
 
 <h4>Wat houdt mijn vennootschap over?</h4>
 
