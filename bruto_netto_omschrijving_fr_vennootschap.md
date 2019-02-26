@@ -3,7 +3,6 @@ title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (FR) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
 
 ---
-
 <h3>Société</h3>
 
 Dans une société, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
