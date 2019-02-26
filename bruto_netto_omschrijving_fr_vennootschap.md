@@ -3,6 +3,7 @@ title: FINANCIEEL PLAATJE - Brutto/Netto Omschrijving (FR) - Vennootschap
 date: 2017-12-27 00:00:00 +0000
 
 ---
+
 <h3>Société</h3>
 
 Dans une société, votre patrimoine personnel est distinct du patrimoine de la société. Vous vous octroyez un salaire qui provient de la société. À l’impôt des personnes, vous êtes imposé sur ce salaire uniquement. Ce système d’imposition varie considérablement de celui de l’entreprise personne physique où vous êtes imposé sur l’ensemble des revenus de votre entreprise.
@@ -11,7 +12,7 @@ S’il reste des bénéfices après le paiement de votre salaire, ceux-ci resten
 
 Ci-dessous, nous vous montrons de quoi vous devriez tenir compte dans votre calcul.
 
-Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/glossaire#4).
+Calcul ? Bénéfice ? Impôts ? Un jeu d’enfant pour un **comptable** ! Grâce à ces informations, vous serez mieux vous préparer à votre premier entretien avec le comptable de votre choix. Vous souhaitez montrer que vous connaissez votre sujet ? N’hésitez pas à parfaire vos [notions](https://www.xerius.be/fr-be/drive/ondernemingsvorm/ondernemingsvorm-onbepaald/begrippen).
 
 <h4>Ce qui reste pour mon entreprise</h4>
 
