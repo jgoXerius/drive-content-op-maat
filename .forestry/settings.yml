@@ -10,7 +10,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: upload
+upload_dir: uploads
 public_path: https://app.forestry.io/sites/ckfgevllcw05bq/body-media/uploads
 front_matter_path: https://app.forestry.io/sites/ckfgevllcw05bq/media//uploads
 use_front_matter_path: false
