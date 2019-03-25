@@ -6,4 +6,4 @@ fields:
   name: tekstveld
   label: tekstveld
 pages:
-- businessplan_info_nl.html
+- businessplan_info_nl-md.html
