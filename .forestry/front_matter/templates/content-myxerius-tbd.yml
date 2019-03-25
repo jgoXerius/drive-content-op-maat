@@ -5,5 +5,3 @@ fields:
 - type: text
   name: tekstveld
   label: tekstveld
-pages:
-- Businessplan_info_nl.html
